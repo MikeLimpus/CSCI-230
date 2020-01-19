@@ -7,28 +7,25 @@ public class Problem1 {
 	 *  iterative  and  a recursive solution
 	 */
 		private static int digitsIterative() { 
-		int foo = 0;
-		int bar = 1; 	//Don't wanna multi by 0
+		int foo = 1;											//Don't wanna multi by 0
+		int bar = 0; 									
 		int fee = 0;
 		Scanner input = new Scanner(System.in);
-		String n = input.nextLine(); //Input the "integer as a string"
-		int[] digits = new int[n.length()]; //create an array of ints for each digit
-		for (int i = 0; i < n.length(); i++) { //Cast each "digit" as an integer
+		String n = input.nextLine(); 							//Input the "integer as a string"
+		int[] digits = new int[n.length()]; 					//create an array of ints for each digit
+		for (int i = 0; i < n.length(); i++) { 					//Cast each "digit" as an integer
 			digits[i] = Character.getNumericValue(n.charAt(i)); //Grab char from string, convert char to in
 		}	//We now have an array of digits corresponding to our string
-		for (int i = 0; i < digits.length; i++) 
+		for (int i = 0; i < digits.length; i++) 				//Multiply all the digits
 			foo = foo * digits[i];
-		for (int i = 0; i < digits.length; i++)
+		for (int i = 0; i < digits.length; i++)					//Add all the digits 
 			bar = bar + digits[i];
 		fee = foo - bar; 
-		return foo;
+		return fee;
 		
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Please input an integer: ");
 		System.out.println(digitsIterative()); 
-		
 	}
-
 }
