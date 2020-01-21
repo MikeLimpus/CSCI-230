@@ -15,12 +15,13 @@ public class Problem1 {
 		int[] digits = new int[n.length()]; 					//create an array of ints for each digit
 		for (int i = 0; i < n.length(); i++) { 					//Cast each "digit" as an integer
 			digits[i] = Character.getNumericValue(n.charAt(i)); //Grab char from string, convert char to in
-		}	//We now have an array of digits corresponding to our string
+		}														//We now have an array of digits corresponding to our string
 		for (int i = 0; i < digits.length; i++) 				//Multiply all the digits
 			foo = foo * digits[i];
 		for (int i = 0; i < digits.length; i++)					//Add all the digits 
 			bar = bar + digits[i];
 		fee = foo - bar; 
+		input.close();
 		return fee;
 		
 	}

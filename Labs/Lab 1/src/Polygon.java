@@ -9,21 +9,25 @@
 * types, input their geometric dimensions, and then output their area and perimeter.
 */
 
-public class Polygon {                          //Should have named this 'Polygon' 
-    static int sides = 0;                       //Each instance should have its own count of sides 
+public class Polygon {   
+    public Polygon() {}
+    public Polygon(int numSides) {
+        numSides = sides;
+    }                        
+    public int sides = 0;                       //Each instance should have its own count of sides 
     public static void main(String args[]){
         System.out.println("Polygons");
     }
 }
 class Triangle extends Polygon {
-
+    super.sides = 3;
 }   
 
 class IsoscelesTriangle extends Triangle {
 
 }
 
-class EquilateralTriangle extends Triangle {
+class EquilateralTriangle extends Triangle   {
 
 }
 
