@@ -8,49 +8,41 @@
 * user interface, which allows users to create polygons of the various
 * types, input their geometric dimensions, and then output their area and perimeter.
 */
-
-public class Polygon {   
-    public Polygon() {}
-    public Polygon(int numSides) {
-        numSides = sides;
-    }                        
-    public int sides = 0;                       //Each instance should have its own count of sides 
+package lab3;
+public class PolygonLab {   
     public static void main(String args[]){
         System.out.println("Polygons");
     }
 }
-class Triangle extends Polygon {
-    super.sides = 3;
-}   
 
-class IsoscelesTriangle extends Triangle {
 
-}
 
-class EquilateralTriangle extends Triangle   {
+
+class IsoscelesTriangle implements Triangle  {
 
 }
 
-class Quadrilateral extends Polygon {
+class EquilateralTriangle implements Triangle   {
 
 }
 
-class Square extends Quadrilateral {
+class Quadrilateral implements Polygon {
 
 }
 
-class Rectangle extends Quadrilateral {
+class Square implements Quadrilateral {
 
 }
 
-class Pentagon extends Polygon {
+class Rectangle implements Quadrilateral {
 
 }
 
-class Hexagon extends Polygon {
+class Pentagon implements Polygon {
 
 }
 
-class Octagon extends Polygon {
+class Hexagon implements Polygon {
 
 }
+
