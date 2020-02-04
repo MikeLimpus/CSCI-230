@@ -13,7 +13,21 @@ public class Postfix {
         System.out.println("Please enter an equation in postfix notation (i.e. 5 2 3 * + 18 3 / +) with spaces");
         String equation = in.nextLine();
         for (int i = 0; i < equation.toCharArray().length(); i++;) {
-            switch
+            switch (equation[i]) {
+                case '+': 
+                    addition();
+                    break; 
+                case '-':
+                    subtract();
+                    break;
+                case '*':
+                    multiply();
+                    break;
+                case '/':
+                    divide();
+                    break;
+                default:
+                    break;
         }
 
 
