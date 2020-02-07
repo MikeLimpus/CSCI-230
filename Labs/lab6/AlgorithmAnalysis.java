@@ -7,6 +7,7 @@ public class AlgorithmAnalysis {
         int n = x.length;
         double[] a = new double[n]; // filled with zeros by default
         for (int j=0; j < n; j++) {
+            System.out.println(j);
         double total = 0; // begin computing x[0] + ... + x[j]
         for (int i=0; i <= j; i++)
         total += x[i];
@@ -25,6 +26,7 @@ public class AlgorithmAnalysis {
         double[] a = new double[n]; // filled with zeros by default
         double total = 0; // compute prefix sum as x[0] + x[1] + ...
         for (int j=0; j < n; j++) {
+            System.out.println(j);
         total += x[j]; // update prefix sum to include x[j]
         a[j] = total / (j+1); // compute average based on current sum
         }
