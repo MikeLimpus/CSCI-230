@@ -12,8 +12,9 @@ public class Postfix {
     public static void main(String args[]) {
         System.out.println("Please enter an equation in postfix notation (i.e. 5 2 3 * + 18 3 / +) with spaces");
         String equation = in.nextLine();
-        for (int i = 0; i < equation.toCharArray().length(); i++;) {
-            switch (equation[i]) {
+        char eArray[] = equation.toCharArray();    // TODO change this to ArrayList
+        for (int i = 0; i < equation.toCharArray().length; i++) {
+            switch (eArray[i]) {
                 case '+': 
                     addition();
                     break; 
