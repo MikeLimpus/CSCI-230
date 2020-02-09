@@ -10,7 +10,7 @@
  */
 package projects.calculator;
 
-public class Arithmetic<T extends Number>{
+public final class Arithmetic<T extends Number>{
 
     // Methods
 
@@ -138,6 +138,7 @@ public class Arithmetic<T extends Number>{
     }
 
     public static void main(String args[]) {
+        // TODO Delete this
         System.out.println("I work");
     }
 
