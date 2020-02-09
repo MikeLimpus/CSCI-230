@@ -12,7 +12,7 @@
  * Exponentiation and Square Root and the use of parentheses for grouping. 
  * Your program should thrown an exception if the expression is invalid. 
  */
-package projects.calculator;
+package calculator;
 public class CalcDriver {
      // TODO Write a driver program
 
