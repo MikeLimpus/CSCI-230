@@ -1,5 +1,5 @@
 /**
- * @author Jonathan Limpus
+ * Jonathan Limpus
  * Project 1: Parsing Strings/Calculator
  * CSCI-230
  * 
@@ -10,7 +10,7 @@
  */
 package projects.calculator;
 
-public final class Arithmetic<T extends Number>{
+public final class Arithmetic{
 
     // Methods
 
@@ -19,16 +19,16 @@ public final class Arithmetic<T extends Number>{
      * adds them together, returning number value
      * @param operand1
      * @param operand2
-     * @return T sum
+     * @return Double sum
      */
-    public T addition(T operand1, T operand2){
+    public Double addition(Double operand1, Double operand2){
         Double sum = 0.0;
         try {
-            sum = (Double)operand1 + (Double)operand2;
+            sum = operand1 + operand2;
         } catch (NumberFormatException e) {
             System.out.println("Error in addition: Input not a number");
         } 
-        return (T)sum;
+        return sum;
     }
 
     /**
@@ -36,16 +36,16 @@ public final class Arithmetic<T extends Number>{
      * subtracts the first from the second, returning number value
      * @param operand1
      * @param operand2
-     * @return T difference
+     * @return Double difference
      */
-    public T subtraction(T operand1, T operand2){
+    public Double subtraction(Double operand1, Double operand2){
         Double difference = 0.0;
         try {
-            difference = (Double)operand1 + (Double)operand2;
+            difference = operand1 + operand2;
         } catch (NumberFormatException e) {
             System.out.println("Error in subtraction: Input not a number");
         } 
-        return (T)difference;
+        return difference;
     }
 
      /**
@@ -56,14 +56,14 @@ public final class Arithmetic<T extends Number>{
      * @return T product
      */
 
-    public T multiplication(T operand1, T operand2) {
+    public Double multiplication(Double operand1, Double operand2) {
         Double product = 0.0;
         try {
-            product = (Double)operand1 * (Double)operand2;
+            product = operand1 * operand2;
         } catch (NumberFormatException e) {
             System.out.println("Error in multiplication: Input not a number");
         }
-        return (T)product;
+        return product;
     }
 
     /**
@@ -71,17 +71,17 @@ public final class Arithmetic<T extends Number>{
      * divides the first and the second, returning number value
      * @param operand1
      * @param operand2
-     * @return T quotient
+     * @return Double quotient
      */
 
-    public T division(T operand1, T operand2) {
+    public Double division(Double operand1, Double operand2) {
         Double quotient = 0.0;
         try {
-            quotient = (Double)operand1 / (Double)operand2;
+            quotient = operand1 / operand2;
         } catch (NumberFormatException e) {
             System.out.println("Error in division: Input not a number");
         }
-        return (T)quotient;
+        return quotient;
     }
 
     /**
@@ -89,17 +89,17 @@ public final class Arithmetic<T extends Number>{
      * mods the first and the second, returning number value
      * @param operand1
      * @param operand2
-     * @return T modulus
+     * @return Double modulus
      */
     
-    public T modulo(T operand1, T operand2) {
+    public Double modulo(Double operand1, Double operand2) {
         Double modulus = 0.0;
         try {
-            modulus = (Double)operand1 % (Double)operand2;
+            modulus = operand1 % operand2;
         } catch (NumberFormatException e) {
             System.out.println("Error in modulo: Input not a number");
         }
-        return (T)modulus;
+        return modulus;
     }
 
     /**
@@ -108,33 +108,38 @@ public final class Arithmetic<T extends Number>{
      * second, returning number value
      * @param operand1
      * @param operand2
-     * @return T product
+     * @return Double product
      */
     
-    public T exponentiation(T operand1, T operand2) {
+    public Double exponentiation(Double operand1, Double operand2) {
         Double product = 0.0;
         try {
-            product = Math.pow((Double)operand1, (Double)operand2);
+            product = Math.pow(operand1, operand2);
         } catch (NumberFormatException e) {
             System.out.println("Error in exponentiation: Input not a number");
         }
-        return (T)product;
+        return product;
     }
 
     /**
      * Accepts a single variable to calculate its square root 
      * @param operand1
-     * @return T root
+     * @return Double root
      */
     
-    public T squareRoot(T operand) {
+    public Double squareRoot(Double operand) {
         Double root = 0.0;
-        try {
-            root = Math.sqrt((Double)operand);
-        } catch (NumberFormatException e) {
-            System.out.println("Error in square root: Input not a number");
+        if (root > 0) {
+            try {
+                root = Math.sqrt(operand);
+            } catch (NumberFormatException e) {
+                System.out.println("Error in square root: Input not a number");
+            }
         }
-        return (T)root;
+        else {
+            System.out.println("Operand must be greater than 0");
+        }
+        return root;
     }
 
     public static void main(String args[]) {
