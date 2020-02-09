@@ -17,9 +17,13 @@ public class CalculatorInterface {
     static Scanner input = new Scanner(System.in);  // We should only need a single instace of this
 
     // Define operators 
-    public static char plus = '+',  minus = '-', times = '*', divide = '/', mod = '%', power = '^', sqrt2 = ')';
-    public static String sqrt = "sqrt(";
-
+    //public static char plus = '+',  minus = '-', times = '*', divide = '/', mod = '%', power = '^', sqrt2 = ')';
+    //public static String sqrt = "sqrt(";
+    public enum Operators {
+        PLUS, MINUS, TIMES, DIVIDE, MOD, POWER, SQRT, SQRT2;
+        public static char plus = '+',  minus = '-', times = '*', divide = '/', mod = '%', power = '^', sqrt2 = ')';
+        public static String sqrt = "sqrt(";
+    }
     
 
 
@@ -51,13 +55,36 @@ public class CalculatorInterface {
     public Double parser(String userInput) {
         // Local variables
         Double result = 0.0;
-
+        Integer parCount1 = 0, parCount2 = 0;    // Used to check for syntax errors
 
         // First pass: Check for syntax errors
         for(int i = 0; i < userInput.length(); i++) {
-            if (userInput.charAt(i) == '('){
-                
+            /*
+             * Iterate through the input to check if the number of open 
+             * and close parentheseis is equal, if not, syntax error
+             */
+            switch (userInput.charAt(i)) {
+                case '(':
+                    parCount1++;
+                    break;
+                case ')':
+                    parCount2++;
+                    break;
+                case '+':
+                case '-':
+                case '*':
+                case '/':
+                case '^':
+                default:
+                    break;
             }
+
+            /*if (userInput.charAt(i) == '(')
+                parCount1++;
+            else if(userInput.charAt(i) == ')')
+                parCount2++;
+            else
+                continue;*/
 
         }
         for(int i = 0; i < userInput.length(); i++) {
