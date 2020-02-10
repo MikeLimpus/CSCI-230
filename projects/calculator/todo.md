@@ -1,6 +1,8 @@
 # TODO
 -- Create input method/input validation
+
 -- Parse strings to recognize paranthesis
+
 -- Test cases for integer and floating point number types
 
 
