@@ -1,12 +1,14 @@
 package projects.calculator;
+// This is how you parse a string to create substrings between spaces
+import java.util.Arrays;
 public class Test{
     public static void main(String args[]) {
-        String numbers = "10 + 2.0";
-        Double array[] = new Double[numbers.length()];
-        for (int i = 0; i < numbers.length(); i++) {
-            //array[i] = Double.parseDouble(numbers.charAt());
-        } 
-        //System.out.println(array);
-        System.out.println(Double.parseDouble(numbers));
-    } 
+        String foo = "4 + 1";
+        String bar[] = foo.split(" ");
+
+        System.out.println(foo);
+        System.out.println(Arrays.toString(bar));
+
+
+    }
 }
