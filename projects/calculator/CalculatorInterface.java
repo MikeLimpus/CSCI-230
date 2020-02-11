@@ -9,7 +9,9 @@
 
 package projects.calculator;
 
-import java.util.Scanner;           
+import java.util.Scanner;
+import java.util.ArrayDeque;
+import java.util.Deque;                             // The Deque class will be used to implement a stack      
 
 public class CalculatorInterface {
 
@@ -52,8 +54,44 @@ public class CalculatorInterface {
         Double result = 0.0;
         Integer parCount1 = 0, parCount2 = 0;           // Used to check for syntax errors
         Boolean syntaxError = false; 
-        char inputArray[] = userInput.toCharArray();    // Convert input to a char array
-        // First pass: Check for syntax errors
+        Boolean switcher = false;
+
+        // These stacks will hold the operators and operands, respectively
+        Deque<Character> operStack = new ArrayDeque<Character>();
+        Deque<Double> numberStack = new ArrayDeque<Double>();
+
+        // Create a string array full of subtrings for easier handling
+        String seperatedInput[] = userInput.split(" ");
+        // Create a simple char array for syntax checking
+        char inputArray[] = userInput.toCharArray();
+
+        // Seperate the numbers and characters
+        for(int i = 0; i < seperatedInput.length; i++) {
+            switcher = !switcher;                                       // Starts as true
+            // This will only execute every other iteration, in order to seperate numbers from operators
+            if (switcher) {                                             
+                Double temp = 0.0;                                      // Placeholder needed due to parseDouble method
+                Double stackValue = temp.parseDouble(seperatedInput[i]);// Convert string to Double
+                numberStack.push(stackValue);                           // Add Double value to stack
+            }
+        }
+        switcher = true;                                                // Set the toggle switch to off to read the other half of the array
+
+        // Add the operators to the operStack
+        for(int i = 0; i < seperatedInput.length; i++) {
+            switcher = !switcher;                                       // Starts as false
+            
+            if (switcher) {
+                // Push characters to operStack
+                Character stackChar = seperatedInput[i].charAt(0);      // operators should be strings of length 1, and always at the index after operands
+                operStack.push(stackChar);
+            }
+        }
+
+        System.out.println(numberStack);
+        System.out.println(operStack);
+
+        // Count left and right parenthesis
         for(int i = 0; i < inputArray.length; i++) {
             /*
              * Iterate through the input to check if the number of open 
@@ -66,27 +104,15 @@ public class CalculatorInterface {
                 case ')':
                     parCount2++;
                     break;
-                // Check if there are two operators in a row
-                case '+':
-                case '-':
-                case '*':
-                case '/':
-                case '^':
-                    if(isAnOperator(inputArray, i ) == true)
-                        syntaxError = true;
-                    break;
-                default:
-                    break;
             }
         }
+
+        // Check if there are the same amount of open and close parenthesis
         if (parCount1 != parCount2)
             syntaxError = true;
-        if(syntaxError == true)
+        if (syntaxError == true)
             System.out.println("Syntax Error");
-        for(int i = 0; i < userInput.length(); i++) {
-            // Second Pass: Check and resolve parenthesis
-            
-        }
+
         System.out.println("parCount1 " + parCount1);
         System.out.println("parCount2 " + parCount2);
         // Third Pass: Finish Calculations
