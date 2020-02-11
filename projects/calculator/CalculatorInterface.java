@@ -65,6 +65,7 @@ public class CalculatorInterface {
         // Create a simple char array for syntax checking
         char inputArray[] = userInput.toCharArray();
 
+        if 
         // Seperate the numbers and characters
         for(int i = 0; i < seperatedInput.length; i++) {
             switcher = !switcher;                                       // Starts as true
@@ -87,6 +88,7 @@ public class CalculatorInterface {
                 operStack.push(stackChar);
             }
         }
+
 
         System.out.println(numberStack);
         System.out.println(operStack);
@@ -116,6 +118,24 @@ public class CalculatorInterface {
         System.out.println("parCount1 " + parCount1);
         System.out.println("parCount2 " + parCount2);
         // Third Pass: Finish Calculations
+        for (int i = 0; i < inputArray.length, i++) {
+            switch(operStack.pop()) {
+                case: '+'
+                    result += Arithmetic.addition(numberStack.pop(), numberStack.pop());
+                    break;
+                case: '-'
+                    result -= Arithmetic.subtraction(numberStack.pop(), numberStack.pop());
+                    break;
+                case '*':
+                    result *= Arithmetic.multiplication(numberStack.pop(), numberStack.pop());
+                    break;
+                case '/':
+                    result /= Arithmetic.division(numberStack.pop(), numberStack.pop());
+                    break;
+                case '^':
+                    result = Arithmetic.exponentiation(numberStack.pop(), numberStack.pop());   //TODO Fix this
+            }
+        }
         return result;
     }
 
