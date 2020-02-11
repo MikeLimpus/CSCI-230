@@ -12,67 +12,50 @@ public class Postfix {
     static Scanner in = new Scanner(System.in);
 
 
-    private Double postfixSolve(String equation) {
+    private static Double postfixSolve(String equation) {
         Double result = 0.0;
         // Seperate the input string into substrings for each operator/operand
         String[] sepEquation = equation.split(" ");
         //Deque<String> operStack = new ArrayDeque<String>;
-        List<String> operList = new ArrayList<String>(Arrays.asList(sepEquation));
+        ArrayList<String> operList = new ArrayList<String>(Arrays.asList(sepEquation));
         System.out.println(operList.toString());
-        /*for (int i = 0; i < sepEquation.length; i++) {
-            // Fill a stack with all operators and operands
-            operStack.push(sepEquation[i]);
-        }
-        System.out.println(operStack);*/
-        while(operList.size() > 0)
+        while(operList.size() > 0) {
+            Double temp1 = 0.0;
+            Double temp2 = 0.0;
             for (int i = 0; i < operList.size(); i++) {
-                switch (operList.get(i)) {
-                    case "+":   
-                        Double temp1 = Double.parseDouble(operList.get(i - 1));
-                        Double temp2 = Double.parseDouble(operList.get(i - 2));
-                
-                        result += (temp1 + temp2);
-                        // Remove the elements that have been operated on and resize the list
-                        operList.remove(i);
-                        operList.remove(i - 1);
-                        operList.remove(i - 2);
-                        operList.trimToSize();
-                        break;
-                    case "-":
-                    Double temp1 = Double.parseDouble(operList.get(i - 1));
-                    Double temp2 = Double.parseDouble(operList.get(i - 2));
+                System.out.println("index i = " + i);
 
-                        result -= (temp1 - temp2);
-                        // Remove the elements that have been operated on and resize the list
-                        operList.remove(i);
-                        operList.remove(i - 1);
-                        operList.remove(i - 2);
-                        operList.trimToSize();
-                        break;
-                    case "*":
-                    Double temp1 = Double.parseDouble(operList.get(i - 1));
-                    Double temp2 = Double.parseDouble(operList.get(i - 2));
-
-                        result *= (temp1 * temp2);
-                        // Remove the elements that have been operated on and resize the list
-                        operList.remove(i);
-                        operList.remove(i - 1);
-                        operList.remove(i - 2);
-                        operList.trimToSize();
-                    case "/":
-                    Double temp1 = Double.parseDouble(operList.get(i - 1));
-                    Double temp2 = Double.parseDouble(operList.get(i - 2));
-
-                        result /= (temp1 / temp2);
-                        // Remove the elements that have been operated on and resize the list
-                        operList.remove(i);
-                        operList.remove(i - 1);
-                        operList.remove(i - 2);
-                        operList.trimToSize();                        
-                    default:
-                        break;
+                if ("+-*/".contains(operList.get(i))) {
+                    temp1 = Double.parseDouble(operList.get(i - 1));
+                    temp2 = Double.parseDouble(operList.get(i - 2));
+                    
+                    switch (operList.get(i)) {
+                        case "+":   
+                            result += (temp1 + temp2);
+                            break;
+                        case "-":
+                            result -= (temp1 - temp2);
+                            break;
+                        case "*":
+                            result *= (temp1 * temp2);
+                            break;
+                        case "/":
+                            result /= (temp1 / temp2);
+                            break;                        
+                        default:
+                            System.out.println("index i = " + i);
+                            break;    
+                    }
+                    // Remove the elements that have been operated on and resize the list
+                    operList.remove(i);
+                    operList.remove(i - 1);
+                    operList.remove(i - 2);
+                    operList.trimToSize();
                 }
+                
+                
             }
+        }
         return result;
     }
 
@@ -80,7 +63,7 @@ public class Postfix {
     public static void main(String args[]) {
         System.out.println("Please enter an equation in postfix notation (i.e. 5 2 3 * + 18 3 / +) with spaces");
         String equation = in.nextLine();
-        result = postfixSolve(equation);
+        Double result = postfixSolve(equation);
         System.out.println("The answer is: " + result);
 
     }
