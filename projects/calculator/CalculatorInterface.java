@@ -89,7 +89,7 @@ public class CalculatorInterface {
             }
         }
 
-
+ 
         System.out.println(numberStack);
         System.out.println(operStack);
 

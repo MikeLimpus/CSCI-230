@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 import java.util.Arrays;
 import java.util.ArrayList;
+
 public class Postfix {
     // Instance Variables 
     // Define all operators as special characters 
@@ -17,10 +18,10 @@ public class Postfix {
         Double result = 0.0;
         // Seperate the input string into substrings for each operator/operand
         String[] sepEquation = equation.split(" ");
-        // Convert this array into an arraylist for easier operations
+        // Convert this array into an arraylist for easier operations 
         ArrayList<String> operList = new ArrayList<String>(Arrays.asList(sepEquation));
-        
-        // Keep operating until the list is empty
+        Integer initialSize = operList.size();
+        System.out.println(operList.toString());
         while(operList.size() > 0) {
             Double temp1 = 0.0;
             Double temp2 = 0.0;
@@ -38,13 +39,15 @@ public class Postfix {
                             result -= (temp1 - temp2);
                             break;
                         case "*":
+                            // If multiplication is first, the inital value of 0 must be changed in order to facilitate the calculation
+                            if (operList.size() == initialSize) 
+                                result = 1.0; 
                             result *= (temp1 * temp2);
                             break;
                         case "/":
                             result /= (temp1 / temp2);
                             break;                        
                         default:
-                            System.out.println("index i = " + i);
                             break;    
                     }
                     // Remove the elements that have been operated on and resize the list
@@ -68,7 +71,4 @@ public class Postfix {
         System.out.println("The answer is: " + result);
 
     }
-
-
-
 }
