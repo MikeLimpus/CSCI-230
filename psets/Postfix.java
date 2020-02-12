@@ -4,7 +4,9 @@ package psets;
 // Imports
 import java.util.Scanner;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.ArrayList;
+
 public class Postfix {
     // Instance Variables 
     // Define all operators as special characters 
@@ -16,15 +18,13 @@ public class Postfix {
         Double result = 0.0;
         // Seperate the input string into substrings for each operator/operand
         String[] sepEquation = equation.split(" ");
-        //Deque<String> operStack = new ArrayDeque<String>;
         ArrayList<String> operList = new ArrayList<String>(Arrays.asList(sepEquation));
+        Integer initialSize = operList.size();
         System.out.println(operList.toString());
         while(operList.size() > 0) {
             Double temp1 = 0.0;
             Double temp2 = 0.0;
             for (int i = 0; i < operList.size(); i++) {
-                System.out.println("index i = " + i);
-
                 if ("+-*/".contains(operList.get(i))) {
                     temp1 = Double.parseDouble(operList.get(i - 1));
                     temp2 = Double.parseDouble(operList.get(i - 2));
@@ -37,13 +37,14 @@ public class Postfix {
                             result -= (temp1 - temp2);
                             break;
                         case "*":
+                            if (operList.size() == initialSize) 
+                                result = 1.0; 
                             result *= (temp1 * temp2);
                             break;
                         case "/":
                             result /= (temp1 / temp2);
                             break;                        
                         default:
-                            System.out.println("index i = " + i);
                             break;    
                     }
                     // Remove the elements that have been operated on and resize the list
@@ -67,7 +68,4 @@ public class Postfix {
         System.out.println("The answer is: " + result);
 
     }
-
-
-
 }
