@@ -10,9 +10,9 @@
 package projects.calculator;
 
 import java.util.Scanner;
-import java.util.ArrayDeque;
-import java.util.Deque;                             // The Deque class will be used to implement a stack      
-
+import java.util.ArrayList;
+import java.util.Arrays;
+  
 public class CalculatorInterface {
 
     // Instance variables
@@ -20,9 +20,7 @@ public class CalculatorInterface {
 
     // Define operators 
     public static String sqrt = "sqrt(";
-
-    
-
+  
 
     // Methods 
 
@@ -36,15 +34,14 @@ public class CalculatorInterface {
     public static void userInterface() {
         // Local variables
         String userInput;
-
         // Explain the rules to the user
        // System.out.println("Calculator\n Valid operators are:\n\t+ for addition\n\t- for subtraction");
        // System.out.println("\t* for multiplication\n\t/ for division\n\t% for modulo\n\t^ for exponentiation");
-       // System.out.println("\tsqrt(n) for square root, where n is a non-negative real number");
+       // System.out.println("\tsqrt(n) [without spaces] for square root, where n is a non-negative real number");
         System.out.println("Please seperate operators and operands by a space\n");
 
         userInput = input.nextLine();
-        parser(userInput);
+        System.out.println("The answer is: " + parser(userInput));
         System.out.println(userInput.length());
 
     }
@@ -57,58 +54,68 @@ public class CalculatorInterface {
         Boolean switcher = false;
 
         // These stacks will hold the operators and operands, respectively
-        Deque<Character> operStack = new ArrayDeque<Character>();
-        Deque<Double> numberStack = new ArrayDeque<Double>();
+        // Deque<Character> operStack = new ArrayDeque<Character>();
+        // Deque<Double> numberStack = new ArrayDeque<Double>();
 
         // Create a string array full of subtrings for easier handling
         String seperatedInput[] = userInput.split(" ");
-        // Create a simple char array for syntax checking
-        char inputArray[] = userInput.toCharArray();
+        // Covert into an arrayList
+        ArrayList<String> operList = new ArrayList<String>(Arrays.asList(seperatedInput));
+        Integer initialSize = operList.size();          // Initial size will be referenced in multiplication to prevent * 0
 
-        if 
-        // Seperate the numbers and characters
-        for(int i = 0; i < seperatedInput.length; i++) {
-            switcher = !switcher;                                       // Starts as true
-            // This will only execute every other iteration, in order to seperate numbers from operators
-            if (switcher) {                                             
-                Double temp = 0.0;                                      // Placeholder needed due to parseDouble method
-                Double stackValue = temp.parseDouble(seperatedInput[i]);// Convert string to Double
-                numberStack.push(stackValue);                           // Add Double value to stack
+        // Move parenthesis to front of list
+        /*for(int i = 0; i < operList.size(); i++) {
+            if (operList.get(i) == "(") {
+                do {
+                    int newIndex = 0;
+                    int currentIndex = i;
+                    operList.add(newIndex, operList.get(currentIndex));
+                    i++;
+                    operList.remove(currentIndex + 1);
+                    operList.trimToSize();
+                } while(operList.get(i) != ")");
             }
-        }
-        switcher = true;                                                // Set the toggle switch to off to read the other half of the array
+            System.out.println("operList: " + operList);
+        }*/
 
-        // Add the operators to the operStack
-        for(int i = 0; i < seperatedInput.length; i++) {
-            switcher = !switcher;                                       // Starts as false
-            
-            if (switcher) {
-                // Push characters to operStack
-                Character stackChar = seperatedInput[i].charAt(0);      // operators should be strings of length 1, and always at the index after operands
-                operStack.push(stackChar);
+        // Main function loop - continue so long as there are elements in the list
+        //while(operList.size() > 0) {
+            //Double operand1 = 0.0, operand2 = 0.0;
+            for(int i = 0; i < operList.size(); i++) {
+                
+                // Enter this switch if an operator is found
+                if ("+-*/^()".contains(operList.get(i))) {
+                    Double operand1 = Double.parseDouble(operList.get(i - 1));
+                    Double operand2 = Double.parseDouble(operList.get(i + 1));
+
+                    switch (operList.get(i)) {
+                        case "+":
+                            result += (operand1 + operand2);
+                            break;
+                        case "-":
+                            result += (operand1 - operand2);
+                            break;
+                        case "*":
+                            result += (operand1 * operand2);
+                            break;
+                        case "/":
+                            result += (operand1 / operand2);
+                            break;
+                        case "^":
+                        result += Math.pow(operand1, operand2);
+                        default:
+                            break;
+                    } 
+                }
+                if (operList.get(i).contains(sqrt)) {
+                    String sqrString = operList.get(i).substring(operList.get(i).indexOf("(")+1,operList.get(i).indexOf(")"));
+                    Double sqrOperand = Double.parseDouble(sqrString);
+                    result += Math.sqrt(sqrOperand);
+                    //Double sqrtOperand = Double.parseDouble(operList.get(i));
+                }
             }
-        }
 
- 
-        System.out.println(numberStack);
-        System.out.println(operStack);
-
-        // Count left and right parenthesis
-        for(int i = 0; i < inputArray.length; i++) {
-            /*
-             * Iterate through the input to check if the number of open 
-             * and close parentheseis is equal, if not, syntax error
-             */
-            switch (inputArray[i]) {
-                case '(':
-                    parCount1++;
-                    break;
-                case ')':
-                    parCount2++;
-                    break;
-            }
-        }
-
+        
         // Check if there are the same amount of open and close parenthesis
         if (parCount1 != parCount2)
             syntaxError = true;
@@ -117,25 +124,7 @@ public class CalculatorInterface {
 
         System.out.println("parCount1 " + parCount1);
         System.out.println("parCount2 " + parCount2);
-        // Third Pass: Finish Calculations
-        for (int i = 0; i < inputArray.length, i++) {
-            switch(operStack.pop()) {
-                case: '+'
-                    result += Arithmetic.addition(numberStack.pop(), numberStack.pop());
-                    break;
-                case: '-'
-                    result -= Arithmetic.subtraction(numberStack.pop(), numberStack.pop());
-                    break;
-                case '*':
-                    result *= Arithmetic.multiplication(numberStack.pop(), numberStack.pop());
-                    break;
-                case '/':
-                    result /= Arithmetic.division(numberStack.pop(), numberStack.pop());
-                    break;
-                case '^':
-                    result = Arithmetic.exponentiation(numberStack.pop(), numberStack.pop());   //TODO Fix this
-            }
-        }
+        
         return result;
     }
 

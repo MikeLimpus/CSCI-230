@@ -21,7 +21,7 @@ public final class Arithmetic{
      * @param operand2
      * @return Double sum
      */
-    public Double addition(Double operand1, Double operand2){
+    public static Double addition(Double operand1, Double operand2){
         Double sum = 0.0;
         try {
             sum = operand1 + operand2;
@@ -38,7 +38,7 @@ public final class Arithmetic{
      * @param operand2
      * @return Double difference
      */
-    public Double subtraction(Double operand1, Double operand2){
+    public static Double subtraction(Double operand1, Double operand2){
         Double difference = 0.0;
         try {
             difference = operand1 + operand2;
@@ -56,7 +56,7 @@ public final class Arithmetic{
      * @return T product
      */
 
-    public Double multiplication(Double operand1, Double operand2) {
+    public static Double multiplication(Double operand1, Double operand2) {
         Double product = 0.0;
         try {
             product = operand1 * operand2;
@@ -74,7 +74,7 @@ public final class Arithmetic{
      * @return Double quotient
      */
 
-    public Double division(Double operand1, Double operand2) {
+    public static Double division(Double operand1, Double operand2) {
         Double quotient = 0.0;
         try {
             quotient = operand1 / operand2;
@@ -92,7 +92,7 @@ public final class Arithmetic{
      * @return Double modulus
      */
     
-    public Double modulo(Double operand1, Double operand2) {
+    public static Double modulo(Double operand1, Double operand2) {
         Double modulus = 0.0;
         try {
             modulus = operand1 % operand2;
@@ -111,7 +111,7 @@ public final class Arithmetic{
      * @return Double product
      */
     
-    public Double exponentiation(Double operand1, Double operand2) {
+    public static Double exponentiation(Double operand1, Double operand2) {
         Double product = 0.0;
         try {
             product = Math.pow(operand1, operand2);
@@ -127,7 +127,7 @@ public final class Arithmetic{
      * @return Double root
      */
     
-    public Double squareRoot(Double operand) {
+    public static Double squareRoot(Double operand) {
         Double root = 0.0;
         if (root > 0) {
             try {
