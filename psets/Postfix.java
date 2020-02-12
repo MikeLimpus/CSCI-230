@@ -4,7 +4,8 @@ package psets;
 // Imports
 import java.util.Scanner;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.ArrayList;
 public class Postfix {
     // Instance Variables 
     // Define all operators as special characters 
@@ -16,15 +17,15 @@ public class Postfix {
         Double result = 0.0;
         // Seperate the input string into substrings for each operator/operand
         String[] sepEquation = equation.split(" ");
-        //Deque<String> operStack = new ArrayDeque<String>;
+        // Convert this array into an arraylist for easier operations
         ArrayList<String> operList = new ArrayList<String>(Arrays.asList(sepEquation));
-        System.out.println(operList.toString());
+        
+        // Keep operating until the list is empty
         while(operList.size() > 0) {
             Double temp1 = 0.0;
             Double temp2 = 0.0;
             for (int i = 0; i < operList.size(); i++) {
-                System.out.println("index i = " + i);
-
+                // Only enter this switch if the character is an operator
                 if ("+-*/".contains(operList.get(i))) {
                     temp1 = Double.parseDouble(operList.get(i - 1));
                     temp2 = Double.parseDouble(operList.get(i - 2));
