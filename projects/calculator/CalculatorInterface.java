@@ -51,82 +51,121 @@ public class CalculatorInterface {
         Double result = 0.0;
         Integer parCount1 = 0, parCount2 = 0;           // Used to check for syntax errors
         Boolean syntaxError = false; 
-        Boolean switcher = false;
+       
+        // Covert userInput into an arrayList, seperated by spaces. This operList will be our main data structure that will be operated on.
+        ArrayList<String> operList = new ArrayList<String>(Arrays.asList(userInput.split(" ")));
 
-        // These stacks will hold the operators and operands, respectively
-        // Deque<Character> operStack = new ArrayDeque<Character>();
-        // Deque<Double> numberStack = new ArrayDeque<Double>();
-
-        // Create a string array full of subtrings for easier handling
-        String seperatedInput[] = userInput.split(" ");
-        // Covert into an arrayList
-        ArrayList<String> operList = new ArrayList<String>(Arrays.asList(seperatedInput));
-        Integer initialSize = operList.size();          // Initial size will be referenced in multiplication to prevent * 0
-
-        // Move parenthesis to front of list
-        /*for(int i = 0; i < operList.size(); i++) {
-            if (operList.get(i) == "(") {
-                do {
-                    int newIndex = 0;
-                    int currentIndex = i;
-                    operList.add(newIndex, operList.get(currentIndex));
-                    i++;
-                    operList.remove(currentIndex + 1);
-                    operList.trimToSize();
-                } while(operList.get(i) != ")");
-            }
-            System.out.println("operList: " + operList);
-        }*/
-
-        // Main function loop - continue so long as there are elements in the list
-        //while(operList.size() > 0) {
-            //Double operand1 = 0.0, operand2 = 0.0;
-            for(int i = 0; i < operList.size(); i++) {
-                
-                // Enter this switch if an operator is found
-                if ("+-*/^()".contains(operList.get(i))) {
-                    Double operand1 = Double.parseDouble(operList.get(i - 1));
-                    Double operand2 = Double.parseDouble(operList.get(i + 1));
-
-                    switch (operList.get(i)) {
-                        case "+":
-                            result += (operand1 + operand2);
-                            break;
-                        case "-":
-                            result += (operand1 - operand2);
-                            break;
-                        case "*":
-                            result += (operand1 * operand2);
-                            break;
-                        case "/":
-                            result += (operand1 / operand2);
-                            break;
-                        case "^":
-                        result += Math.pow(operand1, operand2);
-                        default:
-                            break;
+        /*
+         * Main algorithm: In order to implement the correct order of operations, or 'PEMDAS', the input will be
+         * iterated through 4 times. First, to resolve paranthesis, then exponentiation (including the square root n^(1/2)).
+         * Then, the simple operations of multiplication/division/modulus and finally addition/subtraction. This will be accomplished using 
+         * 4 for-loops, each containing a switch statement for each operation that will handle calculations
+         */
+        while (syntaxError == false && operList.size() > 1) {
+            // First, resolve paranthesis by moving each element to the front
+            for (int i = 0; i < operList.size(); i++) {
+                // If the current element is an open paranthesis
+                if("(".contains(operList.get(i))) {
+                    if (operList.contains(")")) {
+                        for(int j = 0; j < operList.size(); j++) {
+                            if (operList.get(i + j) == ")")
+                                break;
+                            else
+                                operList.set(j, operList.get(i + j));
+                        }
+                    }
+                    else {
+                        System.out.println("Syntax Error: Mismatched Parenthesis");
+                        syntaxError = true;
+                        break;
                     } 
                 }
-                if (operList.get(i).contains(sqrt)) {
-                    String sqrString = operList.get(i).substring(operList.get(i).indexOf("(")+1,operList.get(i).indexOf(")"));
-                    Double sqrOperand = Double.parseDouble(sqrString);
-                    result += Math.sqrt(sqrOperand);
-                    //Double sqrtOperand = Double.parseDouble(operList.get(i));
-                }
+                
+
+
             }
 
+            // Now, resolve all square roots and exponents
+            for (int i = 0; i < operList.size(); i++) {
+                if (operList.get(i).contains(sqrt)) {
+                    String sqrString = operList.get(i).substring(operList.get(i).indexOf("(")+1,operList.get(i).indexOf(")"));
+                    Double squareRoot = Math.sqrt(Double.parseDouble(sqrString));
+                    operList.set(i, squareRoot.toString());
+                }
+            }
+                // Main function loop - continue so long as there are elements in the list
+            //while(operList.size() > 0) 
+                //Double operand1 = 0.0, operand2 = 0.0;
+                for(int i = 0; i < operList.size(); i++) {
+                //do { 
+                    //int i = 0;   
+                    // Enter this switch if an operator is found
+                    if ("+-*/^()".contains(operList.get(i))) {
+                        Double operand1 = Double.parseDouble(operList.get(i - 1));
+                        Double operand2 = Double.parseDouble(operList.get(i + 1));
+                        result = operand1;
+                        switch (operList.get(i)) {
+                            case "+":
+                                result += operand2;
+                                break;
+                            case "-":
+                                result -= operand2;
+                                break;
+                            case "*":
+                                result *= operand2;
+                                break;
+                            case "/":
+                                result /= operand2;
+                                break;
+                            case "^":
+                                result = Math.pow(result, operand2);
+                                break;
+                            case "(":
+                                parCount1++;
+                                break;
+                            case ")":
+                                parCount2++;
+                                break;
+                        // case "sqrt":
+                                
+                            default:
+                                break;
+                        }
+                        moveToFront(operList, i, result);
+                        i--;
+                    }
+                    if (operList.get(i).contains(sqrt)) {
+                        String sqrString = operList.get(i).substring(operList.get(i).indexOf("(")+1,operList.get(i).indexOf(")"));
+                        Double sqrOperand = Double.parseDouble(sqrString);
+                        result = Math.sqrt(sqrOperand);
+                    }
+                    
+                    System.out.println(operList + " At -> " + operList.get(i) + " Or index:" + i);
+                    System.out.println(result);
+                    
+                } //while(operList.size() > 2);
+            }
         
-        // Check if there are the same amount of open and close parenthesis
+/*         // Check if there are the same amount of open and close parenthesis
         if (parCount1 != parCount2)
             syntaxError = true;
         if (syntaxError == true)
             System.out.println("Syntax Error");
 
-        System.out.println("parCount1 " + parCount1);
-        System.out.println("parCount2 " + parCount2);
-        
+        //System.out.println("parCount1 " + parCount1);
+        //System.out.println("parCount2 " + parCount2);
+         */
         return result;
     }
+    
+    private static void moveToFront(ArrayList<String> inputList, int i, Double value) {
+        int index = i;
+        inputList.remove(index);
+        inputList.add(index, value.toString());
+        inputList.remove(index + 1);
+        inputList.remove(index - 1);
+    }
+
 
     /**
      * isAnOperator: checks an element of a char array to see if it is one of the defined 
