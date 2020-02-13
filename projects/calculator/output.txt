@@ -1,0 +1,35 @@
+~$ java projects.calculator.CalcDriver 
+Calculator
+ Valid operators are:
+	+ for addition
+	- for subtraction
+	* for multiplication
+	/ for division
+	% for modulo
+	^ for exponentiation
+	sqrt(n) [without spaces] for square root, where n is a non-negative real number
+Please seperate parenthesis, operators and operands by a space
+
+sqrt(144) / ( 17 - 5 ) + 2
+sqrt(144) / ( 17 - 5 ) + 2 = 3.0
+Case 1 : Simple addition
+4 + 1
+4 + 1 = 5.0
+Case 2 : Every operation used
+9 + 8 - 7 * 6 / 5 % 4 ^ 3
+9 + 8 - 7 * 6 / 5 % 4 ^ 3 = 8.6
+Case 3 : Parenthesis used
+( 4 + 1 )
+( 4 + 1 ) = 5.0
+Case 4: Parenthesis used in conjunction with exponents
+( 1 + 1 ) ^ 6
+( 1 + 1 ) ^ 6 = 64.0
+Case 5: Square Root of a negative number
+sqrt(-4)
+sqrt(-4) = NaN
+Case 6: Syntax errors
+4 + -
+Error = MULTIPLE OPERATORS
+Syntax error detected
+Aborting...
+4 + - = 0.0
