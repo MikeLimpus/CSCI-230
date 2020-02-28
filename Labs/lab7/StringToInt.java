@@ -12,8 +12,7 @@ public class StringToInt {
             return n.charAt(0).parseInt();
         }
         else {
-            stringToInt(n, index + 1);
-            
+            stringToInt(n, index + 1);   
         }
     }
 }
