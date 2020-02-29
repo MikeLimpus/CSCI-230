@@ -54,16 +54,34 @@ public class RingBuffer {
             return false;
     }
 
-    public void enqueue(Double x) {
-        // add x to end or throw RingBufferException if full
-
+    /**
+     * enqueue - add an item to the array and increment the last index
+     * @return void
+     */
+    public void enqueue(Double x) throws RingBufferException {
+        // Add new element if the array is not full 
+        if(!isFull()) {     
+            ringBufferArray[last] = x;
+            if (last == capacity)
+                last = 0;                            // Wrap around array if the the index reaches the end
+            last++;
+        }
+        // Throw RingBufferException if the buffer is full 
+        else throw new RingBufferException("ERROR ADDING: RingBuffer is full, with capacity: " + capacity);
     }
 
-    public Double dequeue() {
+    public Double dequeue() throws RingBufferException  {
         // Delete and reutrn item from front, throw RingBufferException
         // If empty
+        if (!isEmpty()) {
+            Double temp = ringBufferArray[first];   // Temp variable so we don't lose the deleted data before returning
+            ringBufferArray[first] = null;
+            if (first == capacity)                  // Wrap-around 
+                first = 0; 
+            return temp;
+        }
+        else throw new RingBufferException("ERROR REMOVING: RingBuffer is already empty");
     }
-
     /**
      * peek - return the first element of the buffer without deleting it
      * @return 
