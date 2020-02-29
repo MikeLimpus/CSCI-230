@@ -2,7 +2,7 @@
 
 public class TestStdDraw {
        public static void main(String[] args) {
-           StdDraw.setPenRadius(0.000P5);
+           StdDraw.setPenRadius(0.0005);
            StdDraw.setPenColor(StdDraw.BLUE);
            StdDraw.point(0.5, 0.5);
            StdDraw.setPenColor(StdDraw.MAGENTA);
