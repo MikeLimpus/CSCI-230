@@ -8,7 +8,8 @@
 
 public class GuitarString {
     // Instance Variables 
-    private int samplingRate; 
+    private int samplingRate;
+    private int baseSamplingRate = 44100;
 
     /** 
      * Create a guitar string of the argument frequency, using a sampling rate of 
@@ -16,6 +17,7 @@ public class GuitarString {
      * Where N = ceiling((sampling rate 44100) / frequency) 
      */
     public GuitarString(Double frequency) {
-        
+        int N = (int)Math.ceil((baseSamplingRate / frequency));
+        RingBuffer guitarString = new RingBuffer(N);
     }
 }
