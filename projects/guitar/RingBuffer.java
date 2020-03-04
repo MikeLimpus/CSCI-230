@@ -37,10 +37,7 @@ public class RingBuffer {
      * @return boolean
      */
     public boolean isEmpty() {
-        if (size() == 0)
-            return true;
-        else 
-            return false;
+        return size == 0;
     }
 
     /**
@@ -48,10 +45,7 @@ public class RingBuffer {
      * @return boolean
      */
     public boolean isFull() {
-        if (size() == capacity)
-            return true;
-        else 
-            return false;
+        return size == capacity;
     }
 
     /**
