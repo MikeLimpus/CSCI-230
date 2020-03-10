@@ -13,11 +13,25 @@ public class GuitarString {
 
     /** 
      * Create a guitar string of the argument frequency, using a sampling rate of 
-     * 44,000 by creating a RingBuffer instance of the desired capacity N
-     * Where N = ceiling((sampling rate 44100) / frequency) 
+     * 44,000 by creating a <b>RingBuffer</b> instance of the desired capacity
+     * <i>N</i>, Where <i>N</i> = ceiling((sampling rate 44100) / frequency) 
+     * @param Double frequency
      */
+
     public GuitarString(Double frequency) {
         int N = (int)Math.ceil((baseSamplingRate / frequency));
         RingBuffer guitarString = new RingBuffer(N);
     }
+
+    /**
+     * Creates a guitar string whose size and initial values are given
+     * by the array by creating a <b>RingBuffer</b> of capacity equal to the size of the array, and initializes
+     * the contents of the buffer to the values in the array.
+     * 
+     * @param Double[] init
+     */
+    public GuitarString(Double[] init) {
+
+    }
+
 }
