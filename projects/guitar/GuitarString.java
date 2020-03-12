@@ -31,7 +31,14 @@ public class GuitarString {
      * @param Double[] init
      */
     public GuitarString(Double[] init) {
+        RingBuffer guitarString = new RingBuffer(init.length);
+        try {
+            for(int i = 0; i < init.length; i++) {
+                guitarString.enqueue(init[i]);
+            }
+        } catch (RingBufferException e) {
 
+        }
     }
 
 }
