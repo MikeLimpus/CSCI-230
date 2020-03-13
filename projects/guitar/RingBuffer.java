@@ -5,7 +5,6 @@
  * 
  * RingBuffer - models a ring buffer and the associated methods using a double array with cyclic wrap-around
  */
-
 public class RingBuffer {
     // Global Variables 
     private int capacity; 
@@ -66,7 +65,7 @@ public class RingBuffer {
 
     public Double dequeue() throws RingBufferException  {
         // Delete and reutrn item from front, throw RingBufferException
-        // If empty
+        // If empty 
         if (!isEmpty()) {
             Double temp = ringBufferArray[first];   // Temp variable so we don't lose the deleted data before returning
             ringBufferArray[first] = null;
