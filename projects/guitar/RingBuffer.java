@@ -88,9 +88,13 @@ public class RingBuffer {
     /**
      * Class extending Exception used to handle full and empty Ring Buffer
      */
-    private class RingBufferException extends Exception {
+    public class RingBufferException extends Exception {
         public RingBufferException(String message) {
             super(message);
         }
+    }
+
+    public static void main(String args[]) {
+        System.out.println("RingBuffer");
     }
 }
