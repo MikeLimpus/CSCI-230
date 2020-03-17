@@ -15,12 +15,12 @@ public class RingBuffer {
     // Default Constructor - sets capacity to default value 100 
     public RingBuffer() {
         capacity = 100; 
-        ringBufferArray = new Double[capacity];
+        //ringBufferArray = new Double[capacity];
     }
 
     public RingBuffer(int capacity) {
         this.capacity = capacity;
-        ringBufferArray = new Double[capacity];
+        //ringBufferArray = new Double[capacity];
     }
 
 
