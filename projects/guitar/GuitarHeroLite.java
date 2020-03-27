@@ -16,7 +16,9 @@ public class GuitarHeroLite {
     else if (key == 'c') { stringC.pluck(); }
     }
     // compute the superposition of samples
-    double sample = stringA.sample() + stringC.sample();
+    double a = stringA.sample();    // Is it you?
+    double c = stringC.sample();    // Or you?
+    double sample = a + c;
     // play the sample on standard audio
     StdAudio.play(sample);
     // advance the simulation of each guitar string by one step

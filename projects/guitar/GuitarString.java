@@ -6,28 +6,30 @@
  * GuitarString - Models a vibrating guitar string using the <b>RingBuffer</b> data structure
  */
 
-public class GuitarString extends RingBuffer{
+public class GuitarString extends RingBuffer {
     // Instance Variables
     private int samplingRate;
     private int size;
     static private int timesCalled = 0; // Store the amount of times the method <b>tic</b> was called  
     // Constants defined in Karplus-Strong Algorithm
     private int BASE_SAMPLING_RATE = 44100;
-    private Double ENERGY_DECAY_RATE = 0.994;
+    private double ENERGY_DECAY_RATE = 0.994;
     // RingBuffer object
-    private RingBuffer guitarString = new RingBuffer(size);
+    private RingBuffer guitarString;
     /**
      * Create a guitar string of the argument frequency, using a sampling rate of
      * 44,000 by creating a <b>RingBuffer</b> instance of the desired capacity
      * <i>N</i>, Where <i>N</i> = ceiling((sampling rate 44100) / frequency)
      * 
-     * @param Double frequency
+     * @param double frequency
      */
 
-    public GuitarString(Double frequency) {
+    public GuitarString(double frequency) {
         int N = (int) Math.ceil((BASE_SAMPLING_RATE / frequency));
         System.out.println("DELETE ME: int N = " + N);
         size = N;
+        guitarString = new RingBuffer(N);
+        //System.out.println("DELETE ME: gS size = " + guitarString.size());
     }
 
     /**
@@ -35,12 +37,12 @@ public class GuitarString extends RingBuffer{
      * by creating a <b>RingBuffer</b> of capacity equal to the size of the array,
      * and initializes the contents of the buffer to the values in the array.
      * 
-     * @param Double[] init
+     * @param double[] init
      * @throws RingBufferException
      */
-    public GuitarString(Double[] init) throws RingBufferException {
+    public GuitarString(double[] init) throws RingBufferException {
         size = init.length;
-        //guitarString = new RingBuffer(init.length);
+        guitarString = new RingBuffer(init.length);
         for (int i = 0; i < init.length; i++) {
             if (!guitarString.isFull())
                 guitarString.enqueue(init[i]);
@@ -71,23 +73,26 @@ public class GuitarString extends RingBuffer{
      * @return void
      */
     public void tic() throws RingBufferException {
-        if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
+        //if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
             // Remove the first element, multiply it by 0.994, and add it to the back
             guitarString.enqueue((guitarString.dequeue() * ENERGY_DECAY_RATE));
             timesCalled++; // Update the time
-        }
+       // }
      
-        else throw new RingBufferException("Error: Buffer empty");
+        //else throw new RingBufferException("Error: Buffer empty");
     }
 
     /**
      * sample - returns the current sample by returning the value of the item at the front of
      * the ring buffer.
      * @param none
-     * @return Double
+     * @return double
      */
-    public Double sample() {
-        return guitarString.peek();
+    public double sample() throws RingBufferException {
+        guitarString.print();
+        if (guitarString.getCapacity() != 0)
+            return guitarString.peek();
+        else throw new RingBufferException("Error: Ring Buffer size is " + guitarString.getCapacity());
     }
 
     /**

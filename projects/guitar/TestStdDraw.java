@@ -2,8 +2,8 @@
 
 public class TestStdDraw {
     public static void main(String[] args) {
-        Double baseX = 0.0;
-        Double baseY = 0.5;
+        double baseX = 0.0;
+        double baseY = 0.5;
         for(;;) {
 
             //double randomX = Math.random();
