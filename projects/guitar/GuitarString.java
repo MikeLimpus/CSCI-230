@@ -73,11 +73,15 @@ public class GuitarString extends RingBuffer {
      * @return void
      */
     public void tic() throws RingBufferException {
-        //if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
+        if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
             // Remove the first element, multiply it by 0.994, and add it to the back
             guitarString.enqueue((guitarString.dequeue() * ENERGY_DECAY_RATE));
             timesCalled++; // Update the time
-       // }
+        }
+        else { 
+            guitarString.enqueue(BASE_SAMPLING_RATE * ENERGY_DECAY_RATE);
+            timesCalled++;
+        }
      
         //else throw new RingBufferException("Error: Buffer empty");
     }
