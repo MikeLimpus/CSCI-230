@@ -33,7 +33,7 @@ public class RingBuffer {
      */
     public int size() {
         int size = 0;
-        for (int i = 0; i < capacity; i++) {
+        for (int i = 0; i < ringBufferArray.length; i++) {
             if(ringBufferArray[i] != 0) 
                 size++;
         }
@@ -68,11 +68,11 @@ public class RingBuffer {
      */
     public void enqueue(double x) throws RingBufferException {
         // Add new element if the array is not full 
-        if(ringBufferArray.length != 0) {     
+        if(!isFull()) {     
             ringBufferArray[last] = x;
-            if (last == (capacity + 1))
-                last = 1;                           // Wrap around array if the the index reaches the end
-                last++;                             //last = (last + 1) % ringBufferArray.length;     // 
+/*             if (last == (capacity + 1))
+                last = 1;      */                      // Wrap around array if the the index reaches the end
+            last = (last + 1) % ringBufferArray.length;     // 
             size();                          // Recalculate size
         }
                                     
@@ -81,14 +81,12 @@ public class RingBuffer {
     }
 
     public double dequeue() throws RingBufferException  {
-        // Delete and reutrn item from front, throw RingBufferException
+        // Delete and return item from front, throw RingBufferException
         // If empty 
-        if (ringBufferArray.length != 0) {
+        if (!isEmpty()) {
             double temp = ringBufferArray[first];   // Temp variable so we don't lose the deleted data before returning
             ringBufferArray[first] = 0.0;
-            first++;                                //first = (first + 1) % ringBufferArray.length;     //
-            if (first == capacity)                  // Wrap-around 
-                first = 0; 
+            first = (first + 1) % ringBufferArray.length;     //
             size();                          // Recalculate size
             return temp;
         }
@@ -99,12 +97,19 @@ public class RingBuffer {
      * @return 
      */
     public double peek() throws RingBufferException {
-        System.out.println("DELETE ME: first = " + first);
-        System.out.println("DELETE ME: rBA[first] = " + ringBufferArray[first]);
+        //System.out.println("DELETE ME: first = " + first);
+        //System.out.println("DELETE ME: rBA[first] = " + ringBufferArray[first]);
         if (ringBufferArray.length != 0)
             return ringBufferArray[first];
         else throw new RingBufferException("Error in method peek: RingBuffer is empty");
         // Returns front of list w/o deleting
+    }
+    /**
+     * clearAll - Helper method to remove all elements from a ring buffer if needed
+     */
+    protected void clearAll() throws RingBufferException {
+        while(!isEmpty())
+            this.dequeue();
     }
 
     /**

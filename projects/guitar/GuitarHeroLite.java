@@ -7,6 +7,8 @@ public class GuitarHeroLite {
     double CONCERT_C = CONCERT_A * Math.pow(1.05956, 3.0);
     GuitarString stringA = new GuitarString(CONCERT_A);
     GuitarString stringC = new GuitarString(CONCERT_C);
+    stringA.pluck();
+    stringC.pluck();
     while (true) {
     // check if the user has typed a key; if so, process it
     if (StdDraw.hasNextKeyTyped()) {

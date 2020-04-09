@@ -26,7 +26,7 @@ public class GuitarString extends RingBuffer {
 
     public GuitarString(double frequency) {
         int N = (int) Math.ceil((BASE_SAMPLING_RATE / frequency));
-        System.out.println("DELETE ME: int N = " + N);
+        //System.out.println("DELETE ME: int N = " + N);
         size = N;
         guitarString = new RingBuffer(N);
         //System.out.println("DELETE ME: gS size = " + guitarString.size());
@@ -46,7 +46,7 @@ public class GuitarString extends RingBuffer {
         for (int i = 0; i < init.length; i++) {
             if (!guitarString.isFull())
                 guitarString.enqueue(init[i]);
-            else throw new RingBufferException("Error: Buffer Full");
+            else throw new RingBufferException("Error: Buffer full");
         }
     }
     
@@ -57,10 +57,11 @@ public class GuitarString extends RingBuffer {
      * @throws RingBufferException
      */
     public void pluck() throws RingBufferException {
-        for(int i = 0; i < guitarString.getCapacity(); i++) {
+        guitarString.clearAll();
+        for(int i = 0; i < size - 1; i++) {
             if (!guitarString.isFull()) 
                 // Math.random generates a random double between 0.0 & 1,0, so we must offset this by 0.5 by subtracting
-                guitarString.enqueue((Math.random() - .05));    
+                guitarString.enqueue((Math.random() - 0.5));    
             else throw new RingBufferException("Error: Buffer full");
         }
     }
@@ -75,15 +76,16 @@ public class GuitarString extends RingBuffer {
     public void tic() throws RingBufferException {
         if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
             // Remove the first element, multiply it by 0.994, and add it to the back
-            guitarString.enqueue((guitarString.dequeue() * ENERGY_DECAY_RATE));
+            
+            guitarString.enqueue((averageTwo(guitarString.dequeue(), guitarString.peek())) * ENERGY_DECAY_RATE);
             timesCalled++; // Update the time
         }
-        else { 
+        /* else { 
             guitarString.enqueue(BASE_SAMPLING_RATE * ENERGY_DECAY_RATE);
             timesCalled++;
-        }
+        } */
      
-        //else throw new RingBufferException("Error: Buffer empty");
+        else throw new RingBufferException("Error: Buffer empty");
     }
 
     /**
@@ -93,7 +95,7 @@ public class GuitarString extends RingBuffer {
      * @return double
      */
     public double sample() throws RingBufferException {
-        guitarString.print();
+        //guitarString.print();
         if (guitarString.getCapacity() != 0)
             return guitarString.peek();
         else throw new RingBufferException("Error: Ring Buffer size is " + guitarString.getCapacity());
@@ -107,6 +109,17 @@ public class GuitarString extends RingBuffer {
         return timesCalled;
     }
 
+    public int getSize() {return size;}
+    
+    /**
+     * averageTwo - small helper method to find the average of exactly two doubles, used in the Karplus-Strong update
+     * @param arg1
+     * @param arg2
+     * @return double
+     */
+    private double averageTwo(double arg1, double arg2) {
+        return (arg1 + arg2) / 2;
+    }
     public static void main(String[] args) {
         System.out.println("GuitarString");
     }
