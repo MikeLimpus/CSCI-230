@@ -15,7 +15,7 @@ public class RingBuffer {
 
     // Default Constructor - sets capacity to default value 100 
     public RingBuffer() {
-        int capacity = 100; 
+        capacity = 100; 
         ringBufferArray = new double[capacity];
         size();
     }
@@ -33,7 +33,7 @@ public class RingBuffer {
      */
     public int size() {
         int size = 0;
-        for (int i = 0; i < ringBufferArray.length; i++) {
+        for (int i = 0; i < capacity; i++) {
             if(ringBufferArray[i] != 0) 
                 size++;
         }
@@ -59,7 +59,9 @@ public class RingBuffer {
      * @return boolean
      */
     public boolean isFull() {
-        return size() == capacity;
+        //if(capacity != 0)       // Due to a specific edge case, a ring buffer of capacity zero will crash the program 
+            return size() == capacity;
+        //else return true;       // If a ring buffer has a capacity of 0, it is inherently full at all times
     }
 
     /**
@@ -73,7 +75,7 @@ public class RingBuffer {
 /*             if (last == (capacity + 1))
                 last = 1;      */                      // Wrap around array if the the index reaches the end
             last = (last + 1) % ringBufferArray.length;     // 
-            size();                          // Recalculate size
+            //size();                          // Recalculate size
         }
                                     
         // Throw RingBufferException if the buffer is full 
@@ -87,7 +89,7 @@ public class RingBuffer {
             double temp = ringBufferArray[first];   // Temp variable so we don't lose the deleted data before returning
             ringBufferArray[first] = 0.0;
             first = (first + 1) % ringBufferArray.length;     //
-            size();                          // Recalculate size
+            //size();                          // Recalculate size
             return temp;
         }
         else throw new RingBufferException("ERROR REMOVING: RingBuffer is already empty");
@@ -96,12 +98,12 @@ public class RingBuffer {
      * peek - return the first element of the buffer without deleting it
      * @return 
      */
-    public double peek() throws RingBufferException {
+    public double peek() {
         //System.out.println("DELETE ME: first = " + first);
         //System.out.println("DELETE ME: rBA[first] = " + ringBufferArray[first]);
-        if (ringBufferArray.length != 0)
+        //if (!isEmpty())
             return ringBufferArray[first];
-        else throw new RingBufferException("Error in method peek: RingBuffer is empty");
+        //else throw new RingBufferException("Error in method peek: RingBuffer is empty");
         // Returns front of list w/o deleting
     }
     /**
@@ -109,7 +111,7 @@ public class RingBuffer {
      */
     protected void clearAll() throws RingBufferException {
         while(!isEmpty())
-            this.dequeue();
+            dequeue();
     }
 
     /**

@@ -14,8 +14,8 @@ public class GuitarString extends RingBuffer {
     // Constants defined in Karplus-Strong Algorithm
     private int BASE_SAMPLING_RATE = 44100;
     private double ENERGY_DECAY_RATE = 0.994;
-    // RingBuffer object
-    private RingBuffer guitarString;
+    
+    private RingBuffer guitarString;    // RingBuffer object that represents the guitar string
     /**
      * Create a guitar string of the argument frequency, using a sampling rate of
      * 44,000 by creating a <b>RingBuffer</b> instance of the desired capacity
@@ -24,11 +24,12 @@ public class GuitarString extends RingBuffer {
      * @param double frequency
      */
 
-    public GuitarString(double frequency) {
+    public GuitarString(double frequency) throws RingBufferException {
         int N = (int) Math.ceil((BASE_SAMPLING_RATE / frequency));
         //System.out.println("DELETE ME: int N = " + N);
         size = N;
         guitarString = new RingBuffer(N);
+        //guitarString.enqueue(0.00001);
         //System.out.println("DELETE ME: gS size = " + guitarString.size());
     }
 
@@ -58,7 +59,7 @@ public class GuitarString extends RingBuffer {
      */
     public void pluck() throws RingBufferException {
         guitarString.clearAll();
-        for(int i = 0; i < size - 1; i++) {
+        for(int i = 0; i < guitarString.getCapacity(); i++) {
             if (!guitarString.isFull()) 
                 // Math.random generates a random double between 0.0 & 1,0, so we must offset this by 0.5 by subtracting
                 guitarString.enqueue((Math.random() - 0.5));    
@@ -75,17 +76,12 @@ public class GuitarString extends RingBuffer {
      */
     public void tic() throws RingBufferException {
         if (!guitarString.isEmpty()) { // Remove the first item if the buffer is not empty
-            // Remove the first element, multiply it by 0.994, and add it to the back
-            
+            // Calculate the average of the frist two items, multiply by 0.994, and add it to the back
             guitarString.enqueue((averageTwo(guitarString.dequeue(), guitarString.peek())) * ENERGY_DECAY_RATE);
             timesCalled++; // Update the time
         }
-        /* else { 
-            guitarString.enqueue(BASE_SAMPLING_RATE * ENERGY_DECAY_RATE);
-            timesCalled++;
-        } */
-     
-        else throw new RingBufferException("Error: Buffer empty");
+
+        //else throw new RingBufferException("Error: Buffer empty");
     }
 
     /**
