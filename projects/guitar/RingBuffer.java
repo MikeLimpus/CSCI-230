@@ -32,7 +32,7 @@ public class RingBuffer {
      * @return size
      */
     public int size() {
-        // // TODO Comment
+        // TODO Comment
         // if(last >= first)
         //     return last - first + 1;
         // else 
@@ -43,8 +43,9 @@ public class RingBuffer {
             if(ringBufferArray[i] != 0) 
                 size++;
         }
-        return size;
-        //return Math.abs((last + 1) - first);
+        // return size;
+        //return Math.abs(last - first);
+ 
     }
     // TODO Accessor for capacity variable, used for debug purposes only
     public int getCapacity() {

@@ -14,9 +14,11 @@ public class GuitarHero {
     static double BASE_X = 0.0, BASE_Y = 0.5;
     public static void main(String args[]) throws RingBuffer.RingBufferException {
         double BASE_FREQUENCY = 440.0, BASE_MULTIPLIER = 1.05956, BASE_OFFSET = 24.0;     // Constants to calculate freq
-        double sample = 0.0;
+        double sample = 0.0, lastSample = 0.0;
+        double xPos = BASE_X;
+        double counter = 0.0;
         int sampleIndex = 0;
-        double x_coordinate = 0.0;
+        double delay = 0.0;
         String keyboard = "q2we4r5ty7u8i9op-[=zxdcfvgbnjmk,;/' ";
         char keystroke = 'f';
         GuitarString frequencies[] = new GuitarString[37];  // Create an array of 37 GuitarString objects for each freq
@@ -48,12 +50,12 @@ public class GuitarHero {
                     while(true) {
                          
                         StdDraw.clear();
-                        StdDraw.line(BASE_X, BASE_Y, (BASE_X + xPos), (BASE_Y ));
+                        StdDraw.line(BASE_X, BASE_Y, (BASE_X + 0.01), (BASE_Y));
                         xPos += 0.01;
-                        if(xPos == .99) {
-                            StdDraw.show();
-                            StdDraw.clear();
-                        }
+                        // if(xPos == .99) {
+                        //    StdDraw.show();
+                        //    StdDraw.clear();
+                        // }
                         //StdDraw.point(BASE_X + counter, BASE_Y);
                         counter += 0.01;
                         StdDraw.show();
@@ -86,10 +88,25 @@ public class GuitarHero {
                 for(int i = 0; i < frequencies.length; i++) {
                     sample += frequencies[i].sample();
                 }
-                
+            
             
                 // Play the sample
                 StdAudio.play(sample);
+                
+                
+
+            if(delay % 5 == 0){ 
+
+                StdDraw.line((xPos), (50 + (lastSample)), (xPos + 1), (50 + (sample * 10)));
+                
+                if(xPos == 99){
+                    StdDraw.show();
+                    StdDraw.clear();
+                }
+                xPos = (xPos + 1) % 100;
+                lastSample = sample; 
+            }
+                    
                 
                 // StdDraw.point(x_coordinate, 0.5);
                 // x_coordinate += 0.001;
@@ -99,7 +116,7 @@ public class GuitarHero {
                 for(int i = 0; i < frequencies.length; i++) {
                     frequencies[i].tic();
                 }
-               
+               delay++;
         }
 
     }
@@ -107,9 +124,9 @@ public class GuitarHero {
      * initializeDraw - set all values for the needed StdDraw members
      */
     public static void initializeDraw() {
-        StdDraw.setPenRadius(0.01);
+        StdDraw.setPenRadius(0.005);
         StdDraw.setPenColor(StdDraw.GRAY);
-        //StdDraw.setScale(SCALE_MIN, SCALE_MAX);
+        StdDraw.setScale(SCALE_MIN, SCALE_MAX);
         StdDraw.enableDoubleBuffering();
     }
     
