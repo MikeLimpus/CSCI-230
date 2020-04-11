@@ -17,13 +17,13 @@ public class RingBuffer {
     public RingBuffer() {
         capacity = 100; 
         ringBufferArray = new double[capacity];
-        size();
+        // TODO Put me back size();
     }
 
     public RingBuffer(int cap) {
         capacity = cap;
         ringBufferArray = new double[capacity];
-        size();
+        // TODO Put me back size();
     }    
 
 
@@ -32,12 +32,18 @@ public class RingBuffer {
      * @return size
      */
     public int size() {
-        int size = 0;
-        for (int i = 0; i < capacity; i++) {
-            if(ringBufferArray[i] != 0) 
-                size++;
-        }
-        return size;
+        // // TODO Comment
+        // if(last >= first)
+        //     return last - first + 1;
+        // else 
+        //     return (ringBufferArray.length - first + 1) + (last + 1);
+        // TODO Put me back int size = 0;
+        // for (int i = 0; i < capacity; i++) {
+        //     if(ringBufferArray[i] != 0) 
+        //         size++;
+        // }
+        // return size;
+        return Math.abs((last + 1) - first);
     }
     // TODO Accessor for capacity variable, used for debug purposes only
     public int getCapacity() {
@@ -49,9 +55,9 @@ public class RingBuffer {
      * @return boolean
      */
     public boolean isEmpty() {
-        if (size() == 0) return true;
-        else return false;
-        //return size == 0;
+        // TODO Put me back or kill me if (size() == 0) return true;
+        // else return false;
+        return size() == 0;
     }
 
     /**
@@ -118,8 +124,6 @@ public class RingBuffer {
      * Class extending Exception used to handle full and empty Ring Buffer
      */
     public class RingBufferException extends Exception {
-        //private static final long serialVersionUID = 1L;
-
         public RingBufferException(String message) {
             super(message);
         }

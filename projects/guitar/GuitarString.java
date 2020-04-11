@@ -59,6 +59,7 @@ public class GuitarString extends RingBuffer {
      */
     public void pluck() throws RingBufferException {
         guitarString.clearAll();
+        //for(int i = 0; i < guitarString.size(); i++) {
         for(int i = 0; i < guitarString.getCapacity(); i++) {
             if (!guitarString.isFull()) 
                 // Math.random generates a random double between 0.0 & 1,0, so we must offset this by 0.5 by subtracting
