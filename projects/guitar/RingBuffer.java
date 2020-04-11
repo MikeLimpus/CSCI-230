@@ -43,7 +43,7 @@ public class RingBuffer {
             if(ringBufferArray[i] != 0) 
                 size++;
         }
-        // return size;
+        return size;
         //return Math.abs(last - first);
  
     }
