@@ -11,6 +11,7 @@
 
 public class GuitarHero {
     static double SCALE_MIN = 0.00, SCALE_MAX = 100.0;
+    static double BASE_X = 0.0, BASE_Y = 0.5;
     public static void main(String args[]) throws RingBuffer.RingBufferException {
         double BASE_FREQUENCY = 440.0, BASE_MULTIPLIER = 1.05956, BASE_OFFSET = 24.0;     // Constants to calculate freq
         double sample = 0.0;
@@ -27,19 +28,44 @@ public class GuitarHero {
         }
        
 
-        //initializeDraw();
-                //TODO: Delete me SoundCheck 
+        
+        //TODO: Delete me SoundCheck 
         //440 Hz for 1 sec
-        double freq = 440.0;
-        for (int i = 0; i <= StdAudio.SAMPLE_RATE; i++) {
-            StdAudio.play(0.5 * Math.sin(2*Math.PI * freq * i / StdAudio.SAMPLE_RATE));
-        }
+
+        /**
+         * Create a new process for the graph to draw in a new thread
+         */
+        initializeDraw();
+        Thread graph = null; 
+        graph = new Thread(
+            new Runnable() {
+                @Override
+                public void run() {
+
+                    double counter = 0;
+                    double xPos = BASE_X;
+                    while(true) {
+                         
+                        StdDraw.clear();
+                        StdDraw.line(BASE_X, BASE_Y, (BASE_X + xPos), (BASE_Y ));
+                        xPos += 0.01;
+                        if(xPos == .99) {
+                            StdDraw.show();
+                            StdDraw.clear();
+                        }
+                        //StdDraw.point(BASE_X + counter, BASE_Y);
+                        counter += 0.01;
+                        StdDraw.show();
+                    }
+                }
+            }
+        );
 
         /*
          * Main Program Loop is as follows:
          * Check if user has typed key > Process it > compute superpostition of samples > play sample > advance tic
          */
-        //StdDraw.square(0.1, 0.1, 0.25);
+        //graph.start();
         while(true) {
             // Check if user has typed key
             if(StdDraw.hasNextKeyTyped()) {
@@ -51,6 +77,7 @@ public class GuitarHero {
                     sampleIndex = index;
                     frequencies[sampleIndex].pluck();
                 }
+            }
                 // Create the sample 
                 sample = frequencies[sampleIndex].sample();
             
@@ -58,9 +85,11 @@ public class GuitarHero {
                 for(int i = 0; i < frequencies.length; i++) {
                     sample += frequencies[i].sample();
                 }
-            }    
+                
+            
                 // Play the sample
                 StdAudio.play(sample);
+                
                 // StdDraw.point(x_coordinate, 0.5);
                 // x_coordinate += 0.001;
                 // if (x_coordinate == SCALE_MAX)
@@ -77,9 +106,9 @@ public class GuitarHero {
      * initializeDraw - set all values for the needed StdDraw members
      */
     public static void initializeDraw() {
-        StdDraw.setPenRadius(0.1);
+        StdDraw.setPenRadius(0.01);
         StdDraw.setPenColor(StdDraw.GRAY);
-        StdDraw.setScale(SCALE_MIN, SCALE_MAX);
+        //StdDraw.setScale(SCALE_MIN, SCALE_MAX);
         StdDraw.enableDoubleBuffering();
     }
     

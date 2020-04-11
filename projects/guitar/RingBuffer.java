@@ -37,7 +37,8 @@ public class RingBuffer {
         //     return last - first + 1;
         // else 
         //     return (ringBufferArray.length - first + 1) + (last + 1);
-        // TODO Put me back int size = 0;
+        //TODO Put me back 
+        //int size = 0;
         // for (int i = 0; i < capacity; i++) {
         //     if(ringBufferArray[i] != 0) 
         //         size++;
@@ -57,7 +58,7 @@ public class RingBuffer {
     public boolean isEmpty() {
         // TODO Put me back or kill me if (size() == 0) return true;
         // else return false;
-        return size() == 0;
+        return (size() == 0);
     }
 
     /**
@@ -66,7 +67,7 @@ public class RingBuffer {
      */
     public boolean isFull() {
         //if(capacity != 0)       // Due to a specific edge case, a ring buffer of capacity zero will crash the program 
-            return size() == capacity;
+            return (size() == ringBufferArray.length); // or capacity
         //else return true;       // If a ring buffer has a capacity of 0, it is inherently full at all times
     }
 

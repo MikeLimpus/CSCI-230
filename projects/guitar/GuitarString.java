@@ -59,15 +59,20 @@ public class GuitarString extends RingBuffer {
      */
     public void pluck() throws RingBufferException {
         guitarString.clearAll();
-        //for(int i = 0; i < guitarString.size(); i++) {
+        // while(!guitarString.isFull()) {
+        //     guitarString.enqueue((Math.random() - 0.5));
+        // }
+        // TODO PUT ME BACK IF I DONT WORK 
+        // for(int i = 0; i < guitarString.size(); i++) {
         for(int i = 0; i < guitarString.getCapacity(); i++) {
-            if (!guitarString.isFull()) 
+            if (!guitarString.isFull()) {
                 // Math.random generates a random double between 0.0 & 1,0, so we must offset this by 0.5 by subtracting
                 guitarString.enqueue((Math.random() - 0.5));    
+            }
             else throw new RingBufferException("Error: Buffer full");
         }
+    
     }
-
     /**
      * tic - advances the simulation one time step by applying the Karplus-Strong update:
      * delete the sample at the front of the ring buffer and add to the end of the ring buffer the average
@@ -91,11 +96,12 @@ public class GuitarString extends RingBuffer {
      * @param none
      * @return double
      */
-    public double sample() throws RingBufferException {
+    public double sample() /* TODO PUT ME BACK throws RingBufferException */ {
         //guitarString.print();
-        if (guitarString.getCapacity() != 0)
+        // TODO PUT ME BACK if (guitarString.getCapacity() != 0)
+        // TODO if( !guitarString)
             return guitarString.peek();
-        else throw new RingBufferException("Error: Ring Buffer size is " + guitarString.getCapacity());
+        //else throw new RingBufferException("Error: Ring Buffer size is " + guitarString.getCapacity());
     }
 
     /**
