@@ -9,8 +9,6 @@ public class GuitarHeroLite {
     GuitarString stringC = new GuitarString(CONCERT_C);
     stringA.pluck();
     stringC.pluck();
-    stringA.print();
-    stringC.print();
     while (true) {
 
     // check if the user has typed a key; if so, process it
