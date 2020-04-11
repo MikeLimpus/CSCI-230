@@ -38,13 +38,13 @@ public class RingBuffer {
         // else 
         //     return (ringBufferArray.length - first + 1) + (last + 1);
         //TODO Put me back 
-        //int size = 0;
-        // for (int i = 0; i < capacity; i++) {
-        //     if(ringBufferArray[i] != 0) 
-        //         size++;
-        // }
-        // return size;
-        return Math.abs((last + 1) - first);
+        int size = 0;
+        for (int i = 0; i < capacity; i++) {
+            if(ringBufferArray[i] != 0) 
+                size++;
+        }
+        return size;
+        //return Math.abs((last + 1) - first);
     }
     // TODO Accessor for capacity variable, used for debug purposes only
     public int getCapacity() {

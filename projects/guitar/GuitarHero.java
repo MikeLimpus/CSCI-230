@@ -32,6 +32,7 @@ public class GuitarHero {
         //TODO: Delete me SoundCheck 
         //440 Hz for 1 sec
 
+
         /**
          * Create a new process for the graph to draw in a new thread
          */
