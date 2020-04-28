@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/run/user/1000/gvfs/sftp:host=10.0.0.5/home/ml/School/CSCI-230/Labs/hash/net/datastructures/**/*.jar",
+        "/run/user/1000/gvfs/sftp:host=10.0.0.5/home/ml/School/CSCI-230/**/*.jar"
+    ]
+}

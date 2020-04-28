@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Random;
 
 public class HeapSort <E> {
@@ -59,10 +58,6 @@ public class HeapSort <E> {
 		System.out.println("After sortInPlace: ");
 		heap2.sortInPlace(list2);
 
-		
-		for (int num: list2) {
-		System.out.print(num + " ");
-		}
 	}
 }
 	
