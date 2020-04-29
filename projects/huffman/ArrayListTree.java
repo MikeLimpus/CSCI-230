@@ -13,17 +13,26 @@ public class ArrayListTree {
     private Node root;                                          // Root node of the tree
 
     public void insert(int value, int weight) {
-        Node newNode = new Node(value, weight)
+        Node newNode = new Node(value, weight);
         if (root == null) { // If there is no root, set the new node to be the root 
             root = newNode; 
         }
         else {              // If there is a root, procede as normal
             // Temp node for insertion
             Node temp = new Node(); 
+            tempTree = tree;
+            // Add the root to the front temporary tree
+            tempTree.add(root);
+            // Iterate until the temp tree is empty
+            while(!tempTree.isEmpty()) {
+                temp = tempTree.get(tempTree.size());   // 'Pop' the last element from the temporary tree
+                if(temp.left == null) {
+                    
+                }
+            }
 
         }
-        
-        
-        
     }
+
+
 }

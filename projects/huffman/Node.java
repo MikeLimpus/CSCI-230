@@ -5,9 +5,11 @@
  */
 public class Node implements Comparable<Node> {
     // Instance Variables 
-    public int value; 
-    public int weight;
+    private int value; 
+    private int weight;
     public Node left, right;
+    private boolean isLeft = true;  // If it's not left, it's right
+    
 
     // Constructors
 
@@ -78,4 +80,7 @@ public class Node implements Comparable<Node> {
     public int compareTo(Node n) {
         return weight - n.weight;
     }
+    // These two methods act as a sort of 'switch' which toggles what position the node is
+    public void setLeft() {isLeft = true;}
+    public void setRight() {isLeft = false;}
 }
