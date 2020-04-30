@@ -1,7 +1,10 @@
+import java.util.ArrayList;
+
 /**
- * @author Jonathan Limpus 
- * Node class for elements of a huffman tree
- * Based on <a href="TreeNode.java">https://www2.cs.duke.edu/csed/poop/huff/spring05/code/TreeNode.java</a>
+ * @author Jonathan Limpus Node class for elements of a huffman tree Based on
+ *         <a href=
+ *         "https://www2.cs.duke.edu/csed/poop/huff/spring05/code/TreeNode.java">TreeNode.java</a>, 
+ *          modified for specific use with binary trees implemented using the Java ArrayList ADT
  */
 public class Node implements Comparable<Node> {
     // Instance Variables 
@@ -20,12 +23,14 @@ public class Node implements Comparable<Node> {
     public Node() {
         value = 0;
         weight = 0;
+        left = null; 
+        right = null;
     } 
 
     /**
      * Leaf Node constructor
      * @param value (the item stored in the node) 
-     * @param weight (the number used for comparison)
+     * @param weight (the number used for comparison)<p>
      * 
      * No children will be created 
      */
@@ -34,6 +39,8 @@ public class Node implements Comparable<Node> {
         // TODO make sure this isn't backwards
         this.value = value;
         this.weight = weight;
+        left = null;
+        right = null;
     }
 
     /**
@@ -61,6 +68,11 @@ public class Node implements Comparable<Node> {
         return value;
     }
 
+    public int getWeight() { 
+        return weight;
+    }
+
+
     /**
      * print all the elements of a node
      */
@@ -73,14 +85,24 @@ public class Node implements Comparable<Node> {
 
     /**
      * compareTo - implemented from java's Comparable
-     * @param Node n (the node that will be compared with this one's weight)
+     * @param Node n (the node that will be compared with this comp's weight)
      * @return -1 if < n.weight, 0 if == n.weight, or 1 if > n.weight
      */
 
     public int compareTo(Node n) {
         return weight - n.weight;
     }
-    // These two methods act as a sort of 'switch' which toggles what position the node is
+
+    /**
+     * isEqual: check each member variable of two nodes to see if they are all equal
+     * @param comp
+     * @return true if all members are equal
+     */
+    public boolean isEqual(Node comp) {
+        return this.equals(comp);
+        //return (comp.value == value && comp.weight == weight && comp.left == left && comp.right == right);
+    }
+    // TODO maybe useless? These two methods act as a sort of 'switch' which toggles what position the node is
     public void setLeft() {isLeft = true;}
     public void setRight() {isLeft = false;}
 }
