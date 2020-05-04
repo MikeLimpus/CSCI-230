@@ -1,59 +1,70 @@
+
 /**
  * @author Jonathan Limpus
  * CSCI-230 Project: Huffman
  * Class ArrayListTree
- * Create a Huffman tree using an ArrayList as the underlying data structure
+ * Create a Huffman tree using a Linked List as the underlying data structure, 
+ * and methods to handle huffman compression
  */
-import java.util.ArrayList;
+
+import java.util.LinkedList;
 import java.util.Collections;
 
-public class ArrayListTree {
+public class HuffTree {
     // Instance variables
-    private ArrayList<Node> tree = new ArrayList<Node>();       // Our tree will live in this array list
-    private ArrayList<Node> tempTree;                           // Temporary array list will hold the nodes for insertion
-    private Node root = new Node();                             // Root node of the tree, initially empty
+    private LinkedList<Node> tree = new LinkedList<Node>(); // Our tree will live in this array list
+    private LinkedList<Node> tempTree = new LinkedList<Node>(); // Temporary array list will hold the nodes for insertion
+    private LinkedList<String> encodedTree = new LinkedList<>();// This list will hold the encoded huffman tree
+    private Node root = new Node(); // Root node of the tree, initially empty
+    String binaryString[] = new String[256];
+    private Node temp;
 
-                  
-    ArrayListTree() {}
+    HuffTree() {
+    }
 
     /**
-     * build - this creates a huffman tree b
+     * build - this creates a huffman tree
+     * 
      * @param count
      */
-    public void build(int count[]) {
+    public void build(int count[])  {
 
-        for(int i = 0; i <= 255; i++) {
-            if(count[i] != 0) {
-                Node temp = new Node(i, count[i]);
-                tree.add(temp);
-            }
-        }
+        for(int i = 0; i <= 255; i++) 
+            if(count[i] != 0) 
+                tree.add(new Node(i, count[i]));
 
-        Collections.sort(tree);                                 // sort the tree
-        tempTree = tree;                                        // Make a copy of the tree 
+        for(int i = 0; i < tree.size(); i++) 
+            tempTree.add(new Node(tree.get(i).getValue(), tree.get(i).getWeight()));    
+                                                
         while(tempTree.size() > 1) {
                 // Calculate weight on first two nodes and create new parent node, then add this to the real tree
-                Node temp = new Node(0, calculateWeight(tempTree), tree.get(getIndex(tempTree.get(0))),
+               
+                temp = new Node(257, calculateWeight(tempTree), tree.get(getIndex(tempTree.getFirst())),    
                     tree.get(getIndex(tempTree.get(1))));
-
-                tree.add(temp);
+                tree.addLast(temp);
+                //System.out.println(temp.getValue() + " " + temp.getWeight());
+                //System.out.println(tempTree.size());
                 // Add the new value to our temporary tree's end, and remove the two first ones, and finally sort
-                tempTree.add(temp);
-                tempTree.remove(0);
-                tempTree.remove(0);
+                tempTree.addLast(temp);
                 Collections.sort(tempTree); 
+                tempTree.removeFirst();
+                tempTree.removeFirst();
+                temp = null;                                    // Clear out some memory
+                
+                System.gc();                                    // And take out the garbage TODO This is slowing down the program significantly but until a better solution is found it will stay 
+              
         }
         tempTree.clear();                                       // Empty out the temporary tree
     }
     
     /**
-     * calcWeight - small helper function to improve readability in build, adds weight of first two nodes
-     * in the tree
+     * calcWeight - small helper function to improve readability in build, adds weight of first two nodes and 
+     * removes those nodes from the tree
      * @param tree
      * @return first + second weight values
      */
-    public int calculateWeight(ArrayList<Node> tree) {
-        return tree.get(0).getWeight() + tree.get(1).getWeight(); 
+    public int calculateWeight(LinkedList<Node> list) {
+        return list.get(0).getWeight() + list.get(1).getWeight();
     }
 
     /**
@@ -82,13 +93,15 @@ public class ArrayListTree {
         return root;
     }
 
-    /** TODO please delet this this is a very dumb thing that should not be in the final release */
-    public void addTenRandomNodes() {
-        int ass[] = {0, 1, 2, 3, 5, 8, 20, 420, 10};        //idk if this is even 10 number didnt count lmao
-        build(ass);                                         // I came here to build ass and chew bubble gum and Im all outta ass
-    }
 
-    /*
+
+
+
+    // Accessors 
+
+    public Node get(int i) {return tree.get(i);}
+    public int size() {return tree.size();}
+    /* TODO delete this
     public void insert(int value, int weight) {
         Node newNode = new Node(value, weight);
         if (root == null) { // If there is no root, set the new node to be the root 

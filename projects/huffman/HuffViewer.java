@@ -8,6 +8,11 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
+ * <b>NOTE</b> this file is a slightly modified version of <a href=
+ *         "https://www2.cs.duke.edu/csed/poop/huff/spring05/code/HuffViewer.java">HuffViewer.java</a>, and original
+ * documentation and naming remains. However, some minor changes were made to work with my program.
+ * 
+ *         
  * The GUI/View for Huffman coding assignment. Clients communicate
  * with this view by attaching a model and then using the menu choices/options that
  * are part of the GUI. Thus client code that fails to call <code>setModel</code> will
@@ -15,6 +20,7 @@ import java.nio.channels.FileChannel;
  * not have an associated model.
  * <P>
  * @author Owen Astrachan
+ * @author Jonathan Limpus
  *
  */
 public class HuffViewer extends JFrame {
@@ -25,7 +31,7 @@ public class HuffViewer extends JFrame {
     
     
     protected JTextArea myOutput;
-    protected IHuffProcessor myModel;
+    protected HuffProcessor myModel;
     protected String myTitle;
     protected JTextField myMessage;
     protected File myFile;
@@ -55,12 +61,30 @@ public class HuffViewer extends JFrame {
     }
 
     /**
+     * Invoke swing methods to make the window look more like a native application
+     * @throws ClassNotFoundException
+     * @throws InstantiationException
+     * @throws IllegalAccessException
+     * @throws UnsupportedLookAndFeelException
+     */
+    public void setLookAndFeel() throws ClassNotFoundException, InstantiationException,
+    IllegalAccessException, UnsupportedLookAndFeelException {
+        try {
+            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch(UnsupportedLookAndFeelException | ClassNotFoundException | InstantiationException e) {
+            //UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName());
+            System.out.println("Could not set system look and feel");
+            e.printStackTrace();
+        } 
+    }
+
+    /**
      * Associates this view with the given model. The GUI/View will 
      * attach itself to the model so that communication between the view
      * and the model as well as <em>vice versa</em> is supported.
      * @param model is the model for this view
      */
-    public void setModel(IHuffProcessor model) {
+    public void setModel(HuffProcessor model) {
         myModel = model;
         myModel.setViewer(this);
     }

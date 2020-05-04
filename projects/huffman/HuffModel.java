@@ -8,7 +8,6 @@
 import java.io.File;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.util.ArrayList;
 
 public class HuffModel implements IHuffModel {
     // Global variables

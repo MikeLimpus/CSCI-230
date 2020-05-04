@@ -99,10 +99,6 @@ public class Node implements Comparable<Node> {
      * @return true if all members are equal
      */
     public boolean isEqual(Node comp) {
-        return this.equals(comp);
-        //return (comp.value == value && comp.weight == weight && comp.left == left && comp.right == right);
+        return (comp.value == value && comp.weight == weight && comp.left == left && comp.right == right);
     }
-    // TODO maybe useless? These two methods act as a sort of 'switch' which toggles what position the node is
-    public void setLeft() {isLeft = true;}
-    public void setRight() {isLeft = false;}
 }

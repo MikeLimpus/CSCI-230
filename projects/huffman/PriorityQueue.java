@@ -1,6 +1,6 @@
 
 /**
- * This class implements a priority queue that fits into
+ * 32 This class implements a priority queue that fits into
  * the Java 1.2 Collection hierarchy. This is a min-based
  * priority queue though a max-based queue can be easily obtained
  * by supplying an alternative <code>Comparator</code> object when
@@ -23,7 +23,7 @@
  * For version 2.0: the methods have been renamed to be consistent
  * with the Queue interface and PriorityQueue implementation from
  * Java 5. This class should be drop-in/compatible with the Java
- * 5 priority queue except this class doesn't support generics. In
+ * 5 priority queue except this class doesnt support generics. In
  * addition, this class does not implement methods <code>poll</code>
  * or <code>offer</code> from the Java 5 Queue interface. Instead,
  * it provides <code>add</code> and <code>remove</code>.
