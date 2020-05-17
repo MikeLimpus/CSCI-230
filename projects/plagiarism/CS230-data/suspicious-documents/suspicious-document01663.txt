@@ -1,0 +1,105 @@
+﻿Here was something which corresponded, however roughly, to the process
+by which practical people arrive at practical and responsible results. A
+railway manager who wishes to discover the highest rate of charges which
+his traffic will bear is not interested if he is told that the rate when
+fixed will have been due to the law that all men seek to obtain wealth
+with as little effort as possible, modified in its working by men's
+unwillingness to break an established business habit. He wants a method
+which, instead of merely providing him with a verbal 'explanation' of
+what has happened, will enable him to form a quantitative estimate of
+what under given circumstances will happen. He can, however, and, I
+believe, now often does, use the Jevonian method to work out definite
+results in half-pennies and tons from the intersection of plotted curves
+recording actual statistics of rates and traffic.
+
+Since Jevons's time the method which he initiated has been steadily
+extended; economic and statistical processes have become more nearly
+assimilated, and problems of fatigue or acquired skill, of family
+affection and personal thrift, of management by the _entrepreneur_ or
+the paid official, have been stated and argued in quantitative form. As
+Professor Marshall said the other day, _qualitative_ reasoning in
+economics is passing away and _quantitative_ reasoning is beginning to
+take its place.[43]
+
+[43] _Journal of Economics_, March 1907, pp. 7 and 8. 'What by chemical
+analogy may be called qualitative analysis has done the greater part of
+its work.... Much less progress has indeed been made towards the
+quantitative determination of the relative strength of different
+economic forces. That higher and more difficult task must wait upon the
+slow growth of thorough realistic statistics.'
+
+How far is a similar change of method possible in the discussion not of
+industrial and financial processes but of the structure and working of
+political institutions?
+
+It is of course easy to pick out political questions which can obviously
+be treated by quantitative methods. One may take, for instance, the
+problem of the best size for a debating hall, to be used, say, by the
+Federal Deliberative Assembly of the British Empire--assuming that the
+shape is already settled. The main elements of the problem are that the
+hall should be large enough to accommodate with dignity a number of
+members sufficient both for the representation of interests and the
+carrying out of committee work, and not too large for each member to
+listen without strain to a debate. The resultant size will represent a
+compromise among these elements, accommodating a number smaller than
+would be desirable if the need of representation and dignity alone were
+to be considered, and larger than it would be if the convenience of
+debate alone were considered.
+
+A body of economists could agree to plot out or imagine a succession of
+'curves' representing the advantage to be obtained from each additional
+unit of size in dignity, adequacy of representation, supply of members
+for committee work, healthiness, etc., and the disadvantage of each
+additional unit of size as affecting convenience of debate, etc. The
+curves of dignity and adequacy might be the result of direct estimation.
+The curve of marginal convenience in audibility would be founded upon
+actual 'polygons of variation' recording measurements of the distance at
+which a sufficient number of individuals of the classes and ages
+expected could hear and make themselves heard in a room of that shape.
+The economists might further, after discussion, agree on the relative
+importance of each element to the final decision, and might give effect
+to their agreement by the familiar statistical device of 'weighting.'
+
+The answer would perhaps provide fourteen square feet on the floor in a
+room twenty-six feet high for each of three hundred and seventeen
+members. There would, when the answer was settled, be a 'marginal' man
+in point of hearing (representing, perhaps, an average healthy man of
+seventy-four), who would be unable or just able to hear the 'marginal'
+man in point of clearness of speech--who might represent (on a polygon
+specially drawn up by the Oxford Professor of Biology) the least audible
+but two of the tutors at Balliol. The marginal point on the curve of the
+decreasing utility of successive increments of members from the point of
+view of committee work might show, perhaps, that such work must either
+be reduced to a point far below that which is usual in national
+parliaments, or must be done very largely by persons not members of the
+assembly itself. The aesthetic curve of dignity might be cut at the
+point where the President of the Society of British Architects could
+just be induced not to write to the _Times_.
+
+Any discussion which took place on such lines, even although the curves
+were mere forms of speech, would be real and practical. Instead of one
+man reiterating that the Parliament Hall of a great empire ought to
+represent the dignity of its task, and another man answering that a
+debating assembly which cannot debate is of no use, both would be forced
+to ask 'How much dignity'? and 'How much debating convenience'? As it
+is, this particular question seems often to be settled by the architect,
+who is deeply concerned with aesthetic effect, and not at all concerned
+with debating convenience. The reasons that he gives in his reports seem
+convincing, because the other considerations are not in the minds of
+the Building Committee, who think of one element only of the problem at
+a time and make no attempt to co-ordinate all the elements. Otherwise it
+would be impossible to explain the fact that the Debating Hall, for
+instance, of the House of Representatives at Washington is no more
+fitted for debates carried on by human beings than would a spoon ten
+feet broad be fitted for the eating of soup. The able leaders of the
+National Congress movement in India made the same mistake in 1907, when
+they arranged, with their minds set only on the need of an impressive
+display, that difficult and exciting questions of tactics should be
+discussed by about fifteen hundred delegates in a huge tent, and in the
+presence of a crowd of nearly ten thousand spectators. I am afraid that
+it is not unlikely that the London County Council may also despise the
+quantitative method of reasoning on such questions, and may find
+themselves in 1912 provided with a new hall admirably adapted to
+illustrate the dignity of London and the genius of their architect, but
+unfitted for any other purpose.
+

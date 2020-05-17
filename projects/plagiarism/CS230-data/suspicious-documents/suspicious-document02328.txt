@@ -1,0 +1,408 @@
+﻿Original html version created at eldritchpress.org by Eric Eldred
+This eBook was produced by Chetan K Jain.
+
+
+The King of the Dark Chamber
+
+
+By Rabindranath Tagore
+
+
+[Translated from Bengali to English by Kshitish Chandra Sen]
+
+
+[New York: The Macmillan Company, 1914;
+Copyright, 1914, by Drama League of America,
+by The Macmillan Company]
+
+
+I
+
+
+[A street.  A few wayfarers, and a CITY GUARD]
+
+FIRST MAN.  Ho, Sir!
+
+CITY GUARD.  What do you want?
+
+SECOND MAN.  Which way should we go?  We are strangers here.
+Please tell us which street we should take.
+
+CITY GUARD.  Where do you want to go?
+
+THIRD MAN.  To where those big festivities are going to be held,
+you know.  Which way do we go?
+
+CITY GUARD.  One street is quite as good as another here.  Any
+street will lead you there.  Go straight ahead, and you cannot
+miss the place.  [Exit.]
+
+FIRST MAN.  Just hear what the fool says: "Any street will lead
+you there!"  Where, then, would be the sense of having so many
+streets?
+
+SECOND MAN.  You needn't be so awfully put out at that, my man.
+A country is free to arrange its affairs in its own way.  As for
+roads in our country--well, they are as good as non-existent;
+narrow and crooked lanes, a labyrinth of ruts and tracks.  Our
+King does not believe in open thoroughfares; he thinks that
+streets are just so many openings for his subjects to fly away
+from his kingdom.  It is quite the contrary here; nobody stands
+in your way, nobody objects to your going elsewhere if you like
+to; and yet the people are far from deserting this kingdom.  With
+such streets our country would certainly have been depopulated in
+no time.
+
+FIRST MAN.  My dear Janardan, I have always noticed that this is
+a great fault in your character.
+
+JANARDAN.  What is?
+
+FIRST MAN.  That you are always having a fling at your country.
+How can you think that open highways may be good for a country?
+Look here, Kaundilya; here is a man who actually believes that
+open highways are the salvation of a country.
+
+KAUNDILYA.  There is no need, Bhavadatta, of my pointing out
+afresh that Janardan is blessed with an intelligence which is
+remarkably crooked, which is sure to land him in danger some day.
+If the King comes to hear of our worthy friend, he will make it a
+pretty hard job for him to find any one to do him his funeral
+rites when he is dead.
+
+BHAVADATTA.  One can't help feeling that life becomes a burden in
+this country; one misses the joys of privacy in these streets--
+this jostling and brushing shoulders with strange people day and
+night makes one long for a bath.  And nobody can tell exactly
+what kind of people you are meeting with in these public roads--
+ugh!
+
+KAUNDILYA.  And it is Janardan who persuaded us to come to this
+precious country!  We never had any second person like him in our
+family.  You knew my father, of course; he was a great man, a
+pious man if ever there was one.  He spent his whole life within
+a circle of a radius of 49 cubits drawn with a rigid adherence to
+the injunctions of the scriptures, and never for a single day did
+he cross this circle.  After his death a serious difficulty
+arose--how cremate him within the limits of the 49 cubits and yet
+outside the house?  At length the priests decided that though we
+could not go beyond the scriptural number, the only way out of
+the difficulty was to reverse the figure and make it 94 cubits;
+only thus could we cremate him outside the house without
+violating the sacred books.  My word, that was strict observance!
+Ours is indeed no common country.
+
+BHAVADATTA.  And yet, though Janardan comes from the very same
+soil, he thinks it wise to declare that open highways are best
+for a country.
+
+[Enter GRANDFATHER with a band of boys]
+
+GRANDFATHER.  Boys, we will have to vie with the wild breeze of
+the south to-day--and we are not going to be beaten.  We will
+sing till we have flooded all streets with our mirth and song.
+
+SONG.
+
+/*
+  The southern gate is unbarred.  Come, my spring, come!
+  Thou wilt swing at the swing of my heart, come, my spring,
+    come!
+  Come in the lisping leaves, in the youthful surrender of
+    flowers;
+  Come in the flute songs and the wistful sighs of the woodlands!
+  Let your unfastened robe wildly flap in the drunken wind!
+    Come, my spring, come!
+*/
+
+[Exeunt.]
+
+[Enter a band of CITIZENS]
+
+FIRST CITIZEN.  After all, one cannot help wishing that the King
+had allowed himself to be seen at least this one day.  What a
+great pity, to live in his kingdom and yet not to have seen him
+for a single day!
+
+SECOND CITIZEN.  If you only knew the real meaning of all this
+mystery!  I could tell you if you would keep a secret.
+
+FIRST CITIZEN.  My dear fellow, we both live in the same quarter
+of the town, but have you ever known me letting out any man s
+secret?  Of course, that matter of your brother's finding a
+hidden fortune while digging for a well--well, you know well
+enough why I had to give it out.  You know all the facts.
+
+SECOND CITIZEN.  Of course I know.  And it is because I know that
+I ask, could you keep a secret if I tell you?  It may mean
+ruination to us all, you know, if you once let it out.
+
+THIRD CITIZEN.  You are a nice man, after all, Virupaksha!  Why
+are you so anxious to bring down a disaster which as yet only may
+happen?  Who will be responsible for keeping your secret all his
+life?
+
+VIRUPAKSHA.  It is only because the topic came up--well, then, I
+shall not say anything.  I am not the man to say things for
+nothing.  You had yourself brought up the question that the King
+never showed himself; and I only remarked that it was not for
+nothing that the King shut himself up from the public gaze.
+
+FIRST CITIZEN.  Pray do tell us why, Virupaksha.
+
+VIRUPAKSHA.  Of course I don't mind telling you--for we are all
+good friends, aren't we?  There can be no harm.  (With a low
+voice.) The King--is--hideous to look at, so he has made up his
+mind never to show himself to his subjects.
+
+FIRST CITIZEN.  Ha! that's it!  It must be so.  We have always
+wondered ...  why, the mere sight of a King in all countries
+makes one's soul quake like an aspen leaf with fear; but why
+should our King never have been seen by any mortal soul?  Even if
+he at least came out and consigned us all to the gibbet, we might
+be sure that our King was no hoax.  After all, there is much in
+Virupaksha's explanation that sounds plausible enough.
+
+THIRD CITIZEN.  Not a bit--I don't believe in a syllable of it.
+
+VIRUPAKSHA.  What, Vishu, do you mean to say that I am a liar?
+
+VISHU.  I don't exactly mean that--but I cannot accept your
+theory.  Excuse me, I cannot help if I seem a bit rude or
+churlish.
+
+VIRUPAKSHA.  Small wonder that you can't believe my words--you
+who think yourself sage enough to reject the opinions of your
+parents and superiors.  How long do you think you could have
+stayed in this country if the King did not remain in hiding?  You
+are no better than a flagrant heretic.
+
+VISHU.  My dear pillar of orthodoxy!  Do you think any other King
+would have hesitated to cut off your tongue and make it food for
+dogs?  And you have the face to say that our King is horrid to
+look at!
+
+VIRUPAKSHA.  Look here, Vishu.  will you curb your tongue?
+
+VISHU.  It would be superfluous to point out whose tongue needs
+the curbing.
+
+FIRST CITIZEN.  Hush, my dear friends--this looks rather bad....
+It seems as if they are resolved to put me in danger as well.  I
+am not going to be a party to all this.[Exit.]
+
+[Enter a number of men, dragging in GRANDFATHER, in boisterous
+exuberance]
+
+SECOND CITIZEN.  Grandpa, something strikes me to-day ...
+
+GRANDFATHER.  What is it?
+
+SECOND CITIZEN.  This year every country has sent its people to
+our festival, but every one asks, "Everything is nice and
+beautiful--but where is your King?"  and we do not know what to
+answer.  That is the one big gap which cannot but make itself
+felt to every one in our country.
+
+GRANDFATHER.  "Gap," do you say!  Why, the whole country is all
+filled and crammed and packed with the King: and you call him a
+"gap"!  Why,he has made every one of us a crowned King!
+
+SINGS.
+
+/*
+  We are all Kings in the kingdom of our King.
+  Were it not so, how could we hope in our heart to meet him!
+  We do what we like, yet we do what he likes;
+  We are not bound with the chain of fear at the feet of a slave-
+    owning King.
+  Were it not so, how could we hope in our heart to meet him!
+  Our King honours each one of us, thus honours his own very
+    self.
+  No littleness can keep us shut up in its walls of untruth for
+    aye.
+  Were it not so, how could we have hope in our heart to meet
+    him!
+  We struggle and dig our own path, thus reach his path at the
+    end.
+  We can never get lost in the abyss of dark night.
+  Were it not so, how could we hope in our heart to meet him!
+*/
+
+THIRD CITIZEN.  But, really, I cannot stand the absurd things
+people say about our King simply because he is not seen in
+public.
+
+FIRST CITIZEN.  Just fancy!  Any one libelling me can be
+punished, while nobody can stop the mouth of any rascal who
+chooses to slander the King.
+
+GRANDFATHER.  The slander cannot touch the King.  With a mere
+breath you can blow out the flame which a lamp inherits from the
+sun, but if all the world blow upon the sun itself its effulgence
+remains undimmed and unimpaired as before.
+
+[Enter VISHVAVASU and VIRUPAKSHA]
+
+VISHU.  Here's Grandfather!  Look here, this man is going about
+telling everybody that our King does not come out because he is
+ugly.
+
+GRANDFATHER.  But why does that make you angry, Vishu?  His King
+must be ugly, because how else could Virupaksha possess such
+features in his kingdom?  He fashions his King after the image of
+himself he sees in the mirror.
+
+VIRUPAKSHA.  Grandfather, I shall mention no names, but nobody
+would think of disbelieving the person who gave me the news.
+
+GRANDFATHER.  Who could be a higher authority than yourself!
+
+VIRUPAKSHA.  But I could give you proofs ...
+
+FIRST CITIZEN.  The impudence of this fellow knows no bounds!
+Not content with spreading a ghastly rumour with an unabashed
+face, he offers to measure his lies with insolence!
+
+SECOND CITIZEN.  Why not make him measure his length on the
+ground?
+
+GRANDFATHER.  Why so much heat, my friends?  The poor fellow is
+going to have his own festive day by singing the ugliness of his
+King.  Go along, Virupaksha, you will find plenty of people ready
+to believe you: may you be happy in their company.[Exeunt.]
+
+[Re-enter the party of FOREIGNERS]
+
+BHAVADATTA.  It strikes me, Kaundilya, that these people haven't
+got a King at all.  They have somehow managed to keep the rumour
+afloat.
+
+KAUNDILYA.  You are right, I think.  We all know that the supreme
+thing that strikes one's eye in any country is the King, who of
+course loses no opportunity of exhibiting himself.
+
+JANARDAN.  But look at the nice order and regularity prevailing
+all over the place--how do you explain it without a King?
+
+BHAVADATTA.  So this is the wisdom you have arrived at by living
+so long under a ruler!  Where would be the necessity of having a
+King if order and harmony existed already?
+
+JANARDAN.  All these people have assembled to rejoice at this
+festival.  Do you think they could come together like this in a
+country of anarchy?
+
+BHAVADATTA.  My dear Janardan, you are evading the real issue, as
+usual.  There can be no question about the order and regularity,
+and the festive rejoicing too is plain enough: there is no
+difficulty so far.  But where is the King?  Have you seen him?
+Just tell us that.
+
+JANARDAN.  What I want to say is this: you know from your
+experience that there can be chaos and anarchy even if a King be
+present: but what do we see here?
+
+KAUNDILYA.  You are always coming back to your quibbling.  Why
+can you not give a straight answer to Bhavadatta's question--Have
+you, or have you not, seen the King?  Yes or no?  [Exeunt.]
+
+[Enter a band of MEN, singing]
+
+SONG.
+
+/*
+  My beloved is ever in my heart
+    That is why I see him everywhere,
+  He is in the pupils of my eyes
+    That is why I see him everywhere.
+  I went far away to hear his own words,
+    But, ah, it was vain!
+  When I came back I heard them
+    In my own songs.
+  Who are you who seek him like a beggar
+    from door to door!
+  Come to my heart and see his face in the
+    tears of my eyes!
+*/
+
+[Enter HERALDS and ADVANCE GUARDS of the KING]
+
+FIRST HERALD.  Stand off!  Get away from the street, all of you!
+
+FIRST CITIZEN.  Eh, man, who do you think you are?  You weren't
+of course born with such lofty strides, my friend?--Why should we
+stand off, my dear sir?  Why should we budge?  Are we street
+dogs, or what?
+
+SECOND HERALD.  Our King is coming this way.
+
+SECOND CITIZEN.  King?  Which King?
+
+FIRST HERALD.  Our King, the King of this country.
+
+FIRST CITIZEN.  What, is the fellow mad?  Whoever heard of our
+King coming out heralded by these vociferous gentry?
+
+SECOND HERALD.  The King will no longer deny himself to his
+subjects.  He is coming to command the festivities himself.
+
+SECOND CITIZEN.  Brother, is that so?
+
+SECOND HERALD.  Look, his banner is flying over there.
+
+SECOND CITIZEN.  Ah, yes, that is a flag indeed.
+
+SECOND HERALD.  Do you see the red <i>Kimshuk</i> flower
+painted on it?
+
+SECOND CITIZEN.  Yes, yes, it is the <i>Kimshuk</i>
+indeed!--what a bright scarlet flower!
+
+FIRST HERALD.  Well!  do you believe us now?
+
+SECOND CITIZEN.  I never said I didn't.  That fellow Kumbha
+started all this fuss.  Did I say a word?
+
+FIRST HERALD.  Perhaps, though a pot-bellied man, he is quite
+empty inside; an empty vessel sounds most, you know.
+
+SECOND HERALD.  Who is he?  Is he any kinsman of yours?
+
+SECOND CITIZEN.  Not at all.  He is just a cousin of our village
+chief's father-in-law, and he does not even live in the same part
+of our village with us.
+
+SECOND HERALD.  Just so: he quite looks the seventh cousin of
+somebody's father-in-law, and his understanding appears also to
+bear the stamp of uncle-in-lawhood.
+
+KUMBHA.  Alas, my friends, many a bitter sorrow has given my poor
+mind a twist before it has become like this.  It is only the
+other day that a King came and paraded the streets, with as many
+titles in front of him as the drums that made the town hideous by
+their din, ...  What did I not do to serve and please him!  I
+rained presents on him, I hung about him like a beggar--and in
+the end I found the strain on my resources too hard to bear.  But
+what was the end of all that pomp and majesty?  When people
+sought grants and presents from him, he could not somehow
+discover an auspicious day in the Calendar: though all days were
+red-letter days when we had to pay our taxes!
+
+SECOND HERALD.  Do you mean to insinuate that our King is a bogus
+King like the one you have described?
+
+FIRST HERALD.  Mr.  Uncle-in-law, I believe the time has come for
+you to say good-bye to Aunty-in-law.
+
+KUMBHA.  Please, sirs, do not take any offence.  I am a poor
+creature--my sincerest apologies, sirs: I will do anything to be
+excused.  I am quite willing to move away as far as you like.
+
+SECOND HERALD.  All right, come here and form a line.  The King
+will come just now--we shall go and prepare the way for him.
+[They go out.]
+
+SECOND CITIZEN.  My dear Kumbha, your tongue will be your death
+one day.
+

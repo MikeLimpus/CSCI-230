@@ -1,0 +1,1943 @@
+﻿Produced by David Starner, Louise Hope and the PG Online Distributed
+Proofreading Team
+
+
+            Series Two:
+        _Essays on Poetry_
+
+              No. 3
+
+
+    Rapin's _De Carmine Pastorali_,
+prefixed to Thomas Creech's translation
+of the _Idylliums_ of Theocritus (1684)
+
+
+      With an Introduction by
+          J.E. Congleton
+                and
+       a Bibliographical Note
+
+
+The Augustan Reprint Society
+July, 1947
+Price: 75c
+
+  *       *       *       *       *
+
+
+GENERAL EDITORS
+
+RICHARD C. BOYS, University of Michigan
+EDWARD NILES HOOKER, University of California, Los Angeles
+H.T. SWEDENBERG, JR., University of California, Los Angeles
+
+
+ADVISORY EDITORS
+
+EMMETT L. AVERY, State College of Washington
+LOUIS I. BREDVOLD, University of Michigan
+BENJAMIN BOYCE, University of Nebraska
+CLEANTH BROOKS, Louisiana State University
+JAMES L. CLIFFORD, Columbia University
+ARTHUR FRIEDMAN, University of Chicago
+SAMUEL H. MONK, University of Minnesota
+JAMES SUTHERLAND, Queen Mary College, London
+
+
+Lithoprinted from copy supplied by author
+                 by
+        Edwards Brothers, Inc.
+      Ann Arbor, Michigan, U.S.A.
+                1947
+
+
+  *       *       *       *       *
+
+
+INTRODUCTION
+
+Recent students of criticism have usually placed Rapin in the School
+of Sense. In fact Rapin clearly denominates himself a member of that
+school. In the introduction to his major critical work, _Reflexions
+sur la Poetique d'Aristote_ (1674), he states that his essay "is
+nothing else, but Nature put in Method, and good _Sense_ reduced to
+Principles" (_Reflections on Aristotle's Treatise of Poesie_, London,
+1731, II, 131). And in a few passages as early as "A Treatise de
+Carmine Pastorali" (1659), he seems to imply that he is being guided
+in part at least by the criterion of "good _Sense_." For example,
+after citing several writers to prove that "brevity" is one of the
+"graces" of pastoral poetry, he concludes, "I could heap up a great
+many more things to this purpose, but I see no need of such a
+trouble, since no man can rationally doubt of the goodness of my
+Observation" (p.41).
+
+The basic criterion, nevertheless, which Rapin uses in the "Treatise"
+is the authority of the Ancients--the poems of Theocritus and Virgil
+and the criticism of Aristotle and Horace. Because of his constant
+references to the Ancients, one is likely to conclude that he (like
+Boileau and Pope) must have thought they and Nature (good sense) were
+the same. In a number of passages, however, Rapin depends solely on
+the Ancients. Two examples will suffice to illustrate his absolutism.
+At the beginning of "_The Second_ Part," when he is inquiring "into
+the nature of _Pastoral,_" he admits:
+  And this must needs be a hard Task, since I have no guide,
+  neither _Aristotle_ nor _Horace_ to direct me.... And I am of
+  opinion that none can treat well and clearly of any kind of
+  _Poetry_ if he hath no helps from these two (p. 16).
+
+In "_The Third_ Part," when he begins to "lay down" his _Rules for
+writing_ Pastorals," he declares:
+  Yet in this difficulty I will follow _Aristotle's_ Example, who
+  being to lay down Rules concerning _Epicks_, propos'd _Homer_
+  as a Pattern, from whom he deduc'd the whole Art; So I will
+  gather from _Theocritus_ and _Virgil_, those Fathers of
+  _Pastoral_, what I shall deliver on this account (p. 52).
+
+These passages represent the apogee of the neoclassical criticism of
+pastoral poetry. No other critic who wrote on the pastoral depends so
+completely on the authority of the classical critics and poets. As a
+matter of fact, Rapin himself is not so absolute later. In the
+section of the _Réflexions_ on the pastoral, he merely states that
+the best models are Theocritus and Virgil. In short, one may say
+that in the "Treatise" the influence of the Ancients is dominant; in
+the _Réflexions_, "good _Sense_."
+
+Reduced to its simplest terms, Rapin's theory is Virgilian. When
+deducing his theory from the works of Theocritus and Virgil, his
+preference is almost without exception for Virgil. Finding Virgil's
+eclogues refined and elegant, Rapin, with a suggestion from Donatus
+(p. 10 and p. 14), concludes that the pastoral "belongs properly to
+the _Golden Age_" (p. 37)--"that blessed time, when Sincerity and
+Innocence, Peace, Ease, and Plenty inhabited the Plains" (p. 5).
+Here, then, is the immediate source of the Golden Age eclogue, which,
+being transferred to England and popularised by Pope, flourished
+until the time of Dr. Johnson and Joseph Warton.
+
+In France the most prominent opponent to the theory formulated by
+Rapin is Fontenelle. In his "Discours sur la Nature de l'Eglogue"
+(1688) Fontenelle, with studied and impertinent disregard for the
+Ancients and for "ceux qui professent cette espèce de religion que
+l'on s'est faite d'adorer l'antiquité," expressly states that the
+basic criterion by which he worked was "les lumières naturelles de
+la raison" (_OEuvres_, Paris, 1790, V, 36). It is careless and
+incorrect to imply that Rapin's and Fontenelle's theories of
+pastoral poetry are similar, as Pope, Joseph Warton, and many other
+critics and scholars have done. Judged by basic critical principles,
+method, or content there is a distinct difference between Rapin and
+Fontenelle. Rapin is primarily a neoclassicist in his "Treatise";
+Fontenelle, a rationalist in his "Discours." It is this opposition,
+then, of neoclassicism and rationalism, that constitutes the basic
+issue of pastoral criticism in England during the Restoration and the
+early part of the eighteenth century.
+
+When Fontenelle's "Discours" was translated in 1695, the first phrase
+of it quoted above was translated as "those Pedants who profess a
+kind of Religion which consists of worshipping the Ancients" (p.294).
+Fontenelle's phrase more nearly than that of the English translator
+describes Rapin. Though Rapin's erudition was great, he escaped the
+quagmire of pedantry. He refers most frequently to the scholiasts and
+editors in "_The First Part_" (which is so trivial that one wonders
+why he ever troubled to accumulate so much insignificant material),
+but after quoting them he does not hesitate to call their ideas
+"pedantial" (p. 24) and to refer to their statements as grammarian's
+"prattle" (p. 11). And, though at times it seems that his curiosity
+and industry impaired his judgment, Rapin does draw significant ideas
+from such scholars and critics as Quintilian, Vives, Scaliger,
+Donatus, Vossius, Servius, Minturno, Heinsius, and Salmasius.
+
+Rapin's most prominent disciple in England is Pope. Actually, Pope
+presents no significant idea on this subject that is foreign to
+Rapin, and much of the language--terminology and set phrases--of
+Pope's "Discourse" comes directly from Rapin's "Treatise" and from
+the section on the pastoral in the _Reflections_. Contrary to his own
+statement that he "reconciled" some points on which the critics
+disagree and in spite of the fact that he quotes Fontenelle, Pope in
+his "Discourse" is a neoclassicist almost as thoroughgoing as Rapin.
+The ideas which he says he took from Fontenelle are either
+unimportant or may be found in Rapin. Pope ends his "Discourse" by
+drawing a general conclusion concerning his _Pastorals_: "But after
+all, if they have any merit, it is to be attributed to some good old
+authors, whose works as I had leisure to study, so I have not wanted
+care to imitate." This statement is diametrically opposed to the
+basic ideas and methods of Fontenelle, but in full accord with and no
+doubt directly indebted to those of Rapin.
+
+The same year, 1717, that Pope 'imitated' Rapin's "Treatise," Thomas
+Purney made a direct attack on Rapin's neoclassic procedure. In the
+"Preface" to his own _Pastorals_ he expresses his disapproval of
+Rapin's method, evidently with the second passage from Rapin quoted
+above in mind:
+  _Rapine's_ Discourse is counted the best on this Poem, for 'tis
+  the longest. You will easily excuse my not mentioning all his
+  Defects and Errors in this Preface. I shall only say then, that
+  instead of looking into the true Nature of the Pastoral Poem,
+  and then judging whether _Theocritus_ or any of his Followers
+  have brought it to it's utmost Perfection or not. _Rapine_
+  takes it for granted that _Theocritus_ and _Virgil_ are
+  infallible; and aim's at nothing beyond showing the Rules which
+  he thinks they observ'd. Facetious Head! (_Works_, Oxford,
+  1933, pp. 51-52. The Peroy Reprints, No. XII)
+
+The influence of Rapin on the development of the pastoral,
+nevertheless, was salutary. Finding the genre vitiated with wit,
+extravagance, and artificiality, he attempted to strip it of these
+Renaissance excrescencies and restore it to its pristine purity by
+direct reference to the Ancients--Virgil, in particular. Though Rapin
+does not have the psychological insight into the esthetic principles
+of the genre equal to that recently exhibited by William Empson or
+even to that expressed by Fontenelle, he does understand the
+intrinsic appeal of the pastoral which has enabled it to survive, and
+often to flourish, through the centuries in painting, music, and
+poetry. Perhaps his most explicit expression of this appreciation is
+made while he is discussing Horace's statement that the muses love
+the country:
+  And to speak from the very bottome of my heart... methinks he
+  is much more happy in a Wood, that at ease contemplates this
+  universe, as his own, and in it, the Sun and Stars, the
+  pleasing Meadows, shady Groves, green Banks, stately Trees,
+  flowing Springs, and the wanton windings of a River, fit
+  objects for quiet innocence, than he that with Fire and Sword
+  disturbs the World, and measures his possessions by the wast
+  that lys about him (p. 4).
+
+René Rapin (1621-1687), in spite of his duties as a Jesuit priest and
+disputes with the Jansenists, became one of the most widely read men
+of his time and carried on the celebrated discussions about the
+Ancients with Maimbourg and Vavasseur. His _chef-d'oeuvre_ without
+contradiction is _Hortorum libri IV_. Like Virgil, Spenser, Pope, and
+many aspiring lesser poets, he began his literary career by writing
+pastorals, _Eclogae Sacrae_ (1659), to which is prefixed in Latin the
+original of "A Treatise de Carmine Pastorali."
+
+ J.E. Congleton
+   University of Florida
+
+Reprinted here from the copy owned by the Boston Athenaeum by
+permission.
+
+   *       *       *       *       *
+       *       *       *       *
+   *       *       *       *       *
+
+
+                   A
+
+               TREATISE
+
+
+          de CARMINE PASTORALI
+
+            Written by RAPIN.
+
+
+_The First Part_.
+
+To be as short as possible in my discourse upon the present Subject,
+I shall not touch upon the Excellency of _Poetry_ in general; nor
+repeat those high _Encomiums_, (as that tis the most divine of all
+human Arts, and the like) which _Plato_ in his _Jone_, _Aristotele_ in
+his _Poetica_, and other Learned men have copiously insisted on: And
+this I do that I might more closely and briefly pursue my present
+design, which, no doubt will not please every man; for since I treat
+of that part of _Poetry_, which (to use _Quintilian's_ words,) by
+reason of its Clownishness, is affraid of the Court and City; some may
+imagine that I follow _Nichocaris_ his humor, who would paint only the
+most ugly and deform'd, and those too in the meanest and most
+frightful dress, that real, or fancy'd Poverty could put them in.
+
+{2} For some think that to be a Sheapard is in it self mean, base, and
+sordid; And this I think is the first thing that the graver and
+soberer sort will be ready to object.
+
+But if we consider how honorable that employment is, our Objectors
+from that Topick will be easily answer'd, for as _Heroick_ Poems owe
+their dignity to the Quality of _Heroes_, so _Pastorals_ to that of
+_Sheapards_.
+
+Now to manifest this, I shall not rely on the authority of the
+_Fabulous_, and _Heroick_ Ages, tho, in the former, a God fed Sheep in
+_Thessaly_, and in the latter, _Hercules_ the Prince of _Heroes_, (as
+_Paterculus_ stiles him) graz'd on mount _Aventine_: These Examples,
+tis true, are not convinceing, yet they sufficiently shew that the
+employment of a Sheapard was sometime look'd upon to be such, as in
+those Fabulous times was not alltogether unbecomeing the _Dignity_ of
+a _Heroe_, or the _Divinity_ of a _God_: which consideration if it
+cannot be of force enough to procure excellence, yet certainly it may
+secure it from the imputation of baseness, since it was sometime lookt
+upon as fit for the greatest in Earth or Heaven.
+
+But not to insist on the authority of _Poets_, _Sacred Writt_ tells
+us that _Jacob_ and _Esau_, two great men, were Sheapards; And _Amos_,
+one of the Royal Family, asserts the same of himself, for _He was_
+among _the Sheapards of Tecua_, following that employment: The like by
+Gods own appointment {3} prepared _Moses_ for a Scepter, as _Philo_
+intimates in his life, when He tells us, _that a Sheapards Art is a
+suitable preparation to a Kingdome_; the same He mentions in the Life
+of _Joseph_, affirming that the care a Sheapard hath over his Cattle,
+very much resembles that which a King hath over his Subjects: The same
+_Basil_ in his Homily de _S. Mamm. Martyre_ hath concerning _David_,
+who was taken from following the Ews great with young ones to feed
+_Israel_, for He says that the Art of feeding and governing are very
+near akin, and even Sisters: And upon this account I suppose twas,
+that Kings amongst the _Greeks_ reckoned the name of Sheapard one of
+their greatest titles, for, if we believe _Varro_, amongst the
+Antients, the best and bravest was still a Sheapard: Every body knows
+that the _Romans_ the worthiest and greatest Nation in the World
+sprang from _Sheapards_: The Augury of the Twelve Vulturs plac't a
+Scepter in _Romulus's_ hand which held a Crook before; and at that
+time, as _Ovid_ says,
+
+  His own small Flock each Senator did keep.
+
+_Lucretius_ mentions an extraordinary happiness, and as it were
+Divinity in a _Sheaperd's_ life,
+
+  Thro Sheapards ease, and their Divine retreats.
+
+And this is the reason, I suppose, why the solitude of the Country,
+the shady Groves, and security of that happy Quiet was so grateful to
+the Muses, for thus _Horace_ represents them,
+
+ {4} The Muses that the Country Love.
+
+How enrojeció seeing the borregote! ... As you pass it a second time,
+was as delighted with a leg of lamb in the right hand panzudo not
+give it to her boss, who was waiting in vain, and which, dropping
+a wad round, to threaten with his knife.
+
+  The afternoon was sad.
+
+Sitting at the door of his hut, believed by surprise several times
+around each something distant or hidden in Kannada to watch. The
+spinner wanted to arrive early on Monday, to go to the factory and
+move to the back accompanied by the horrible way Tonet. It made the
+boy stopped at nightfall the following day.
+
+Nearer the city still in the remaining days left meeting Roseta. - _
+Bona nit! _ But after the usual greeting is not silent. He
+seemed shy progressed much during the rest day. And awkwardly,
+accompanying their faces with expressions and scratches on the legs
+of trousers, was explained, although word passed between word and
+sometimes two minutes. Was glad to see it good ... (Roseta smile and
+a "_grasies_" murmured faintly.) Was a lot of fun on Sunday ...
+(Silencio.) He had gone quite badly. Was bored. No doubt the custom
+... then ... it seemed that something was missing .... Sure! law had
+taken the road ... no, not the road, what they liked ... and was
+accompanied here stopped in its tracks. So it seemed to Roseta is
+nervously biting the tongue to punish him for his audacity, and is
+pinched in the armpits for having gone so far.
+
+  They walked in silence a long time.
+
+The girl did not reply, continuing his march to succeed contoneo the
+spinners, the basket in the left hip and right arm, cutting the air
+with a pendulum swinging. Think about their dreams. Imagined to be in
+full frenzy, seeing extravagances, and became the head several times
+to believe that perceived in the dark dog that Lamia had the hands
+and face Tonet, who still remember him laughing. But no, which
+leads to the side was a good guy capable of defending it, and shrunk
+somewhat shy, though, with the head down, as if the words had yet
+to say it had crept up to his chest and they were clicking. Roseta
+still more confused. "Let's see: Why was that? Why I walked out to
+accompany him on his way? What people say? If her father found out,
+what a disgust !...» - _ Per what? ... ¿Per què? _ - Asked the girl.
+And the boy, growing sadder, more shrunken as a convicted prisoner
+who hear his indictment, nothing responded.
+
+Marching in step with the young, but separated from it by tripping
+on the curb.
+
+  Roseta even thought he was going to mourn.
+  But close to the hut, where they would
+  break up, had a boot Tonet shy. He spoke with the
+  same violence that had fallen quiet, and as if not
+  many minutes had elapsed, he replied to the
+  question of the girl: - _Per what? ...
+
+Perqu'et vullc_. [12] [12] - Why ...
+
+  Because I love you. I told her
+  to throw close to their breath in the face, eyes shining as if
+they left him the whole truth, and after that, sorry again, fearful,
+terrified by his words, began to run as a child.
+
+Tonet! wanted! ... Had two days that she expected these words,
+yet the effect of causing an unexpected revelation. She wanted him, and
+all night, even in dreams, he heard, murmured a thousand voices with
+their ears, the same phrase: "_Perqu'et vullc_. 'He did not wait Tonet
+The next night. At dawn he saw Rosetta on the road, almost hidden
+behind the trunk of a mulberry tree, looking with anxiety, like
+a child who fears the reprimand and is repentant, ready to flee at the
+first sign of displeasure. Spinner But blushing smiled, and no more.
+Everything was spoken, not again say that they wanted, but it was
+agreed the dating thing, and Tonet not miss even once to accompany
+him on his way. panzudo The butcher raging anger with the sudden
+change of his servant before so diligently and have always inventing
+excuses to spend hours and hours in the garden, especially at sunset.
+But with the selfishness of his joy, Tonet worried both blocks
+and threats from his master spinner as their feared father, to whom
+he felt even more afraid that ordinarily respect. Roseta _estudi_
+was always in a nest, which claimed to have found on the road. Her
+boyfriend did not know show empty-handed, and explore all the
+Kannada and trees of the garden to offer to the spinner wheels straw
+and sticks, in which few manilimaes background, with pink skin
+covered with fine hair and bare ass , piaban desperately, opening a
+huge peak of ever ahito crumbs. Roseta kept the gift in your room,
+as if the same person for her boyfriend, and she cried when her
+siblings, people often find that the nest was shed in force to
+admire the birds, eventually wring the neck.
+
+Sometimes Tonet appeared with a lump in the belly: the full range of
+lupins and peanuts, bought house _Copa_ and slowly going the way,
+ate and ate, looking into each other's eyes, smiling like a fool
+without knowing what , sitting in a slopes often without realizing
+it. She was the most sensible, and rebuked him. Always spend money!
+Two were real or just under a week which had stopped at the tavern
+with so many gifts. And he showed generous. Who wanted the rooms but
+for her? When married - ever would be - and save money. The thing
+there would be ten or twelve years, there was no hurry, all dating
+from the garden and lasted one season.
+
+I was getting married again Roseta to reality. The day that his father
+knew everything .... ¡Holy Virgin! would deslomarla á garrotazos. And
+speaking of the future beating calmly, smiling like a girl accustomed
+to such strong parental authority, rigid, imposing and honradota,
+that manifests and slapping sticks.
+
+  Their relations were innocent. Never came including
+  sharp desire, the courage of the flesh. Marching
+  along the road nearly deserted in the
+  twilight of dusk and the solitude seemed out of his thinking unclean
+any purpose.
+
+Once Tonet inadvertently grazed Roseta's waist, as if he ruborizóse
+girl. Were the two very distant to believe in their everyday
+encounters could lead to something other than talk and look.
+
+  It was the first love, the expansion of youth
+  barely awake, which is content to see, talk
+  and laugh with, without any shadow of desire.
+  The spinner, which was both frightening and nights desired the
+arrival of spring, he saw with concern develop the long twilight
+and bright.
+
+Now met her boyfriend in broad daylight, and never missing from
+the companion way the factory or in the neighborhood women, who see
+them together smiling mischievously guessing everything. The factory
+began teasing from His enemies, who when asked ironically married,
+and called her nickname of "The Shepherdess" by having a love affair
+with the nephew of the uncle _Tomba_. trembling with concern the
+poor Roseta. What a beating would win! Any day came the news to his
+father. And then when Batiste was the day of his sentence in the
+Tribunal de las Aguas, the saw on the road accompanied by Tonet. But
+nothing happened.
+
+  The happy event for irrigation saved the girl.
+  His father, spared glad harvest limitóse to look at her several
+times with entrecejo gathering.
+
+Then the voice said with a slow rate and high stress imperative that
+in future only take care of back at the factory, we would know who he
+was. And again during a single week. Tonet he had some respect to
+Mr.
+
+  Batiste, and was satisfied with ambush near the road,
+  to see move to the spinner or follow after far. As the
+  days were longer, there were many people along
+  the way. But this could not distance extended
+  to the newlyweds impatient, and a Sunday afternoon,
+  Rosette, idle, tired of walking outside the door of his hut to see
+Tonet and believing in all the paths passing away, grabbed a jug
+painted in green, and He told his mother that would bring water
+from the source of the Queen.
+
+The mother left her to go. Had distracted; Poor girl! had no friends,
+and the youth must be given his due. The source of the Queen was the
+pride of all that part of the garden, ordered to water wells and
+the red liquid and muddy ditch that ran by.
+
+  I was facing á an abandoned farmhouse, and
+  was "something old and of great merit" in the words
+  of the wisest of the garden: the work of the
+  Moors, as _Pimentó_; monument of the era in which the apostles
+were baptized by the rogue world, according Oracle stated in the
+majesty of man _Tomba_.
+
+In the evening progressed the road, poplar orlados restless with silver
+foliage, groups of girls who still wore his pitcher and right on
+the head, recalling rhythmic step with his slender figure and the
+Greek canéforas.
+
+The parade gave the Valencian some biblical flavor. He remembered
+singing Arabic poetry to the woman next to the fountain with the
+jug at his feet, joining in a single table, the two most vehement
+passions of the East: the beauty and water. The source of the
+Queen was a square pond, stone walls with red and having
+their water much lower than ground level. Declined to fund six steps,
+always green and slippery by moisture. In the face of the rectangle
+border stone staircase destacábase with a bas-relief figures
+blurred that it was impossible to guess in the whitewashed layer.
+Should be the Virgin surrounded by angels, a work of art rude and
+naive of the Middle Ages; a voting the time of the conquest, but
+clicking a few generations to make better stone figures erased by
+the years, and bleached with unscrupulous barbarous curiosity, had
+left the slab so that only one package report distinguished woman,
+" Queen ', which gave its name to the source: "queen of the Moors",
+as must necessarily be in all the tales of the field.
+
+They were not there the little confusion algazara and Sunday afternoons.
+Over thirty girls agolpábanse their pitchers, all of them eager to be
+the first to fill, but no hurry to leave. Empujábanse ladder at the
+close, with skirts gathered between the legs to sink and tilt your
+pitcher in the small pond. Shuddered it emerged with the water
+constantly bubbles from the bottom of sand, where bunches of
+plants were growing gelatinous, green hair flowing, moving in its
+liquid crystal prison pulse of the current. Insects known as' weavers'
+rayaban with restless legs this clear area. Those who had already
+filled their pitchers sentábanse at the edges of the raft, with
+his legs dangling over the water, shrinkage then outraged shrieks
+each time some kid fell á drinking and looking at the top.
+
+It was a reunion of sparrows rebels. All speak at a time, some
+were insulted, other iban flayed the absent making public all
+the scandals of the orchard. Youth, free of the paternal
+severity, it appeared hypocritical gesture made to the house,
+and was with all the aggressiveness of a lack of rudeness expansion.
+Those dark angels, who so meekly joys and sang in the church
+of letrillas Alboraya to celebrate the holidays of the single,
+alone and enardecíanse qualified votes of his conversation with
+Carter, talking about things internal to the poise of a midwife.
+
+He fell Roseta with his pitcher, without having found a boyfriend on
+the road, even though they walked slowly, often turning her head,
+hoping each time leaving a trail. The source of the noisy salon
+calloused to it. Caused amazement at the first time the presence of
+Roseta: something like the entrance to dwell in a church in the middle
+of Mass Alboraya greater. Why was there that 'hungry »?... welcomed
+Roseta two or three that had its factory and only if you answered,
+tightening his lips and with a disdain retintín. The other, responses
+of surprise, followed talking as if nothing had happened, not
+willing to give the intruder nor the honor of silence.
+
+Roseta lowered to the fountain, and then fill the jug, pulled out,
+adding, his head over the wall, casting a keen eye for across the
+plain. - _Mira, look no vindrá_. [13] [13] - Look, look, that will
+not come. _Pimentó_ was a niece, the daughter of a sister of
+PPT, which stated that; Morenilla, nerve, nose, or roll up insolent,
+proud of being unique in your home and that his father was not
+anyone's tenant, since the four were working very own. Yes, I would
+be looking far, not come. Do not know the others who would? Well,
+her boyfriend, the grandson of Uncle _Tomba_. Oops a compromise
+And the thirty cruel mouths began to laugh as if bitten, not because I
+find a great joke to the thing, but overwhelmed by the daughter of
+the hated Batiste. - _ The 'Pastora »!_...- --- "said some.
+_ The "Divina Pastora »!_... Roseta won the shoulder with an
+expression of indifference.
+
+He hoped this nickname. Also, the jokes of the factory had dulled its
+susceptibility. Cargóse and the pitcher up the rungs, but the latter
+was arrested by the voice mimosa's niece _Pimentó_.
+
+How this biting vermin! ... Never be the wife of the grandson of
+Uncle _Tomba_. It was an unhappy, an 'starved to death, but very
+honest and unable to match with a family of thieves. Almost unbraided
+his waterpot Roseta. Enrojeció, as if these words, ripping the heart,
+would have to upload all the blood to his face, then quedóse
+white, pale with death. - _ Who is Lladro? Who? _ [14] - asked in a
+voice that made temblona laugh all of the source. [14] - Who's
+a thief? Who Who? His father. _Pimentó_, His uncle, he knew well, and
+at home _Copa_ not mentioned otherwise.
+
+I thought the past was to be hidden? Fled her village because they
+knew there too, so had come to the garden to take over what was not
+theirs. So were reports that Mr. Batiste had been in prison for bad
+things ... And thus the continued Viborillas, dropping everything in
+her house and heard in the valley: lies forged by the lost house _Copa_,
+a warp of slander invented by _Pimentó_, which is increasingly
+being felt least prepared to face to face attack á Batiste,
+harassed and tried, tired and hurt by the insult.
+
+The strength of the father appeared suddenly in Roseta, tremulous,
+balbuciente rabies graining and with eyes of blood. Let the pitcher,
+which was shattered, dunking the girls more immediate, which
+protested in chorus calling beast. But it was good to look at such
+things! - _ Mon !_...-- shouted stop moving toward the insolent -.
+Lladró ¿_Mon stop ... Tórnau again and trenque'ls et morros_. [15] [15]
+- My father a thief? ... I repeat and you break the muzzle. They
+could not repeat the Morenilla, because before he gets to open his
+mouth, he received a punch in it, while the other hand Roseta sank
+in his topknot. Instinctively, moved by the pain, it also grabbed
+the blond hair of the spinner, and for several minutes, the two
+curved saw, firing cries of pain and anger, with the front near
+the ground, dragging each other with cruel jerks each gave the hair of
+the other. Fork fell to rid the braids.
+
+His hair seemed opulent warriors banners, floating and non-winners,
+but twisted and martyred by the hands of the enemy. Roseta But, stronger
+or more mad, managed disengaged, and would drag his adversary, perhaps
+gave a spanking internal then with your free hand struggling to
+take off a shoe, something unheard of when it happened, irritable,
+brutal.
+
+Without prior agreement, as if the hatred of their families, phrases
+and curses heard in their barracks they arise overnight, dropped to
+all a time on Batiste's daughter. - _ Lladrona! ¡Lladrona Roseta !_...
+disappeared under the threatening arms. Cubrióse scratches on his face.
+Overwhelmed by so many blows, neither could fall, as the same enemy
+apreturas retained their right. But pushed to and fro, finally rolling
+on the slippery steps, and her forehead hit the edge of a stone.
+
+  Blood!! ... It was like a stone at a tree full
+  of birds.
+
+All ran off in different directions, with the pitchers on their heads,
+and little time was not in the vicinity of the source of the Queen
+rather than the poor Roseta with loose hair, skirts torn, his face
+dirty with dust and blood, walking toward his house weeping. How screamed
+with anguish the mother to come and view it as a protest to then find
+out what happened! Those people were worse than Jews. "O my Lord!
+Sir! Could such a crime happen in the land of Christians ...
+They are no longer enough to the garden with the men annoy poor
+Batiste, libelous before the court to impose fines for unfair. Now
+that her children were chasing the poor Roseta, as if she had any
+fault unhappy. And all for what I wanted to live ... to work
+without offending anyone, as God commanded. Batiste, seeing her
+daughter bloodied and weeping, palideció, taking some steps to the road
+with their eyes fixed on the shack _Pimentó_ whose roofs peeked
+on Kannada.
+
+  But he stopped fighting and became more sweetly Roseta.
+
+Teach what happened by not comfortable walking in the garden. They
+should avoid any friction with others live together and united in
+their barracks, not separated by land that never was his life.
+
+Inside the home, and would keep the enemies are coming to find them.
+Lullus_ says it
+hath been done,) should we therefore reckon that divine and
+incomparable Master of _Heroick_ Poetry amongst the _Lyricks_?
+
+Others with _Cæsius Bassus_ and _Isacius Tzetzes_ hold that that
+distribution of _Poetry_, which _Aristotle_ and _Tully_ hath left us,
+is deficient and imperfect; and that only the chief Species are
+reckoned, but the more inconsiderable not mention'd: I shall not here
+interest my self in that quarrel of the _Criticks_, whether we have
+all _Aristotles_ books of Poetry or no; this is a considerable
+difficulty I confess, for _Laertius_ who accurately weighs this
+matter, says that he wrote two books of _Poetry_, the one lost, and
+the other we have, tho _Mutinensis_ is of an other mind: but to end
+this dispute, I must agree with _Vossius_, who says the Philosopher
+comprehended these Species not expressly mentioned, under a higher and
+more noble head: and that therefore _Pastoral_ was contain'd in
+_Epick_. for these are his own words, _besides there are Epicks of an
+inferior rank, such as the Writers of Bucolicks_. _Sincerus_, as
+_Minturnus_ quotes him, is of the same mind, for thus he delivers his
+opinion concerning _Epick Verse_: _The matters about which these
+numbers may be employed is various; either mean and low, as in
+Pastorals, great and lofty, as when {19} the Subject is Divine Things,
+or Heroick Actions, or of a middle rank, as when we use them to
+deliver precepts in:_ And this likewise he signifys before, where he
+sets down three sorts of _Epicks_: _one of which, says he, is divine,
+and the most excellent by much in all Poetry_; the _other the lowest
+but most pure, in which Theocritus excelled, which indeed shews
+nothing of Poetry beside the bare numbers_: These points being thus
+settled, the remaining difficultys will be more easily dispatched.
+
+For as in _Dramatick_ Poetry the Dignity and meanness of the
+_Persons_ represented make two different _Species of imitation_ the
+one _Tragick_, which agrees to none but great and Illustrious persons,
+the other _Comick_, which suits with common and gentile humors: so in
+_Epick_ too, there may be reckoned two sorts of _Imitation_, one of
+which belongs to _Heroes_, and that makes the _Heroick_; the other to
+_Rusticks_ and _Sheapards_ and that constitutes the _Pastoral_, now as
+a _Picture_ imitates the Features of the face, so _Poetry_ doth
+action, and tis not a representation of the Person but the Action.
+
+From all which we may gather this definition of Pastoral: _It is the
+imitation of the Action of a Sheapard, or of one taken under that
+Character_: Thus _Virgil's Gallus_, tho not really a _Sheapard_, for
+he was a man of great quality in _Rome_, yet belongs to _Pastoral_,
+because he is represented like a Sheapard: hence the Poet:
+
+  {20} The Goatherd and the heavy Heardsmen came,
+  And ask't what rais'd the deadly Flame.
+
+The _Scene_ lys amongst Sheapards, the _Swains_ are brought in, the
+_Herdsmen_ come to see his misery, and the fiction is suited to the
+real condition of a _Sheapard_; the same is to be said for his
+_Silenus_, who tho he seems lofty, and to sound to loud for an oaten
+reed, yet since what he sings he sings to _Sheapards_, and suits his
+Subject to their apprehensions, his is to be acknowledged _Pastoral_.
+This rule we must stick to, that we might infallibly discern what is
+stricktly _Pastoral_ in _Virgil_ and _Theocritus_, and what not: for
+in _Theocritus_ there are some more lofty thoughts which not having
+any thing belonging to Sheapards for their Subject, must by no means
+be accounted _Pastoral_, But of this more in its proper place.
+
+My present inquiry must be what is the _Subject Matter_ of a
+_Pastoral_, about which it is not easy to resolve; since neither from
+_Aristotle_, nor any of the _Greeks_ who have written _Pastorals_, we
+can receive certain direction. For sometimes they treat of high and
+sublime things, like _Epick Poets_; what can be loftier than the whole
+_Seaventh Idyllium of Bias_ in which _Myrsan_ urges _Lycidas_ the
+Sheapard to sing the Loves of _Deidamia_ and _Achilles_. For he
+begins from _Helen's_ rape, and goes on to the revengful fury of the
+_Atrides_, and shuts up in one _Pastoral_, all that is great and
+sounding in _Homers Iliad_.
+
+  {21} Sparta was fir'd with Rage
+  And gather'd Greece to prosecute Revenge.
+
+And _Theocritus_ his verses are sometimes as sounding and his
+thoughts as high: for upon serious consideration I cannot mind what
+part of all the _Heroicks_ is so strong and sounding as that
+_Idyllium_ on _Hercules_ *leontophonô* in which _Hercules_ himself
+tells _Phyleus_ how he kill'd the Lyon whose Skin he wore: for, not to
+mention many, what can be greater than this expression.
+
+  And gaping Hell received his mighty Soul:
+
+Why should I instance in the *dioskouroi*, which hath not one line
+below Heroick; the greatness of this is almost inexpressible.
+
+  *anêr hyperoplos enêmeros, endiaaske
+    deinos idein*
+
+And some other pieces are as strong as these, such is the _Panegyrick
+on Ptolemy_, _Helen's Epithalamium_, and the Fight of young _Hercules_
+and the Snakes: now how is it likely that such Subjects should be fit
+for _Pastorals_, of which in my opinion, the same may be said which
+_Ovid_ doth of his _Cydippe_.
+
+  Cydippe, Homer, doth not fit thy Muse.
+
+For certainly _Pastorals_ ought not to rise to the Majesty of
+_Heroicks_: but who on the other side {22} dares reprehend such great
+and judicious Authors, whose very doing it is Authority enough? What
+shall I say of _Virgil_? who in his Sixth _Eclogue_ hath put together
+allmost all the particulars of the fabulous Age; what is so high to
+which _Silenus_ that Master of Mysterys doth not soar?
+
+  For lo! he sung the Worlds stupendious birth,
+  How scatter'd seeds of sea, of Air, and Earth,
+  And purer Fire thro universal night
+  And empty space did fruitfully unite:
+  From whence th' innumerable race of things
+  By circular successive order springs:
+
+And afterward
+
+  How Pyrra's Stony race rose from the ground,
+  And Saturn reign'd with Golden plenty crown'd,
+  How bold _Prometheus_ (whose untam'd desire,
+  Rival'd the Sun with his own Heavenly Fire)
+  Now doom'd the _Scythian_ Vulturs endless prey
+  Severely pays for Animating Clay:
+
+So true, so certain 'tis, that nothing is so high and lofty to which
+_Bucolicks_ may not successfully aspire. But if this be so, what will
+become of _Macrobius, Georgius Valla, Julius Scaliger, Vossius,_ and
+the whole company of Grammarians? who all affirm that simplicity and
+meanness is so essential to _Pastorals_, that it ought to be confin'd
+to the State, Manners, Apprehension and even common phrases of
+Sheapards: for nothing can {23} be said to be _Pastoral_, which is not
+accommodated to their condition; and for this Reason _Nannius
+Alcmaritanus_ in my opinion is a trifler, who, in his comments on
+_Virgils Eclogues_, thinks that those sorts of Composures may now and
+then be lofty, and treat of great subjects: where he likewise divides
+the matter of _Bucolicks_, into _Low_, _Middle_, and _High_: and makes
+_Virgil_ the Author of this Division, who in his Fourth _Eclogue_, (as
+he imagines) divides the matter of _Bucolicks_ into Three sorts, and
+intimates this division by these three words: _Bushes_, _Shrubs_ and
+_Woods_.
+
+  Sicilian Muse begin a loftier strain,
+  The Bushes and the Shrubs that shade the Plain
+  Delight not all; if I to Woods repair
+  My Song shall make them worth a Consuls Care.
+
+By Woods, as he fancys, as _Virgil_ means high and stately Trees, so
+He would have a great and lofty Subject to to be implyed, such as he
+designed for the _Consul_: by Bushes, which are almost even with the
+ground, the meanest and lowest argument; and by Shrubs a Subject not
+so high as the one, nor so low as the other, as the thing it-self is,
+And therefore these lines
+
+       If I to Woods repair
+  My Song shall make them worth a _Consuls_ care.
+
+{24} are thus to be understood, That if we choose high and sublime
+arguments, our work will be fit for the Patronage of a _Consul_, This
+is _Nanniu's_ interpretation of that place; too pedantial and subtle
+I'me affraid, for tis not credible that ever _Virgil_ thought of
+reckoning great and lofty things amongst the Subjects of _Bucolicks_
+especially since
+
+  When his _Thalia_ rais'd her bolder voice
+  And Kings and Battles were her lofty choice,
+  _Phoebus_ did twitch his Ear, mean thoughts infuse,
+  And with this whisper check't th' inspiring Muse.
+  A Sheapard, Tityrus, his Sheep should feed,
+  And choose a subject suited to his reed,
+
+This certainly was a serious admonition, implyed by the twitching of
+his Ear, and I believe if he had continued in this former humor and
+not obey'd the smarting admonition. He had still felt it: so far was
+he from thinking Kings and Battels fit Themes for a _Sheapards_ song:
+and this evidently shows that in _Virgils_ opinion, contrary to
+_Nanniu's_ fancy, great things cannot in the least be comprehended
+within the subject matter of _Pastorals;_ no, it must be low and
+humble, which _Theocritus_ very happily expresseth by this word
+*Boukoliasdên* _i.e._ as the interpreters explain it, sing humble
+Strains.
+
+Theefore let _Pastoral_ never venture upon a {25} lofty subject, let
+it not recede one jot from its proper matter, but be employ'd about
+Rustick affairs: such as are mean and humble in themselves; and such
+are the affairs of Shepherds, especially their Loves, but those must
+be pure and innocent; not disturb'd by vain suspitious jealousy, nor
+polluted by Rapes; The Rivals must not fight, and their emulations
+must be without quarrellings: such as _Vida_ meant.
+
+  Whilst on his Reed he Shepherd's stifes conveys,
+  And soft complaints in smooth Sicilian lays.
+
+To these may be added _sports_, _Jests_, _Gifts_, and _Presents_; but
+not _costly_, such are yellow Apples, young stock-Doves, Milk,
+Flowers, and the like; all things must appear delightful and easy,
+nothing vitious and rough: A perfidious Pimp, a designing Jilt, a
+gripeing Usurer, a crafty factious Servant must have no room there,
+but every part must be full of the simplicity of the _Golden-Age_, and
+of that Candor which was then eminent: for as _Juvenal affirms_
+
+  Baseness was a great wonder in that Age;
+
+Sometimes _Funeral-Rites_ are the subject of an _Eclogue_, where the
+Shepherds scatter flowers on the Tomb, and sing Rustick Songs in honor
+of the Dead: Examples of this kind are left us by _Virgil_ in his
+_Daphnis_, and _Bion_ in his _Adonis_, and this hath nothing
+disagreeable to a Shepherd: In {26} short whatever, the decorum being
+still preserv'd, can be done by a _Sheapard_, may be the Subject of a
+_Pastoral_.
+
+Now there may be more kinds of Subjects than _Servius_ or _Donatus_
+allow, for they confine us to that Number which _Virgil_ hath made use
+of, tho _Minturnus_ in his second Book _de Poetâ_ declares against
+this opinion: But as a glorious _Heroick_ action must be the Subject
+of an _Heroick_ Poem, so a _Pastoral_ action of a _Pastoral_; at least
+it must be so turn'd and wrought, that it might appear to be the
+action of a _Shepherd_; which caution is very necessary to be
+observ'd, to clear a great many difficulties in this matter: for tho
+as the Interpreters assure us; most of _Virgils_ Eclogues are about
+the Civil war, planting Colonys, the murder of the Emperor, and the
+like, which in themselves are too great and too lofty for humble
+_Pastoral_ to reach, yet because they are accomodated to the Genius of
+Shepherds, may be the Subject of an _Eclogue_, for that sometimes will
+admit of Gods and Heroes so they appear like, and are shrouded under
+the Persons of Shepherds: But as for these matters which neither
+really are, nor are so wrought as to seem the actions of Shepherds,
+such are in _Moschus's_ _Europa_, _Theocritus's_ _Epithalamium of
+Helen_, and _Virgil's_ _Pollio_, to declare my opinion freely, I
+cannot think them to be fit Subjects for _Bucolicks_: And upon this
+account I suppose 'tis that _Servius_ in his {27} Comments on
+_Virgil's_ _Bucoliks_ reckons only seven of _Virgil's_ ten Eclogues,
+and onely ten of _Theocritus's_ thirty, to be pure Pastorals, and
+_Salmasius_ upon _Solinus_ says, that _amongst Theocritus's_ _Poems
+there are some which you may call what you please Beside Pastorals_:
+and _Heinsius_ in his _Scholia_ upon _Theocritus_ will allow but Ten
+of his _Idylliums_ to be _Bucoliks_, 1. 2. 3. 4. 5. 6. 7. 8. 9. 11.
+for all the rest are deficient either in matter or form, and from this
+number of pure pastoral _Idylliums_ I am apt to think, that
+_Theocritus_ seems to have made that Pipe, on which he tun'd his
+_Pastorals_ and which he consecrated to _Pan_ of ten Reeds, as
+_Salmasius_ in his notes on _Theocritus's_ Pipe hath learnedly
+observed: _in which two Verses always make one Reed of the Pipe,
+therefore all are so unequal, like the unequal Reeds of a Pipe, that
+if you put two equals together which make one Reed, the whole
+inequality consists in ten pairs_; when in the common Pipes there were
+usually no more then seven Reeds, and this the less curious observers
+have heedlessly past by.
+
+The people left behind, according to his shack Batiste moved marcábase
+increasingly hostile. The people he encountered on the trails without
+him goodnight. Came in a foreign land, and as a soldier who was preparing
+to fight the enemy just across the border, Batiste sought in his belt
+the ammunition, two bullet cartridges manufactured and posts by
+himself, and loaded his shotgun. hombretón The river after doing this.
+Good sprinkling would lead to all who attempt to cut off the pace.
+
+He walked slowly, quietly, gozándose breathe in the freshness of
+that summer night. But this calm was not prevented from going in
+thinking that it was risky to go through the orchard, taking hours to
+such enemies. His ear for subtle farmer noticed a noise behind him.
+Turned quickly, and the diffuse light of the stars believed to see a
+black bag out of the way with leap-quiet and hiding behind a slopes.
+Batiste called his shotgun, and riding cautiously approached the
+keys to the site. Nobody .... Only at some distance he found that
+plants ripples in the dark, as if a body is dragged between them.
+
+He came along: someone was trying to surprise treacherously in the
+back. But this suspicion did not last long. Might be some dogs that ran
+away when he feels his approach. In short: the fact that someone was
+running away from it, was who I was, and had nothing to do there.
+Continued by the dark path, walking silently, as a man who knows the
+blind spot and prudence not want to draw attention. As close to their
+barracks felt more anxiety. This was his district, but it was his
+staunchest enemies.
+
+A few minutes before reaching his home, near the farmhouse where
+the girls danced blue Sunday, the road was strangled, making several
+turns. On one side, a high slopes crowned double row of old mulberry
+trees, on the other, a wide canal, whose sloping sides were covered
+by thick and high Kannada. This vegetation appeared in the dark
+forest indiano, a canopy of bamboo on cimbreándose the way black. The
+mass of reeds, shaken by the vientecillo of the night, threw a
+mournful cry, seemed smelled betrayal here, so cool and
+pleasant during sunlight hours. Batiste, to mock his own restlessness,
+exaggerated the danger mentally. Magnificent place to drop a escopetazo
+sure! If _Pimentó_ roamed there, not so beautiful despreciaría
+occasion. And said this is just left of straight rods and a tongue
+of fire shooting, a red arrow, which dissolved a bang, and
+something went whistling along with an ear of Batiste. Instinctively
+he threw .... bent over, trying lobreguez confused with the land, not
+to submit to the enemy target. And at the same time shone a second
+flash, sounded another blast, confused alive with the echoes of the
+first, and Batiste in the left shoulder he felt a tearing pain,
+something like a steel fingernail scratched the surface. Barely stopped
+This attention. I felt a wild joy. Two shots ... the enemy was unarmed.
+- _ Christ! ¡Ara't caught! _ [27] [27] - Christ! Now you crook! Was
+launched among the reeds, almost rolling down the slope of the banks
+of the canal, and was inserted into the water to the waist, feet in
+the mud, arms high, very high to prevent it mojase the gun, saving
+two shots stingy until fired safely. cruzábanse before his eyes
+reeds, forming tight vault, almost flush with water. Front of him was
+playing in lobreguez a dull splash, as if a dog run down canal ....
+There was the enemy: it! Crazy and start a career in the deep
+channel, go groping in the shadows, leaving missed espadrilles
+silt in the bed with your pants stuck to the meat, braces, heavy,
+hampering movements, receiving the slap in the face of the cane
+stalk, scratch the leaves rigid and sharp.
+
+There was a time when we see something black Batiste believed
+that cling to the cane by pushing up the slopes. Trying to escape
+... fire!
+
+His hands felt itching of the murder laid the shotgun to his
+face, left the trigger ... the shot rang, and the package fell
+from a canal in the rain of leaves and broken reeds. Get it! Get
+him! ... Batiste returned again to hear that splash dog run, but now
+with more force, as if driven by the escape extreme despair. It was a
+dizzying race through the darkness of the vegetation and water. Slip
+in the two blanducho ground, unable to grasp by the canes do not drop
+the gun; arremolinábase water, beaten by the furious race, and Batiste,
+who fell to his knees several times, only thought of stretching his
+arms to keep his gun outside the area, saving the reserve draft.
+And so the manhunt continued, groping in the dark, deep, until a
+revolt in the canal came to a cleared area, with slopes clean
+canes.'s eyes Batiste, accustomed to lobreguez the plant canopy, saw
+quite clearly a man who, relying on the shotgun, left reeling from
+the canal, moving with difficulty his legs loaded with mud. ... It
+was him He! The usual! - _ Lladro ... Lladro: no t'escaparás! _ [28] -
+rugió Batiste, firing his second shot from the bottom of the ditch
+with the safety of the shooter can aim well and that knows that
+meat does. "[28] - Thief ... thief: do not escape!
+
+  saw him headlong fall heavily on the
+  slopes and then crawl to the water does not roll up.
+
+Batiste wanted to reach, but with so much haste, that he was giving a
+false step, fell over when it was at the bottom of the ditch. His
+head was sunk in the mud, swallowing the liquid and earthy red, believed
+to die, be buried at the bed of mud, and finally, with a mighty effort,
+he managed to straighten, drawing water out of their limo for the blind
+eyes, his mouth sucking the longing winds of the night. hardly regained
+sight, looking for his enemies . Had disappeared. Dripping mud and
+water out of the ditch, climbed the slope on the same site as
+his opponent, but when she saw him not get up. In the dry land were
+marked some black spots, and played with the hands.
+
+  Smelled blood. Well he knew that he had not missed their shot.
+
+But in vain sought to contrast with the desire to see his corpse.
+_Pimentó_ That was the hard skin, blood and mud and throwing may
+be dragged to his shack. It should be a vague thought that rubbing
+perceive the immediate areas like a big snake crawling on the
+rows, for all the dogs bark in the garden with desperate howls.
+He had heard the same crawl quarter of an hour before, no doubt trying
+to kill him in the back, to be discovered and he fled to kiss the
+way to bet beyond Cañar in leafy, safe and stalking. Batiste afraid
+of soon. He was alone in the middle of the plain, completely disarmed,
+his shotgun, lack of ammunition, but that was no longer a weak club.
+_Pimentó_ Could not back against him, but he had friends. And
+dominated by sudden terror, ran away, looking through the fields the
+way that led to his barrack. The plain shuddered alarm. The four shots
+in the middle of the night had in shock the whole outline. Dogs
+bark, increasingly angry, entreabríanse doors villages and barracks,
+throwing black silhouettes was certainly not left empty-handed.
+Entendíanse With whistles and shouts of convecinos long distances.
+Tiros night could be a sign of fire, thieves, who knows what! ...
+certainly nothing good, and the men left their homes ready to do
+anything with the dedication and solidarity of those living in the
+countryside. Frightened by this movement, Batiste ran towards his
+hut, bent many times to go unnoticed under or the slopes of the
+big piles of straw. It was his home, with the door open and illuminated
+in the center of the red black box packages from his family.
+The dog sniffs it, and was the first to greet you. Teresa Roseta and
+gave a shout of joy. - _Batiste, Are you tú_ - _ Stop!
+Stop !_... And all rushed to him, at the entrance of the hut, under
+the old vine, through whose branches worms shone as the stars
+of light. The mother, with his fine ear and women concerned
+alarmed by the late husband's, had heard far, far away, four shots,
+and his heart gave a roll, she said. The whole family had been launched
+at the door, eager devouring the dark horizon, convinced that the
+plain alarming explosions that had some relationship with the father's
+absence.
+
+Locos happy to see him and hear his words, not set in face smeared
+mud in their bare feet in the dirty clothes and dripping mud. He
+pushed inward. Rosette hanging from his neck, sighed lovingly, her
+eyes still moist - _ Stop! Stop !_... But _pare_ could not contain a
+face of suffering, a 'alas' drowned and painful. An arm of Roseta
+was supported in his left shoulder in the same place where he suffered
+the tear in the nail of steel, and which now feels increasingly
+overwhelming weight. Upon entering the tent and give a full view
+of the lamp, women and children launched a cry of astonishment. They
+saw the bloody shirt ... and outlaw its facade, as if you escape from
+a prison out the latrine. Rosette and her mother bursts into wailing.
+'Holy Queen! ... And Lady Sovereign! You killed ?...»
+
+But Batiste, who felt a pain in the shoulder increasingly unbearable,
+drew from the disarray with their sullen gesture soon saw that he
+had. Roseta, more lively, and tore the thick rough shirt to leave the
+uncovered shoulder ... How much blood! The girl palideció, making
+efforts not to faint. Batistet and small began to mourn and Teresa
+continued screaming as if her husband is in the agony. But the
+hurt was not to suffer lamentations and protested with rudeness.
+Less crying: it was little, the evidence was that he could move his
+arm, but felt increasingly more weight on the shoulder. It was a
+scratch, a bullet grazes and nothing else. Felt that too strong to
+be seriously injured. Let's see! ... water, rags, lint, a bottle of
+arnica Teresa kept as miraculous remedy in your _estudi_ ... ¡Move!
+If it was not all be looking for with the mouth open. Teresa turned
+around his room, looking at the bottom of the purse, ripping paintings
+sliding sales, while she washed and washed again in that cleft lip
+bloody started as a fleshy sablazo the shoulder.
+
+The two women were able to tackle as a bleeding wound blindfolded,
+Batiste and breathed with satisfaction, as if they were already
+healed. worst blow fell on him in his life. and devoted himself to
+preaching to the small they were conservative. Everything they had
+seen, not a word to anyone. Were matters that should be forgotten.
+And the same is repeated to his wife, who spoke to alert the doctor.
+It was worth as much as the attention of justice. Curándose and go it
+alone, his skin did miracles. What mattered was that no one is
+mixed in what happened down there. Who knows how those hours would
+be ... other! While his wife helped him change his clothes and preparing
+the bed, Batiste told him what happened. The woman opened her eyes
+with an expression of horror, sighed thinking of the danger faced
+by her husband and threw glances concern to the closed door of the
+hut, as if it were to filter the Guardia Civil.
+
+  Batistet Meanwhile, with a early
+  caution, took the shotgun and in the light of the lamp dried,
+cleaned their guns, trying to erase any sign of her recent use, it
+could happen.
+
+The night was bad for the whole family.
+
+  Batiste Camón delire in the _estudi_.
+
+He had fever, agitábase furious, as if it still runs through the channel
+of the canal chasing the man and his cries to scare the small and
+the two women, who spent the night clear to clear, seated next to the
+bed, offering each instant sugar water, the only home remedy that
+managed to invent. The next day the tent was surrounding her door all
+morning. The wounded seemed to be better kids, her eyes red for
+insomnia remained motionless in the yard, sitting on the manure,
+carefully following all the stupid moves of animals housed there.
+
+Teresa Vega glimpse through the door ajar, After returning to the
+side of Batiste .... What people! All contour passing along the
+path towards the hut of _Pimentó_. She looked around her in an anthill
+men ... and all his face fosca, speaking loudly, between vigorous hand
+wringing, perhaps throwing glances away from hatred of the old
+shack _Barret_. Her husband grunts welcomed this news. Beetles something
+deep in the chest causing damage. This movement toward the garden
+shed of his enemy was a proof that he was serious _Pimentó_.
+Maybe he was going to die. I was sure that the two bullets from his
+rifle was still in the body. And now, what would happen ... ¿He die in
+prison, the poor guy _Barret_ ... No, continue to be the custom of
+the orchard, respect for the justice's own hands. Callari is the
+dying, leaving their friends, _Terreròla_ or others, the task of
+revenge. And Batiste did not know what to fear more, if the justice of
+the city or the garden. Began to fall afternoon, when the wounded,
+ignoring the protests and pleas of two women jumped out of his
+Camón.
+
+  Is drowned, his body athlete, accustomed to fatigue, could not
+withstand long hours of immobility.
+
+The heaviness of the shoulder prompted him to change position, as if
+this could get rid of pain. With faltering step, numb for the rest,
+came out of the shack, sitting under the arbor, a bench of bricks. The
+evening was desapacible, a wind blew too fresh for the season. Black
+clouds covered the sun, and under them desplomábase light, closing
+the horizon like a curtain of pale gold. Miró Batiste vaguely towards
+the area of the city, turning its back on barracks _Pimentó_, now
+it was clear, to be deprived areas of the curtain that hid harvest
+before mowing. feel the hurt at the same time the impulse of
+curiosity and fear to see too, but at last the eyes turned slowly towards
+the house of his adversary . Yes, many people gathered at the door:
+men, women and children throughout the valley, which ran anxious to
+visit his vanquished libertador. odiarle How should those people!
+
+... Were away, and yet guessed his name ringing in everyone's lips.
+Buzz in your ears, the beat of their temples by the burning fever,
+believed to perceive the threatening whisper of that nest. Yet he
+well knew that God had not done more to defend itself, which wanted
+to keep theirs without causing harm to anyone. What fault was
+found in conflict with some people who, like Mr. Joaquin said the
+teacher, were very good, but very beasts ... ended the evening, the
+sunset looming over the valley a light gray and sad. The wind was
+growing stronger, brought to a remote shack cries echo and angry
+voices. Batiste swirling saw people at the door of the tent away, and
+with arms raised after many expressions of pain, tense hands you
+start the head scarf thrown to the ground with anger. He felt the
+hurt that his blood flowing to his heart stopped as he stopped a few
+moments, then beat more strongly, throwing a wave to his face red
+and burning. guessed what happened over there, it said heart _Pimentó_
+had just died. Batiste trembled with fear and cold, was a
+feeling of weakness, as if you suddenly abandon their forces, and
+got into his hut, not breathing normally until saw that the door
+lock and turned the lamp cast. The evening was dark. The dream to
+overwhelm the family, tired rendered by the vigil of the night before.
+Little dinner, and before the nine were all in bed. Batiste felt
+better of his wound. The peso had fallen on his shoulder, he is
+no longer dominated by fever, but now was racked a strange pain
+in my heart.
+
+  _estudi_ In the darkness and still awake, saw a figure emerge pale,
+indeterminate, which was gradually taking contour and colors to be
+_Pimentó_ as he saw him in recent days, with the head entrapajada
+threatening gesture and his stubborn vindictive.
+
+Molestábale this vision, and closed his eyes to sleep. Absolute
+darkness, the dream was seized from him ....
+And any one may find a great many of the like in _Theocritus_ and
+_Virgil_, if with a leisurely delight he nicely examines their
+delicate Composures: And this I account the greatest grace in
+_Pastorals_, which in my opinion those that write _Pastorals_ do not
+sufficiently observe: 'Tis true Ours (the _French_) and the _Italian_
+language is to babling to endure it; This is the Rock on which those
+that write _Pastorals_ in their _Mother_ tongue are usually split, But
+the _Italians_ are inevitably lost; who having store of _Wit_, a very
+subtle invention and flowing fancy, cannot contain; everything that
+comes into their mind must be poured out, nor are they able to endure
+the least restraint: as is evident from _Marinus's_ _Idylliums_, and a
+great many of that nation who have ventur'd on such composures; For
+unless there are many {41} stops and breakings off in the series of a
+_Pastoral_, it can neither be pleasing nor artificial: And in my
+Opinion _Virgil_ excells _Theocritus_ in this, for _Virgil_ is
+neither so continued, nor so long as _Theocritus_; who indulges too
+much the garrulity of his _Greek_; nay even in those things which he
+expresseth he is more close, and more cautiously conceals that part
+which ought to be dissembled: And this I am sure is a most admirable
+part of Eloquence; as _Tully_ in his Epistle to _Atticus_ says, _'Tis
+rare to speak Eloquently, but more rare to be eloquently silent_: And
+this unskillful _Criticks_ are not acquainted with, and therefore are
+wont oftner to find fault with that which is not fitly exprest, than
+commend that which is prudently conceal'd: I could heap up a great
+many more things to this purpose, but I see no need of such a trouble,
+since no man can rationally doubt of the goodness of my Observation.
+Therefore, in short, let him that writes Pastorals think brevity, if
+it doth not obscure his sense, to be the greatest grace which he can
+attain.
+
+Now why _Bucolicks_ should require such Brevity, and be so
+essentially sparing in _Expression_, I see no other reason but this:
+It loves _Simplicity_ so much that it must be averse to that Pomp and
+Ostentation which _Epick_ Poetry must show, for that must be copious
+and flowing, in every part smooth, and equal to it self: But
+_Pastoral_ must dissemble, and hide even that which it would {42}
+show, like _Damon's_ _Galatea_, who flies then when she most desires
+to be discovered.
+
+  And to the Bushes flys, yet would be seen.
+
+And this doth not proceed from any malitious ill-natur'd Coyness, as
+some imagine, but from an ingenuous modesty and bashfulness, which
+usually accompanies, and is a proof of _Simplicity: Tis very rare_,
+says Pliny, _to find a man so exquisitely skillful, as to be able to
+show those Features in a Picture which he hides_, and I think it to be
+so difficult a task, that none but the most excellent Wits can attempt
+it with success: For small Wits usually abound with a multitude of
+words.
+
+The third Grace of _Bucolicks_ is _Neatness_, which contains all the
+taking prettiness and sweetness of Expression, and whatsoever is
+call'd the Delicacies of the more delightful and pleasing _Muses_:
+This the Rural _Muses_ bestow'd on _Virgil_, as _Horace_ in the tenth
+_Satyr_ of his first Book says,
+
+  And _Virgils_ happy Muse in Eclogues plays,
+  soft and facetious;
+
+Which _Fabius_ takes to signify the most taking neatness and most
+exquisite Elegance imaginable: For thus he explains this place, in
+which he agrees with _Tully_, who in his _Third Book de Oratore_,
+says, the _Atticks_ are Facetious _i.e._ elegant: Tho the common
+Interpreters of these words are not of the same mind: But if by
+_Facetious Horace_ had meant _jesting_, and such as is design'd to
+make men laugh, and apply'd that to _Virgil_, nothing {43} could have
+been more ridiculous; 'tis the design of _Comedy_ to raise laughter,
+but _Eclogue_ should only delight, and charm by its takeing
+_prettiness_: All ravishing _Delicacies_ of Thought, all sweetness of
+Expression, all that Salt from which _Venus_, as the Poets Fable,
+rose; are so essential to this kind of _Poetry_, that it cannot endure
+any thing that is scurillous, malitiously biteing, or ridiculous:
+There must be nothing in it but _Hony, Milk, Roses, Violets_, and the
+like sweetness, so that when you read you might think that you are in
+_Adonis's_ Gardens, as the _Greeks_ speak, _i.e._ in the most pleasant
+place imaginable: For since the subject of _Eclogue_ must be mean and
+unsurprizing, unless it maintains purity and neatness of Expression,
+it cannot please.
+
+Therefore it must do as _Tully_ says his friend _Atticus_ did, who
+entertaining his acquaintance with Leeks and Onions, pleas'd them all
+very well, because he had them serv'd up in wicker Chargers, and clean
+Baskets; So let an _Eclogue_ serve up its fruits and flowers with
+some, tho no costly imbellishment, such as may answer to the wicker
+Chargers, and Baskets; which may be provided at a cheap rate, and are
+agreeable to the Country: yet, (and this rule if you aim at exact
+simplicity, can never be too nicely observ'd,) you must most carefully
+avoid all paint and gawdiness of Expression, and, (which of all sorts
+of Elegancies is the most difficult to be avoided) {44} you must take
+the greatest care that no scrupulous trimness, or artificial finessess
+appear: For, as _Quintilian_ teaches, _in some cases diligence and
+care most most troublesomly perverse_; and when things are most sweet
+they are next to loathsome and many times degenerate: Therefore as in
+Weomen a careless dress becomes some extreamly. Thus _Pastoral_, that
+it might not be uncomely, ought sometimes to be negligent, or the
+finess of its ornaments ought not to appear and lye open to every
+bodies view: so that it ought to affect a studied carelessness, and
+design'd negligence: And that this may be, all gawdiness of Dress,
+such as Paint and Curls, all artificial shining is to be despis'd, but
+in the mean time care must be taken that the Expression be bright and
+simply clean, not filthy and disgustful, but such as is varnisht with
+Wit and Fancy: Now to perfect this, _Nature_ is chiefly to be lookt
+upon, (for nothing that is disagreeable to Nature can please) yet that
+will hardly prevail naked, by it self, and without the polishing of
+Art.
+
+Then there are three things in which, as in its parts, the whole
+_Character_ of a _Pastoral_ is contain'd: _Simplicity_ of Thought and
+expression: _Shortness_ of Periods full of sense and spirit: and the
+_Delicacy_ of a most elegant ravishing unaffected neatness.
+
+Next I will enquire in to the _Efficient_, and then into the _Final_
+Cause of _Pastorals_.
+
+{45} _Aristotle_ assigns two efficient Causes of _Poetry_, The
+natural desire of Imitation in Man whom he calls the most imitative
+Creature; and Pleasure consequent to that Imitation: Which indeed are
+the _Remote_ Causes, but the _Immediate_ are _Art_ and _Nature_; Now
+according to the differences of _Genius's_ several _Species_ of
+Poetry have been introduced. For as the _Philosopher_ hath observ'd,
+*diespathê kata ta oikeia êthê hê poiêsis* Thus those that were lofty
+imitated great and Illustrious; those that were low spirited and
+groveling mean Actions: And every one, according to the various
+inclination of his _Nature_, follow'd this or that sort of _Poetry_:
+This the _Philosopher_ expresly affirms, And _Dio Chrysostomus_ says
+of _Homer_ that he received from the Gods a Nature fit for all sorts
+of Verse: but this is an happiness which none partake but, as he in
+the same place intimates, Godlike minds.
+
+Not to mention other kinds of _Poetry_, what particular Genius is
+requir'd to _Pastoral_ I think, is evident from the foregoing
+Discourse, for as every part of it ought to be full of simple and
+inartificial neatness, so it requires a Wit naturally neat and
+pleasant, born to delight and ravish, which are the qualifications
+certainly of a great and most excellent Nature: For whatsoever in any
+kind is delicate and elegant, that is usually most excellent: And such
+a _Genius_ that hath a sprightfulness of Nature, and is well
+instructed {46} by the rules of Art, is fit to attempt _Pastorals_.
+
+Of the end of Pastorals tis not so easy to give an account: For as to
+the end of Poetry in General: The Enemies of Poets run out into a
+large common place, and loudly tell us that Poetry is frivolous and
+unprofitable. Excellent men! that love _profit_ perchance, but have no
+regard for _Honesty_ and _Goodness_; who do not know that all
+excellent _Arts_ sprang from _Poetry_ at first.
+
+  Which what is honest, base, or just, or good,
+  Better than _Crantor_, or _Chrysippus_ show'd.
+
+For tis _Poetry_ that like a chast unspotted Virgin, shews men the
+way, and the means to live happily, who afterward are deprav'd by the
+immodest precepts of vitiated and impudent _Philosophy_. For every
+body knows, that the _Epick_ sets before us the highest example of the
+Bravest man; the _Tragedian_ regulates the Affections of the Mind; the
+_Lyrick_ reforms Manners, or sings the Praises of Gods, and Heroes; so
+that there's no part of _Poetry_ but hath it's proper end, and
+profits.
+
+But grant all this true, _Pastoral_ can make no such pretence: if you
+sing a _Hero_, you excite mens minds to imitate his Actions, and
+notable Exploits; but how can _Bucolicks_ apply these or the like
+advantages to its self? _He that reads {47} Heroick Poems, learns what
+is the vertue of a Hero, and wishes to be like him; but he that reads
+Pastorals, neither learns how to feed sheep, nor wishes himself a
+shepherd:_ And a great deal more to this purpose you may see in
+_Modicius_, as _Pontanus_ cites him in his Notes on _Virgil's_
+_Eclogues_.
+
+But when tis the end of _Comedy_, as _Jerom_ in his Epistle to
+_Furia_ says, to know the Humors of Men, and to describe them; and
+_Demea_ in _Terence_ intimates the same thing,
+
+  To look on all mens lives as in a Glass,
+  And take from those Examples for our Own,
+
+so that our Humors and Conversations may be better'd, and improv'd;
+why may not _Pastoral_ be allow'd the same Priviledge, and be admitted
+to regulate and improve a _Shepherd's_ life by its _Bucolicks_? For
+since tis a product of the Golden Age, it will shew the most innocent
+manners of the most ancient Simplicity, how plain and honest, and how
+free from all varnish, and deceit, to more degenerate, and worse
+times: And certainly for this tis commendable in its kind, since its
+design in drawing the image of a Country and Shepherd's life, is to
+teach Honesty, Candor, and Simplicity, which are the vertues of
+_private_ men; as _Epicks_ teach the highest Fortitude, and Prudence,
+and Conduct, which are the vertues of _Generals_, and _Kings_. And tis
+necessary {48} to Government, that as there is one kind of _Poetry_ to
+instruct the _Citizens_, there should be another to fashion the
+manners of the _Rusticks_: which if _Pastoral_, as it does, did not
+do, yet would it not be altogether frivolous, and idle, since by its
+taking prettinesses it can delight, and please. (Shudders McNaughtan
+is as if he was a monster to fight would have been:) For example -
+... for example - ... duty - love - respect - obedience! (Gloria gives
+her carefree position on him and is quick and proud to:) I obey
+only my own sense of rights, I respect anything that is not noble!
+That is my duty. (You attach less firmly add:) What love is concerned,
+lies not in my power - I do not think I know exactly what love is.But if we must slight
+every thing, from which no _profit_ is to be hop'd, all pleasures of
+the Eye and Ear are presently to be laid aside; and those excellent
+Arts, _Musick_, and _Painting_, with which the best men use to be
+delighted, are presently to be left off. Nor is it indeed credible,
+that so many excellent Wits, as have devoted themselves to Poetry,
+would ever have medled with it, if it had been so empty, idle, and
+frivolous, as some ridiculously morose imagine; who forsooth are
+better pleas'd with the severity of _Philosophy_, and her harsh,
+deform'd impropriety of Expressions. But the judgments of such men are
+the most contemptible in the world; for when by _Poetry_ mens minds
+are fashioned to generous {49} Humors, Kindness, and the like: those
+must needs be strangers to all those good qualites, who hate, or
+proclaim _Poetry_ to be frivolous, and useless.
+
+
+{50} _The Third_ PART
+
+_Rules for writing_ Pastorals.
+
+In delivering Rules for writing _Pastorals_, I shall not point to the
+_streams_, which to look after argues a small creeping _Genius_, but
+lead you to the _fountains_. But first I must tell you, how difficult
+it is to write _Pastorals_, which many seem not sufficiently to
+understand: For since its matter is low, and humble, it seems to have
+nothing that is troublesome, and difficult. But this is a great
+mistake, for, as _Horace_ says of _Comedy_, "It is by so much the more
+difficult, by how much the less pardonable are the mistakes committed
+in its composure": and the same is to be thought of every thing, whose
+end is to please, and delight. For whatsoever is contriv'd for
+pleasure, and not necessarily requir'd, unless it be exquisite, must
+be nauseous, and distastful; as at a Supper, scraping Musick, thick
+Oyntment, or the like, because the Entertainment might have been
+without all these; For the sweetest things, and most delicious, are
+most apt to satiate; for tho the sense may sometimes be pleas'd, yet
+it presently disgusts that which is {51} luscious, and, as _Lucretius_
+phraseth it,
+
+  E'en in the midst and fury of the Joys,
+  Some thing that's better riseth, and destroys.
+
+His appearance was sad and tired of working animals who obey can be
+sustained with resignation while. Now is the moment. Would stay
+with him .... How much? - As for you, a friend - said the gypsy
+pat on the back - because for you, nice person that he will deal
+well with this garment ... what to say and leave in forty deal.
+Batiste endured calmly shooting, a man accustomed to such discussions,
+and smiled cunningly: - Good: _pos_ because you rebajaré little.
+Want _ventisinco_? The Gypsy opened his arms with theatrical
+indignation, fell a few steps, is scratched cap made of hair or any
+kind of grotesque extremes to express their astonishment. - Mare of
+God! ¡Veinticinco hard! ... But you have been fixed in the animal?
+Neither could steal it for that price. Batiste But all their cries
+answered the same thing - _Ventisinco_ ... _chavo_ one or more. And
+the gypsy rushed his reasons which were not few, appealed to the
+supreme argument: - _Monote_ ... removal of the animal ... that Mr
+setting well. _Monote_ And there was again, jogging and pulling the
+halter horse in front of the poor, increasingly bored with so many
+walks. - What a wag! Huh? - Said the Gypsy -. If you think it is a
+marquise in a dance! And that goes for you hard twenty-five ... -
+Not a _chavo_ more - said the stubborn. - _Monote_ ... again. There
+are already enough. And feigning outrage again Gypsy back as if the
+buyer failed to give any meaning; stop seeing Batiste was really missing
+her seriously. - Come on, sir ... What is your grace ... Batiste
+¿? Ah! Well you, Bautista: to see what you want and desire that this
+jewel is yours, I will do what they would for anyone. Should hard at
+thirty-five? Come on, yes. He swears by his salu that this would
+not stop for me. This time was even more vivid and gesticulate their
+protest to see that the farmer does not soften the cuts and hardly
+gave him two more tough. - But as This darling little pearl inspires
+you fine? Do they not have eyes to appreciate Usté? Now, _Monote_: á
+out again.
+
+Yet in this
+difficulty I will follow _Aristotle's_ Example, who being to lay down
+Rules concerning _Epicks_, propos'd _Homer_ as a Pattern, from whom he
+deduc'd the whole Art: So I will gather from _Theocritus_ and
+_Virgil_, those Fathers of _Pastoral_, what I shall deliver on this
+account. For all the Rules that are to be given of any Art, are to be
+given of it as excellent, and perfect, and {53} therefore ought to be
+taken from them in whom it is so.
+
+Do you understand? I can not! (Gloria strongly:) No - I can not
+understand. I have no sympathy for - (McNaughtan nervously goes together:)
+stop, ie no further! You do not know what you're doing! Will you
+do me good? (You frowned, because she finds such a mood unbearable.
+It quickly add:) No, I'm not angry - really do not! Wait,
+wait - let me just time for me to reflect. (He stands there a moment
+and frowned and ballt his hands in excitement. Then he takes
+the chair from the end of the breakfast table and sat down
+next to Gloria. With a moving effort, gently and patiently to be,
+he says:) I think Now I am so far. In any event, I will try. (Gloria
+finds:) You Sehn: anything goes, if it is to vigorously end thinks.
+(McNaughtan with sudden fright:) No, you do not! Think nothing - I will,
+thou shalt feel it! That is the only thing that can help us.
+
+Hear! Do you know - but above all - I forgot: how is you? I think
+your nickname. You can not thee well Sophronia call. (Gloria astonished
+with reluctance:) Sophronia? ... My name is Gloria. I will always be
+called. (McNaughtan, whose anger returns:) Your name is Sophronia, girl!
+You were after your aunt, my sister, Sophronia baptized! You did
+your first Bible with your name is a gift. (Gloria.) Then my mother
+gave me a new name. (McNaughtan annoying:) You had no right to
+do so! I will not admit! (Gloria.) They had no right to send me the
+name of your sister to give. I do not even know her. (McNaughtan.)
+nonsense! Everything I do I can not offer: it has its limits! I do not
+have - do you? (Gloria rises; warned:) Are you committed to in this
+quarrelsome tone proceed? (McNaughtan horrified, pleading:) No, no -
+sit down! Will you? (She sees him and lets him in uncertainty.
+
+  It compels to the hated name to pronounce:) Gloria!
+
+(You are their satisfaction with a slight movement of the lips
+and expression is:) So - you see, I only have the desire to show you
+that I am your father, my - my dear child.
+
+  
+
+From whence 'tis evident that in _Pastoral_, tho it never pretends to
+any greatness, _Invocations_ {55} may be allow'd: But whatever Subject
+it chooseth, it must take care to accommodate it to the Genius and
+Circumstances of a Shepherd.
+
+Concerning the Form, or mode of _Imitation_, I shall not repeat what
+I have already said, _viz._ that this is in it self _mixt_; for
+_Pastoral_ is either _Alternate_, or hath but _one Person_, or is
+_mixt_ of both: yet 'tis properly and chiefly _Alternate_. as is
+evident from that of _Theocritus_.
+
+  Sing _Rural_ strains, for as we march along
+  We may delight each other with a Song.
+
+In which the _Poet_ shows that _alternate_ singing is proper to a
+_Pastoral_: But as for the _Fable_, 'tis requisite that it should be
+simple, lest in stead of _Pastoral_ it put on the form of a _Comedy_,
+or _Tragedy_ if the _Fable_ be great, or intricate: It must be _One_;
+this _Aristotle_ thinks necessary in every _Poem_, and _Horace_ lays
+down this general Rule,
+
+  Be every _Fable_ simple, and but one:
+
+For every Poem, that is not _One_, is imperfect, and this _Unity_ is
+to be taken from the _Action_: for if that is _One_, the Poem will be
+so too. Such is the Passion of _Corydon_ in _Virgil's_ second Eclogue,
+_Meliboeus's_ Expostulation with _Tityrus_ about his Fortune;
+_Theocritus's_ _Thyrsis, Cyclops_, and _Amaryllis_, of which perhaps
+in its proper place I may treat more largely.
+
+{56} Let the third Rule be concerning the _Expression_, which cannot
+be in this kind excellent unless borrow'd from _Theocritus's_
+_Idylliums_, or _Virgil's_ _Eclogues_, let it be chiefly simple, and
+ingenuous: such is that of _Theocritus_,
+
+  A Kid belongs to thee, and Kids are good,
+
+Or that in _Virgil's_ seventh Eclogue,
+
+  This Pail of Milk, these Cakes (_Priapus_) every year
+  Expect; a little Garden is thy care:
+  Thou'rt Marble now, but if more Land I hold,
+  If my Flock thrive, thou shalt be made of Gold,
+
+than which I cannot imagine more simple, and more ingenuous
+expressions. To which may be added that out of his _Palemon_,
+
+  And I love _Phyllis_, for her Charms excell;
+  At my departure O what tears there fell!
+  She sigh'd, Farewell Dear Youth, a long Farewell.
+
+Now, That I call an ingenuous Expression which is clear and smooth,
+that swells with no insolent words, or bold metaphors, but hath
+something familiar, and as it were obvious in its Composure, and not
+disguis'd by any study'd and affected dress: All its Ornament must be
+like the Corn and fruits in the Country, easy to {57} be gotten, and
+ready at hand, not such as requires Care, Labor, and Cost to be
+obtain'd: as _Hermogenes_ on _Theocritus_ observes; _See how easie and
+unaffected this sounds_,
+
+  Pines murmurings, Goatherd, are a pleasing sound,
+
+_and most of his expressions, not to say all, are of the same
+nature_: for the ingenuous simplicity both of Thought and Expression
+is the natural _Characteristick_ of _Pastoral_. In this _Theocritus_
+and _Virgil_ are admirable, and excellent, the others despicable, and
+to be pittied; for they being enfeebled by the meanes of their
+subject, either creep, or fall flat. _Virgil_ keeps himself up by his
+choice and curious words, and tho his matter for the most part (and
+_Pastoral_ requires it) is mean, yet his expressions never flag, as is
+evident from these lines in his _Alexis_:
+
+  The glossy Plums I'le bring, and juicy Pear,
+  Such as were once delightful to my Dear:
+  I'le crop the Laurel, and the Myrtle tree,
+  Confus'dly set, because their Sweets agree.
+
+For since the matter must be low, to avoid being abject, and
+despicable, you must borrow some light from the Expression; not such
+as is dazling, but pure, and lambent, such as may shine thro the whole
+matter, but never flash, and blind. {58} The words of such a _Stile_
+we are usually taught in our Nurses armes, but 'tis to be perfected
+and polished by length of time, frequent use, study, and diligent
+reading of the most approved Authors: for Pastoral is apt to be
+slighted for the meaness of its Matter, unless it hath some additional
+Beauty, be pure, polisht, and so made pleasing, and attractive.
+Hopefully not. (Dr. Valentine.) The reason is that I am either
+totally insane, or rather the past never really in possession of my
+common sense I had. Now I am able to do anything - I'm finally
+grown up - I am become a man - and your daughter is to a man made out
+of me! (McNaughtan unbelievingly:) Are you in love with my daughter?
+(Dr. Valentine, his words pour out now in a real flow from his
+lips:) Love ... Nonsense! ... It is much more and much higher than
+love ... it is life, faith, strength, certainty, paradise ... (McNaughtan
+interrupts him with biting scorn:) nonsense, man! What did (you) to
+a woman to entertain ... You can not marry. (Dr. Valentine.) Who will
+they marry? ...
+
+  I want to kiss her hands, I will kneel at her
+  feet, I want to live, I will die for them
+  ... and that should satisfy me! Look at her book
+  - you see!
+
+(He kisses the handkerchief:) If you give me all your money to
+sell these items that I serve as an excuse to go down the beach
+and with her to speak again, - I would just laugh in the face. (He
+goes against the wanton stages, where he was a waiter come up
+from the beach straight into the arms running. The two keep each other
+before overturning, they are mutually tightly around the waist to
+embrace and hold upside down.) (The waiter delicately: ) Softly, Doctor
+- gently! (Dr. Valentine about his own ferocity unpleasant affect:)
+Excuse me! (The waiter). Please, doctor - please. This is quite
+natural in your old age .-- The gracious lady took me to her book
+heraufgeschickt; should I allow you to send it immediately to
+bring? (Dr. Valentine.)
+
+  With pleasure!
+
+- And you want me provide you with the taking of a dental
+sechswöchentlichen to Treat ...
+
+    (He offers him Dolly five-shilling
+  piece on.)
+
+(The waiter, as if this sum his highest expectations überträfe:)
+Thank you, Mr.
+
+  Doctor - a thousand thanks! (Dr.
+
+Valentine falls down the stairs.) A very high - young man, very
+masculine and well grown! (McNaughtan reduction in grumpy:) And will
+quickly make a fortune - no doubt!
+
+  I know how much revenue his sechswöchentlichen amount.
+
+(He goes on the terrace at the iron table and continues.)
+
+  (The waiter philosophically:) Yes, Gracious
+  Lord, you never know ...
+
+That's my motto, if you kindly want to forgive, that I had such a
+thing . (The philosopher is a moment of gentle sentient waiter back:)
+You know, perhaps not even that your drink had not yet affected,
+as the company war.
+How tender are the lines, and yet what passion they contain! And most
+of _Virgil's_ are of this nature, but there are likewise in him some
+touches of despairing Love, such as is this of _Alphesiboeus_,
+
+  Nor have I any mind to be reliev'd:
+
+{61} Or that of _Damon_,
+
+  I'le dy, yet tell my Love e'en whilst I dy:
+
+Or that of _Corydon_,
+
+  He lov'd, but could not hope for Love again.
+
+For tho _Pastoral_ doth not admit any violent passions, such as
+proceed from the greatest extremity, and usually accompany despair;
+yet because Despairing Love is not attended with those frightful and
+horrible consequences, but looks more like _grief to be pittied_, and
+a _pleasing madness_, than _rage_ and _fury_, _Eclogue_ is so far from
+refusing, that it rather loves, and passionately requires them.
+ADRIANO BERTRAND The call of the soil. The storm over the garden Cándido.
+Bøjer JOHAN power lies. The clear nights. The insatiable hunger.
+Parenting. Under the empty sky. ELEMIRO BOURGES birds away and the
+flowers fall. The Sunset Boulevard. PAUL BOURGET nemesis. Lorenza
+Albani. PAUL BOURGET The Justiciero. A tragedy in the great world.
+Anomalías. Amazon. Jail. pensativo Heart does not know where it
+goes. intimate conflicts. Dancer worldly.Yet the Passion
+must not rise too high, as _Polyphemus's_, _Galateas's_ mad Lover, of
+whom _Theocritus_ divinely thus, as almost of every thing else:
+
+  His was no common flame, nor could he move
+  In the old Arts, and beaten paths of Love,
+  No Flowers nor Fruits sent to oblige the Fair,
+  {62} His was all Rage, and Madness:
+
+For all violent Perturbations are to be diligently avoided by
+_Bucolicks_, whose nature it is to be _soft_, and _easie_: For in
+small matters, and such must all the strifes and contentions of
+Shepherds be, to make a great deal of adoe, is as unseemly, as to put
+_Hercules's_ Vizard and Buskins on an Infant, as _Quintilian_ hath
+excellently observ'd. For since _Eclogue_ is but weak, it seems not
+capable of those Commotions which belong to the _Theater_, and
+_Pulpit_; they must be soft, and gentle, and all its Passion must seem
+to flow only, and not break out: as in _Virgil's Gallus_,
+
+  Ah, far from home and me You wander o're
+  The _Alpine_ snows, the farthest Western shore,
+  And frozen _Rhine_. When are we like to meet?
+  Ah gently, gently, lest thy tender feet
+  Sharp Ice may wound.
+
+To these he may sometimes joyn some short Interrogations made to
+_inanimate Beings_, for those spread a strange life and vigor thro the
+whole Composure. Thus in _Daphnis_,
+
+  Did not You Streams, and Hazels, hear the Nymphs?
+
+Or give the very Trees, and Fountains sense, as in _Tityrus_,
+
+  Thee (_Tityrus_) the Pines, and every Vale,
+  The Fountains, Hills, and every shrub did call:
+
+for by this the Concernment is express'd; and of the like nature is
+that of _Thyrsis_, in _Virgil's_ _Meliboeus_,
+
+  {63} When _Phyllis_ comes, my wood will all be green.
+
+And this sort of Expressions is frequent in _Theocritus_, and
+_Virgil_, and in these the delicacy of _Pastoral_ is principally
+contain'd, as one of the old _Interpreters_ of _Theocritus_ hath
+observ'd on this line, in the eighth _Idyllium_,
+
+  Ye Vales, and Streams, a race Divine:
+
+But let them be so, and so seldom us'd, that nothing appear vehement,
+and bold, for Boldness and Vehemence destroy the sweetness which
+peculiarly commends _Bucolicks_, and in those Composures a constant
+care to be soft and easie should be chief: For _Pastoral_ bears some
+resemblance to _Terence_, of whom _Tully_, in that Poem which he
+writes to _Libo_, gives this Character,
+
+  His words are soft, and each expression sweet.
+
+In mixing _Passion_ in _Pastorals_, that rule of _Longinus_, in his
+golden Treatise *peri hypsous*, must be observ'd, _Never use it, but
+when the matter requires it, and then too very sparingly_.
+
+He explains everything in a satisfactory way. Said that a direct statement
+on your part required much more time could not be as sharp and sudden.
+Espiar needed an opportunity, prepare your mind free itself of
+precipitates severity rejected your courtship, and in three days,
+however that he advantage, there were not so many formalities
+and preparations. For this I have searched me. Last night, when
+leaving your house, accompanied me to mine, and took me a long
+lecture.
+
+Well I had I predicted. Love you gave. It's crazy for loving you, and
+asks me to intercede for him. - What is it delusion? - Exclaimed
+Doña Luz -. Have you thought Jaime? Did you know that with a heart
+like mine is not playing? Have you thought well I can not be a
+fleeting fad, but a passion that decides the future of all life - If
+D. Jaime did not know, had not come to me. If it had not made a
+purpose for life, a purpose whose realization depends only on you,
+I would not be coming to talk on their behalf. - Do you know D.
+
+  Jaime I'm pobrísima - Know the exact property you
+  own. - It is unique - said Doña Luz -. We
+  confess: I had myself and a lot of men worse
+  opinion. I did not feel able to inspire
+  a love so disinterested ambition who seduces
+  and smiles, flattered fortune and want to pamper and in Madrid,
+as they say, the most proud and beautiful women.
+
+Not that I did not think so, suddenly, he could love a man with such
+selflessness. - Well, do not hesitate to don Jaime loves you that
+way. You tell me if it. - I do not know what to answer. My gratitude
+is immense.
+
+Before gratitude, before they had reason to have it, why ocultártelo?
+Don Jaime's elegance, his discretion, his reputation as a courageous
+soldier, the noble gallantry of his person, all I am inclined to want
+to much either, but the fear of not being loved revolted my pride and
+my pride has done everything possible This inclination to stifle
+nascent. - And now you know so well paid and that is your inclination,
+what you feel, what you think of D.
+
+Jaime - I think and feel ... I must not give away one of them might not
+make much appreciate it if you so easily obtained. Furthermore, not
+being loved enough. We must think in terms of love. - My daughter!
+What other term can have but that will cure the case - it is true, and
+that just makes me ponder a lot. I am very rare in nature. I do not
+want anyone I love convenience, and disgusts me that someone
+should imagine that the influence my love. If I marry D. Jaime, poor
+as I am, could not imagine that someone excited me the link to the
+desire to leave and go to Madrid Villafría, the position of the
+groom, big hopes, and even the same material benefits they already
+enjoy? He, moreover, is not rich for our class, and expect hardship,
+economic hardship, the awful prose of the home without adequate resources.
+I arredra. And I do not arredra for me, if only serves to material
+welfare, but because I blush to think that I may be the cause of a
+man who lives full of choking. If he stays here with me, I would
+sacrifice his ambition, his career, his future. If he carried with him
+to Madrid, live very badly, would I do it very sad figure in the
+companies he frequents, and who knows if this will move to
+stop loving me?
+But tho you must be sparing in your _Descriptions_, yet your
+_Comparisons_ must be frequent, and the more often you use them, the
+better and more graceful will be the Composure; especially if taken
+from such things, as the Shepherds must be familiarly acquainted with:
+They are frequent in _Theocritus_ but so proper to the Country, that
+none but a _Shepherd_ dare use them. Thus _Menalcas_ in the eighth
+Idyllium:
+
+  Rough Storms to Trees, to Birds the treacherous Snare,
+  Are frightful Evils; Springes to the Hare,
+  Soft Virgins Love to Man, &c.
+
+And _Damoetas_ in _Virgil's_ _Palæmon_,
+
+  Woolves sheep destroy, Winds Trees when newly blown,
+  Storms Corn, and me my _Amaryllis_ frown.
+
+And that in the eighth _Eclogue_,
+
+  As Clay grows hard, Wax soft in the same fire,
+  So _Daphnis_ does in one extream desire.
+
+And such _Comparisons_ are very frequent in him, and very suitable to
+the Genius of a Shepherd; as likewise often _repetitions_, and
+doublings of some words: which, if they are luckily plac'd have an
+unexpressible quaintness, and make the Numbers extream sweet, and the
+turns ravishing and delightful. Horrific images was what inspired
+contemplation of these abandoned fields, and his gloomy misery
+even more highlighted with contrasting land nearby, red, well
+maintained, full of good vegetables and rows of trees, whose leaves
+fall gave a transparent caramel.
+
+  Even those birds fleeing death camps, perhaps for fear of
+  animaluchos that rebullían by or under the weed sniff the breath
+of misfortune.
+
+On the broken roof of thatch, if something was seen fluttering of black
+wings and traitors , plumages funeral of kites and crows, which
+were shaken mute trees laden with joyful and playful fluttering
+piídos, leaving the quiet garden, as if there were sparrows in half a
+league all around. PPT would continue, to shed their white that
+peeked through the trees beyond some fields, but had to remain
+motionless on the upper edge of the road, to move a loaded truck
+that was moving stumbling and appeared to come from the City. female
+His curiosity was excited to be there. was a poor farm cart, pulled
+by a bony old hack, that helped to bump into a tall man that difficult
+marched beside him with shouts and encouraging clicks Tralla.
+Labrador wore, but how to wear the scarf knotted At the top, his
+corduroy trousers and other details of her outfit, which did not
+reveal the garden, where the personal adornment has gradually contaminated
+taste of the city. Labrador was some distant village, perhaps the
+kidney came from the province. Amontonábanse on the car, forming
+pyramid up above the varales, all kinds of household objects.
+
+It was the emigration of an entire family. Phthisic mattresses, mattress
+stuffed with outrageous piece of corn, esparto chairs, pans, kettles,
+plates, baskets, green benches and blankets, everything is piled
+on the car, dirty, worn, wretched, reeking á starvation, desperate
+escape as if you leave after the disgrace of the family pisándole
+heels.
+
+The
+following uncorrected words in the Rapin text are probably
+misprints:
+
+p.  9 dissetation.
+p. 17 mannes.
+p. 24 theefore.
+p. 25 stifes.
+p. 44 finessess [uncertain reading].
+p. 64 Viogil. ]
+
+      *       *       *       *       *
+          *       *       *       *
+      *       *       *       *       *
+
+Rapin's _Discourse of Pastorals_ was first published in Latin,
+with his eclogues, under the title: Eclogae, cum dissertatione de
+carmine pastorali. Parisiis, apud S. Cramoisy, 1659.
+
+The English translation by Thomas Creech, prefixed to his translation
+of the _Idylliums_ of Theocritus, appeared in 1684. A second
+edition "to which is prefix'd, The Life of Theocritus. By Basil
+Kennet", was printed at London for E. Curll, at the Dial and Bible
+against St. Dunstan's Church in Fleet-street, in 1713, and a third
+edition, also printed for Curll, appeared in 1721.
+
+ Ella M. Hymans
+
+   Curator of Rare Books,
+   General Library,
+   University of Michigan
+
+      *       *       *       *       *
+
+
+                  ANNOUNCING
+
+                     the
+
+                _Publications_
+
+
+                      of
+
+
+                 THE AUGUSTAN
+
+                REPRINT SOCIETY
+
+
+_General Editors_
+
+RICHARD C. BOYS
+EDWARD NILES HOOKER
+H.T. SWEDENBERG, JR.
+
+
+      *       *       *       *       *
+
+
+       _THE AUGUSTAN REPRINT SOCIETY_
+
+               Makes Available
+
+
+   _Inexpensive Reprints of Rare Materials_
+
+
+                    from
+
+           ENGLISH LITERATURE OF THE
+
+      SEVENTEENTH AND EIGHTEENTH CENTURIES
+
+
+Students, scholars, and bibliographers of literature, history, and
+philology will find the publications valuable. _The Johnsonian News
+Letter_ has said of them: "Excellent facsimiles, and cheap in price,
+these represent the triumph of modern scientific reproduction. Be sure
+to become a subscriber; and take it upon yourself to see that your
+college library is on the mailing list."
+
+The Augustan Reprint Society is a non-profit, scholarly organization,
+run without overhead expense. Then he is less urgent and hopeful
+continued:) for someone to let you do what you only wanted to,
+and you never had a bad word, no more than you said, you should keep
+quiet and not speak?
+
+For someone to something you had what you had no one else is - of
+your father was! (Gloria unmoved:) If you give me all the signs so
+far, then I will no doubt soon I imagine that I remember.
+
+But actually I remember nothing. (McNaughtan eagerly:) Did your
+mother you never told me? (Gloria.)
+
+It has your name ever mentioned to me. (He groans involuntarily.
+You look pretty verachtungsvoll him and continues:) But!
+
+
+      *       *       *       *       *
+
+
+PUBLICATIONS FOR THE FIRST YEAR (1946-1947)
+
+MAY, 1946: Series I, No. 1--Richard Blackmore's _Essay upon Wit_
+(1716), and Addison's _Freeholder_ No. 45 (1716).
+
+JULY, 1946: Series II, No. 1--Samuel Cobb's _Of Poetry_ and
+_Discourse on Criticism_ (1707)
+
+SEPT., 1946: Series III, No. 1--Anon., _Letter to A.H. Esq.;
+concerning the Stage_ (1698), and Richard Willis' _Occasional Paper_
+No. IX (1698).
+
+NOV., 1946: Series I, No. 2--Anon., _Essay on Wit_ (1748), together
+with Characters by Flecknoe, and Joseph Warton's _Adventurer_ Nos. 127
+and 133.
+
+JAN., 1947: Series II, No. 2--Samuel Wesley's _Epistle to a Friend
+Concerning Poetry_ (1700) and _Essay on Heroic Poetry_ (1693).
+
+Reached that point the explanations, and going by the way so plain,
+everything was tacitly made in that interview, which lasted
+little.
+
+Doña Luz was troubled and confused, but the severe majesty of his
+face and gestures to any content amador bolder.
+
+With an
+Introduction by Donald Bond.
+
+JULY, 1947: Series II, No. 3--Rapin's _De Carmine Pastorali_,
+translated by Creech. With an Introduction by J. E. Congleton.
+
+SEPT., 1947: Series III, No. 3--T. Hanmer's (?) _Some Remarks on the
+Tragedy of Hamlet_. PPT did not want to see more.
+
+Now it really ran to his hut. Wishing to arrive before he left the cow
+and ternerillo, and the two beasts continued their march
+peacefully, as one who does not care about things outside the
+stable and secure.
+
+With an Introduction by Earl Wasserman.
+
+MARCH, 1948: Series III, No. 4--Essays on the Stage, selected, with
+an Introduction by Joseph Wood Krutch.
+
+
+Then he thought again Fr Enrique, but in another way. The same love
+of it to D. Jaime clarify what is their inclination towards the Father
+could have been caused by a questionable interpretation. This
+encourages people to think and feel in love with D.The Augustan Reprints are available only to members. They will never
+be offered at "remainder" prices.

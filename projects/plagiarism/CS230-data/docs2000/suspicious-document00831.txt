@@ -1,0 +1,637 @@
+﻿Produced by K Nordquist, Jacqueline Jeremy and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+The EARLY HISTORY of the AIRPLANE
+
+  The DAYTON-WRIGHT AIRPLANE CO.
+  DAYTON OHIO
+
+
+The Wright Brothers' Aeroplane
+
+_By Orville and Wilbur Wright_
+
+
+Though the subject of aerial navigation is generally considered new, it
+has occupied the minds of men more or less from the earliest ages. Our
+personal interest in it dates from our childhood days. Late in the
+autumn of 1878 our father came into the house one evening with some
+object partly concealed in his hands, and before we could see what it
+was, he tossed it into the air. He had been wounded in the foot when his
+company were advancing up the slope fifteen hundred yards away. When it
+was found necessary to retire, he had been left with many dead and
+wounded comrades, far from the possibility of help by friends.
+It was a light frame of
+cork and bamboo, covered with paper, which formed two screws, driven in
+opposite directions by rubber bands under torsion. A toy so delicate
+lasted only a short time in the hands of small boys, but its memory was
+abiding.
+
+Several years later we began building these helicopteres for ourselves,
+making each one larger than that preceding. But, to our astonishment, we
+found that the larger the "bat" the less it flew. We did not know that a
+machine having only twice the linear dimensions of another would require
+eight times the power. We finally became discouraged, and returned to
+kite-flying, a sport to which we had devoted so much attention that we
+were regarded as experts. But as we became older we had to give up this
+fascinating sport as unbecoming to boys of our ages.
+
+It was not till the news of the sad death of Lilienthal reached America
+in the summer of 1896 that we again gave more than passing attention to
+the subject of flying. We then studied with great interest Chanute's
+"Progress in Flying Machines," Langley's "Experiments in Aerodynamics,"
+the "Aeronautical Annuals" of 1905, 1906, and 1907, and several
+pamphlets published by the Smithsonian Institution, especially articles
+by Lilienthal and extracts from Mouillard's "Empire of the Air." The
+larger works gave us a good understanding of the nature of the flying
+problem, and the difficulties in past attempts to solve it, while
+Mouillard and Lilienthal, the great missionaries of the flying cause,
+infected us with their own unquenchable enthusiasm, and transformed idle
+curiosity into the active zeal of workers.
+
+In the field of aviation there were two schools. The first,
+represented by such men as Professor Langley and Sir Hiram Maxim,
+gave chief attention to power flight; the second, represented by
+Lilienthal, Mouillard, and Chanute, to soaring flight. Our sympathies
+were with the latter school, partly from impatience at the wasteful
+extravagance of mounting delicate and costly machinery on wings
+which no one knew how to manage, and partly, no doubt, from the
+extraordinary charm and enthusiasm with which the apostles of soaring
+flight set forth the beauties of sailing through the air on fixed
+wings, deriving the motive power from the wind itself.
+
+The balancing of a flyer may seem, at first thought, to be a very simple
+matter, yet almost every experimenter had found in this one point which
+he could not satisfactorily master. Many different methods were tried.
+Some experimenters placed the center of gravity far below the wings, in
+the belief that the weight would naturally seek to remain at the lowest
+point. It is true, that, like the pendulum, it tended to seek the lowest
+point; but also, like the pendulum, it tended to oscillate in a manner
+destructive of all stability. A more satisfactory system, especially for
+lateral balance, was that of arranging the wings in the shape of a broad
+V, to form a dihedral angle, with the center low and the wing-tips
+elevated. In theory this was an automatic system, but in practice it had
+two serious defects: first, it tended to keep the machine oscillating;
+and second, its usefulness was restricted to calm air.
+
+In a slightly modified form the same system was applied to the
+fore-and-aft balance. The main aeroplane was set at a positive angle,
+and a horizontal tail at a negative angle, while the center of gravity
+was placed far forward. As in the case of lateral control, there was a
+tendency to constant undulation, and the very forces which caused a
+restoration of balance in calms caused a disturbance of the balance in
+winds. Notwithstanding the known limitations of this principle, it had
+been embodied in almost every prominent flying machine which had been
+built.
+
+After considering the practical effect of the dihedral principle, we
+reached the conclusion that a flyer founded upon it might be of interest
+from a scientific point of view, but could be of no value in a practical
+way. We therefore resolved to try a fundamentally different principle.
+We would arrange the machine so that it would not tend to right itself.
+We would make it as inert as possible to the effects of change of
+direction or speed, and thus reduce the effects of wind-gusts to a
+minimum. We would do this in the fore-and-aft stability by giving the
+aeroplanes a peculiar shape; and in the lateral balance by arching the
+surfaces from tip to tip, just the reverse of what our predecessors had
+done. Then by some suitable contrivance, actuated by the operator,
+forces should be brought into play to regulate the balance.
+
+Lilienthal and Chanute had guided and balanced their machines, by
+shifting the weight of the operator's body. But this method seemed
+to us incapable of expansion to meet large conditions, because the
+weight to be moved and the distance of possible motion were limited,
+while the disturbing forces steadily increased, both with wing area
+and with wind velocity. In order to meet the needs of large machines,
+we wished to employ some system whereby the operator could vary at
+will the inclination of different parts of the wings, and thus obtain
+from the wind forces to restore the balance which the wind itself had
+disturbed. This could easily be done by using wings capable of being
+warped, and by supplementary adjustable surfaces in the shape of
+rudders. For her André Chenier was the next name in chronological
+order after Du Bartas. Occasionally she showed a profundity of
+research that would have done no discredit to Mr. Saintsbury
+or "le doux Assellineau." She was ready to pronounce an opinion
+on Napol le Pyrénéan or to detect a plagiarism in Baudelaire.
+But she thought that Alexander Smith was still alive, and she
+was curiously vague about the career of Saint Beuve.
+This inequality of equipment was a thing inevitable to her isolation,
+and hardly worth recording, except to show how laborious her mind
+was, and how quick to make the best of small resources.
+
+We have already seen that the "Sheaf gleaned in French Fields"
+attracted the very minimum of attention in England. In France it was
+talked about a little more. M. Garcin de Tassy, the famous Orientalist,
+who scarcely survived Toru by twelve months, spoke of it to Mlle.
+Clarisse Bader, author of a somewhat remarkable book on the position of
+women in ancient Indian society. Almost simultaneously this volume fell
+into the hands of Toru, and she was moved to translate it into English,
+for the use of Hindus less instructed than herself. In January, 1877,
+she accordingly wrote to Mlle. Bader requesting her authorization,
+and received a prompt and kind reply. On the 18th of March Toru wrote
+again to this, her solitary correspondent in the world of European
+literature, and her letter, which has been preserved, shows that
+she had already descended into the valley of the shadow of death:--
+
+Ma constitution n'est pas forte; j'ai contracté une toux opiniâtre,
+il y a plus de deux ans, qui ne me quitte point.
+
+Cependant j'espère mettre la main à l'[oe]uvre bientôt. Je ne peux dire,
+mademoiselle, combien votre affection,--car vous les aimez, votre
+livre et votre lettre en témoignent assez,--pour mes compatriotes et
+mon pays me touche; et je suis fière de pouvoir le dire que les
+héroines de nos grandes épopées sont dignes de tout honneur et de
+tout amour.
+When he learned that we were interested in flying as a sport, and not
+with any expectation of recovering the money we were expending on it, he
+gave us much encouragement. At our invitation, he spent several weeks
+with us at our camp at Kill Devil Hill, four miles south of Kitty Hawk,
+during our experiments of that and the two succeeding years. He also
+witnessed one flight of the power machine near Dayton, Ohio, in October,
+1904.
+
+The machine of 1901 was built with the shape of surface used by
+Lilienthal, curved from front to rear like the segment of a parabola,
+with a curvature 1/12 the depth of its cord; but to make doubly sure
+that it would have sufficient lifting capacity when flown as a kite in
+15 or 20-mile winds, we increased the area from 165 square feet, used in
+1900, to 308 square feet--a size much larger than Lilienthal, Pilcher,
+or Chanute had deemed safe. Upon trial, however, the lifting capacity
+again fell very far short of calculation, so that the idea of securing
+practice while flying as a kite had to be abandoned. Mr. Chanute, who
+witnessed the experiments, told us that the trouble was not due to poor
+construction of the machine. We saw only one other explanation--that the
+tables of air-pressures in general use were incorrect.
+
+[Illustration]
+
+We then turned to gliding--coasting downhill on the air--as the only
+method of getting the desired practice in balancing a machine. After
+a few minutes' practice we were able to make glides of over 300 feet,
+and in a few days were safely operating in 27-mile winds. In these
+experiments we met with several unexpected phenomena. We found that,
+contrary to the teachings of the books, the center of pressure on a
+curved surface traveled backward when the surface was inclined, at small
+angles, more and more edgewise to the wind. We also discovered that in
+free flight, when the wing on one side of the machine was presented to
+the wind at a greater angle than the one on the other side, the wing
+with the greater angle descended, and the machine turned in a direction
+just the reverse of what we were led to expect when flying the machine
+as a kite. The larger angle gave more resistance to forward motion, and
+reduced the speed of the wing on that side. The decrease in speed more
+than counterbalanced the effect of the larger angle. The addition of a
+fixed vertical vane in the rear increased the trouble, and made the
+machine absolutely dangerous. It was some time before a remedy was
+discovered. This consisted of movable rudders working in conjunction
+with the twisting of the wings. The details of this arrangement are
+given in specifications published several years ago.
+
+The experiments of 1901 were far from encouraging. Although Mr. Chanute
+assured us that, both in control and in weight carried per horse-power,
+the results obtained were better than those of any of our predecessors,
+yet we saw that the calculations upon which all flying machines had been
+based were unreliable, and that all were simply groping in the dark.
+Having set out with absolute faith in the existing scientific data, we
+were driven to doubt one thing after another, till finally, after two
+years of experiment, we cast it all aside, and decided to rely entirely
+upon our own investigations. Truth and error were everywhere so
+intimately mixed as to be undistinguishable. Nevertheless, the time
+expended in preliminary study of books was not misspent, for they gave
+us a good general understanding of the subject, and enabled us at the
+outset to avoid effort in many directions in which results would have
+been hopeless.
+
+The standard measurements of wind-pressures is the force produced by a
+current of air of one mile per hour velocity striking square against a
+plane of one square foot area. The practical difficulties of obtaining
+an exact measurement of this force have been great. The measurements by
+different recognized authorities vary 50 per cent. When this simplest of
+measurements presents so great difficulties, what shall be said of the
+troubles encountered by those who attempt to find the pressure at each
+angle as the plane is inclined more and more edgewise to the wind? In
+the eighteenth century the French Academy prepared tables giving such
+information, and at a later date the Aeronautical Society of Great
+Britain made similar experiments. Many persons likewise published
+measurements and formulas; but the results were so discordant that
+Professor Langley undertook a new series of measurements, the results
+of which form the basis of his celebrated work, "Experiments in
+Aerodynamics." Yet a critical examination of the data upon which he
+based his conclusions as to the pressures at small angles shows
+results so various as to make many of his conclusions little better
+than guesswork.
+
+To work intelligently, one needs to know the effects of a multitude
+of variations that could be incorporated in the surfaces of flying
+machines. The pressures on squares are different from those on
+rectangles, circles, triangles, or ellipses; arched surfaces differ
+from planes, and vary among themselves according to the depth of
+curvature; true arcs differ from parabolas, and the latter differ
+among themselves; thick surfaces differ from thin, and surfaces
+thicker in one place than another vary in pressure when the positions
+of maximum thickness are different; some surfaces are most efficient
+at one angle, others at other angles. The shape of the edge also makes
+a difference, so that thousands of combinations are possible in so
+simple a thing as a wing.
+
+We had taken up aeronautics merely as a sport. We reluctantly entered
+upon the scientific side of it. But we soon found the work so
+fascinating that we were drawn into it deeper and deeper. Two testing
+machines were built, which we believed would avoid the errors to which
+the measurements of others had been subject. After making preliminary
+measurements on a great number of different-shaped surfaces, to secure a
+general understanding of the subject, we began systematic measurements
+of standard surfaces, so varied in design as to bring out the underlying
+causes of differences noted in their pressures. Measurements were
+tabulated on nearly 50 of these at all angles from zero to 45 degrees at
+intervals of 2-1/2 degrees. Measurements were also secured showing the
+effects on each other when surfaces are superposed, or when they follow
+one another.
+
+Some strange results were obtained. One surface, with a heavy roll at
+the front edge, showed the same lift for all angles from 7-1/2 to 45
+degrees. A square plane, contrary to the measurements of all our
+predecessors, gave a greater pressure at 30 degrees than at 45 degrees.
+This seemed so anomalous that we were almost ready to doubt our own
+measurements, when a simple test was suggested. A weather-vane, with two
+planes attached to the pointer at an angle of 80 degrees with each
+other, was made. According to our tables, such a vane would be in
+unstable equilibrium when pointing directly into the wind; for if by
+chance the wind should happen to strike one plane at 39 degrees and the
+other at 41 degrees, the plane with the smaller angle would have the
+greater pressure, and the pointer would be turned still farther out of
+the course of the wind until the two vanes again secured equal
+pressures, which would be at approximately 30 and 50 degrees. But the
+vane performed in this very manner. Further corroboration of the tables
+was obtained in experiments with the new glider at Kill Devil Hill the
+next season.
+
+In September and October, 1902, nearly 1,000 gliding flights were made,
+several of which covered distances of over 600 feet. Some, made against
+a wind of 36 miles an hour, gave proof of the effectiveness of the
+devices for control. With this machine, in the autumn of 1903, we made a
+number of flights in which we remained in the air for over a minute,
+often soaring for a considerable time in one spot, without any descent
+at all. Little wonder that our unscientific assistant should think the
+only thing needed to keep it indefinitely in the air would be a coat of
+feathers to make it light!
+
+With accurate data for making calculations, and a system of balance
+effective in winds as well as in calms, we were now in a position, we
+thought, to build a successful power-flyer. The first designs provided
+for a total weight of 600 lbs., including the operator and an eight
+horse-power motor. But, upon completion, the motor gave more power than
+had been estimated, and this allowed 150 lbs. to be added for
+strengthening the wings and other parts.
+
+Our tables made the designing of the wings an easy matter, and as
+screw-propellers are simply wings traveling in a spiral course, we
+anticipated no trouble from this source. We had thought of getting the
+theory of the screw-propeller from the marine engineers, and then, by
+applying our tables of air-pressures to their formulas, of designing
+air-propellers suitable for our purpose. But so far as we could learn,
+the marine engineers possessed only empirical formulas, and the exact
+action of the screw-propeller, after a century of use, was still very
+obscure. As we were not in a position to undertake a long series of
+practical experiments to discover a propeller suitable for our machine,
+it seemed necessary to obtain such a thorough understanding of the
+theory of its reactions as would enable us to design them from
+calculations alone. What at first seemed a problem became more complex
+the longer we studied it. With the machine moving forward, the air
+flying backward, the propellers turning sidewise, and nothing standing
+still, it seemed impossible to find a starting-point from which to trace
+the various simultaneous reactions. Contemplation of it was confusing.
+After long arguments we often found ourselves in the ludicrous position
+of each having been converted to the other's side, with no more
+agreement than when the discussion began.
+
+[Illustration]
+
+It was not till several months had passed, and every phase of the
+problem had been thrashed over and over, that the various reactions
+began to untangle themselves. When once a clear understanding had been
+obtained there was no difficulty in designing suitable propellers, with
+proper diameter, pitch, and area of blade, to meet the requirements of
+the flyer. High efficiency in a screw-propeller is not dependent upon
+any particular or peculiar shape; and there is no such thing as a "best"
+screw. A propeller giving a high dynamic efficiency when used upon one
+machine may be almost worthless when used upon another. The propeller
+should in every case be designed to meet the particular conditions of
+the machine to which it is to be applied. Our first propellers, built
+entirely from calculation, gave in useful work 66 per cent. of the power
+expended. This was about one-third more than had been secured by Maxim
+or Langley.
+
+The first flights with the power machine were made on December 17, 1903.
+Only five persons besides ourselves were present. These were Messrs.
+John T. Daniels, W. S. Dough, and A. D. Etheridge, of the Kill Devil
+Life-Saving Station; Mr. W. C. Brinkley, of Manteo; and Mr. John Ward,
+of Naghead. Although a general invitation had been extended to the
+people living within five or six miles, not many were willing to face
+the rigors of a cold December wind in order to see, as they no doubt
+thought, another flying machine not fly. The first flight lasted only 12
+seconds, a flight very modest compared with that of birds, but it was,
+nevertheless, the first in the history of the world in which a machine
+carrying a man had raised itself by its own power into the air in free
+flight, had sailed forward on a level course without reduction of speed,
+and had finally landed without being wrecked. The second and third
+flights were a little longer, and the fourth lasted 59 seconds, covering
+a distance of 852 feet over the ground against a 20-mile wind.
+
+After the last flight the machine was carried back to camp and set down
+in what was thought to be a safe place. But a few minutes later, while
+we were engaged in conversation about the flights, a sudden gust of wind
+struck the machine, and started to turn it over. All made a rush to stop
+it, but we were too late. Mr. Daniels, a giant in stature and strength,
+was lifted off his feet, and falling inside, between the surfaces, was
+shaken about like a rattle in a box as the machine rolled over and over.
+He finally fell out upon the sand with nothing worse than painful
+bruises, but the damage to the machine caused a discontinuance of
+experiments.
+
+In the spring of 1904, through the kindness of Mr. Torrence Huffman, of
+Dayton, Ohio, we were permitted to erect a shed, and to continue
+experiments, on what is known as the Huffman Prairie, at Simms Station,
+eight miles east of Dayton. The new machine was heavier and stronger,
+but similar to the one flown at Kill Devil Hill. When it was ready for
+its first trial every newspaper in Dayton was notified, and about a
+dozen representatives of the Press were present. Our only request was
+that no pictures be taken, and that the reports be unsensational, so as
+not to attract crowds to our experiment grounds. There were probably 50
+persons altogether on the ground. When preparations had been completed a
+wind of only three or four miles was blowing--insufficient for starting
+on so short a track--but since many had come a long way to see the
+machine in action, an attempt was made. To add to the other difficulty,
+the engine refused to work properly. The machine, after running the
+length of the track, slid off the end without rising into the air at
+all. Several of the newspaper men returned the next day, but were again
+disappointed. The engine performed badly, and after a glide of only 60
+feet, the machine came to the ground. Further trial was postponed till
+the motor could be put in better running condition. The reporters had
+now, no doubt, lost confidence in the machine, though their reports, in
+kindness, concealed it. Later, when they heard that we were making
+flights of several minutes' duration, knowing that longer flights had
+been made with airships, and not knowing any essential difference
+between airships and flying machines, they were but little interested.
+
+We had not been flying long in 1904 before we found that the problem of
+equilibrium had not as yet been entirely solved. Sometimes, in making a
+circle, the machine would turn over sidewise despite anything the
+operator could do, although, under the same conditions in ordinary
+straight flight, it could have been righted in an instant. In one
+flight, in 1905, while circling around a honey locust tree at a height
+of about 50 feet, the machine suddenly began to turn up on one wing, and
+took a course toward the tree. The operator, not relishing the idea of
+landing in a thorn-tree, attempted to reach the ground. The left wing,
+however, struck the tree at a height of 10 or 12 feet from the ground
+and carried away several branches; but the flight, which had already
+covered a distance of six miles, was continued to the starting-point.
+
+The causes of these troubles--too technical for explanation here--were
+not entirely overcome till the end of September, 1905. The flights then
+rapidly increased in length, till experiments were discontinued after
+October 5, on account of the number of people attracted to the field.
+Although made on a ground open on every side, and bordered on two sides
+by much-traveled thoroughfares, with electric cars passing every hour,
+and seen by all the people living in the neighborhood for miles around,
+and by several hundred others, yet these flights have been made by some
+newspapers the subject of a great "mystery."
+
+A practical flyer having been finally realized, we spent the years 1906
+and 1907 in constructing new machines and in business negotiations. It
+was not till May of this year that experiments (discontinued in October,
+1905) were resumed at Kill Devil Hill, North Carolina. The recent
+flights were made to test the ability of our machine to meet the
+requirements of a contract with the United States Government to furnish
+a flyer capable of carrying two men and sufficient fuel supplies for a
+flight of 125 miles, with a speed of 40 miles an hour. The machine used
+in these tests was the same one with which the flights were made at
+Simms Station in 1905, though several changes had been made to meet
+present requirements. The operator assumed a sitting position, instead
+of lying prone, as in 1905, and a seat was added for a passenger. In
+the first distraction of grief it seemed as though her unequalled
+promise had been entirely blighted, and as though she would be remembered
+only by her single book.
+
+But as her father examined her papers, one completed work after
+another revealed itself. First a selection from the sonnets of the
+Comte de Grammont, translated into English, turned up, and was
+printed in a Calcutta magazine; then some fragments of an English story,
+which were printed in another Calcutta magazine. Much more important,
+however, than any of these was a complete romance, written in French,
+being the identical story for which her sister Aru had proposed to make
+the illustrations. In the meantime Toru was no sooner dead than she
+began to be famous. In May, 1878, there appeared a second edition of
+the "Sheaf gleaned in French Fields," with a touching sketch of her
+death, by her father; and in 1879 was published, under the editorial care
+of Mlle. Clarisse Bader, the romance of "Le Journal de Mlle. D'Arvers,"
+forming a handsome volume of 259 pages. This book, begun, as it appears,
+before the family returned from Europe, and finished nobody knows when,
+is an attempt to describe scenes from modern French society, but
+it is less interesting as an experiment of the fancy, than as a revelation
+of the mind of a young Hindu woman of genius. The story is simple,
+clearly told, and interesting; the studies of character have nothing
+French about them, but they are full of vigour and originality. The
+description of the hero is most characteristically Indian.--
+Il est beau en effet. Sa taille est haute, mais quelques-uns la
+trouveraient mince, sa chevelure noire est bouclée et tombe jusqu'à
+la nuque; ses yeux noirs sont profonds et bien fendus, le front est
+noble; la lèvre supérieure, couverte par une moustache naissante et noire,
+est parfaitement modelée; son menton a quelque chose de sévère; son
+teint est d'un blanc presque féminin, ce qui dénote sa haute naissance.
+
+In this description we seem to recognize some Surya or Soma of Hindu
+mythology, and the final touch, meaningless as applied to an European,
+reminds us that in India whiteness of skin has always been a sign
+of aristocratic birth, from the days when it originally distinguished
+the conquering Aryas from the indigenous race of the Dasyous.
+
+As a literary composition "Mlle. D'Arvers" deserves high commendation.
+It deals with the ungovernable passion of two brothers for one placid and
+beautiful girl, a passion which leads to fratricide and madness.
+That it is a very melancholy and tragical story is obvious from this
+brief sketch of its contents, but it is remarkable for coherence and
+self-restraint no less than for vigour of treatment. Toru Dutt never
+sinks to melodrama in the course of her extraordinary tale, and
+the wonder is that she is not more often fantastic and unreal.
+
+But we believe that the original English poems, which we present
+to the public for the first time to-day, will be ultimately found
+to constitute Toru's chief legacy to posterity.
+
+These ballads form the last and most matured of her writings, and
+were left so far fragmentary at her death that the fourth and fifth
+in her projected series of nine were not to be discovered in any
+form among her papers.
+
+It is probable that she had not even commenced them.
+
+Her father, therefore, to give a certain continuity to the series, has
+filled up these blanks with two stories from the "Vishnupurana,"
+which originally appeared respectively in the "Calcutta Review" and in
+the "Bengal Magazine." These are interesting, but a little rude in
+form, and they have not the same peculiar value as the rhymed octo-syllabic
+ballads. In these last we see Toru no longer attempting vainly, though
+heroically, to compete with European literature on its own ground,
+but turning to the legends of her own race and country for
+inspiration.
+
+No modern Oriental has given us so strange an insight into the
+conscience of the Asiatic as is presented in the stories of "Prehlad"
+and of "Savitri," or so quaint a piece of religious fancy as the ballad
+of "Jogadhya Uma." The poetess seems in these verses to be chanting to
+herself those songs of her mother's race to which she always turned
+with tears of pleasure.
+After an examination of
+the particulars of this motor, from which we learned that it had but a
+single cylinder of 4-inch bore and 5-inch stroke, we were afraid it was
+much over-rated. Unless the motor would develop a full 8
+brake-horsepower, it would be useless for our purpose.
+
+Finally we decided to undertake the building of the motor ourselves. We
+estimated that we could make one of four cylinders with 4-inch bore and
+4-inch stroke, weighing not over two hundred pounds, including all
+accessories. Our only experience up to that time in the building of
+gasoline motors had been in the construction of an air-cooled motor,
+5-inch bore and 7-inch stroke, which was used to run the machinery of
+our small workshop. To be certain that four cylinders of the size we had
+adopted (4" x 4") would develop the necessary 8 horse-power, we first
+fitted them in a temporary frame of simple and cheap construction. In
+just six weeks from the time the design was started, we had the motor on
+the block testing its power. The ability to do this so quickly was
+largely due to the enthusiastic and efficient services of Mr. C. E.
+Taylor, who did all the machine work in our shop for the first as well
+as the succeeding experimental machines. There was no provision for
+lubricating either cylinders or bearings while this motor was running.
+For that reason it was not possible to run it more than a minute or two
+at a time. In these short tests the motor developed about nine
+horse-power. We were then satisfied that, with proper lubrication and
+better adjustments, a little more power could be expected. The
+completion of the motor according to drawing was, therefore, proceeded
+with at once.
+
+[Illustration]
+
+While Mr. Taylor was engaged with this work, Wilbur and I were busy in
+completing the design of the machine itself. The preliminary tests of
+the motor having convinced us that more than 8 horse-power would be
+secured, we felt free to add enough weight to build a more substantial
+machine than we had originally contemplated.
+
+       *       *       *       *       *
+
+For two reasons we decided to use two propellers. In the first place we
+could, by the use of two propellers, secure a reaction against a greater
+quantity of air, and at the same time use a larger pitch angle than was
+possible with one propeller; and in the second place by having the
+propellers turn in opposite directions, the gyroscopic action of one
+would neutralize that of the other. The method we adopted of driving the
+propellers in opposite directions by means of chains is now too well
+known to need description here. We decided to place the motor to one
+side of the man, so that in case of a plunge headfirst, the motor could
+not fall upon him. In our gliding experiments we had had a number of
+experiences in which we had landed upon one wing, but the crushing of
+the wing had absorbed the shock, so that we were not uneasy about the
+motor in case of a landing of that kind. To provide against the machine
+rolling over forward in landing, we designed skids like sled runners,
+extending out in front of the main surfaces. Otherwise the general
+construction and operation of the machine was to be similar to that of
+the 1902 glider.
+
+When the motor was completed and tested, we found that it would develop
+16 horse-power for a few seconds, but that the power rapidly dropped
+till, at the end of a minute, it was only 12 horse-power. Ignorant of
+what a motor of this size ought to develop, we were greatly pleased with
+its performance. More experience showed us that we did not get one-half
+of the power we should have had.
+
+With 12 horse-power at our command, we considered that we could permit
+the weight of the machine with operator to rise to 750 or 800 pounds,
+and still have as much surplus power as we had originally allowed for in
+the first estimate of 550 pounds.
+
+Before leaving for our camp at Kitty Hawk we tested the chain drive for
+the propellers in our shop at Dayton, and found it satisfactory. We
+found, however, that our first propeller shafts, which were constructed
+of heavy gauge steel tubing, were not strong enough to stand the shocks
+received from a gasoline motor with light fly wheel, although they would
+have been able to transmit three or four times the power uniformly
+applied. We therefore built a new set of shafts of heavier tubing, which
+we tested and thought to be abundantly strong.
+
+We left Dayton, September 23, and arrived at our camp at Kill Devil Hill
+on Friday, the 25th. We found there provisions and tools, which had been
+shipped by freight several weeks in advance. The building, erected in
+1901 and enlarged in 1902, was found to have been blown by a storm from
+its foundation posts a few months previously. While we were awaiting the
+arrival of the shipment of machinery and parts from Dayton, we were busy
+putting the old building in repair, and erecting a new building to serve
+as a workshop for assembling and housing the new machine.
+
+When poetry is as good as this it does not much matter whether Rouveyre
+prints it upon Whatman paper, or whether it steals to light in blurred
+type from some press in Bhowanipore.
+
+Toru Dutt was the youngest of the three children of a high-caste Hindu
+couple in Bengal. Her father, who survives them all, the Baboo Govin
+Chunder Dutt, is himself distinguished among his countrymen for the width
+of his views and the vigour of his intelligence. His only son, Abju,
+died in 1865, at the age of fourteen, and left his two younger sisters
+to console their parents. Aru, the elder daughter, born in 1854, was
+eighteen months senior to Toru, the subject of this memoir, who
+was born in Calcutta on the 4th of March, 1856.But the wind was so strong I could not guide
+the hammer and succeeded in striking my fingers as often as the nails.
+
+The next three weeks were spent in setting the motor-machine together.
+On days with more favorable winds we gained additional experience in
+handling a flyer by gliding with the 1902 machine, which we had found in
+pretty fair condition in the old building, where we had left it the year
+before.
+
+Mr. Chanute and Dr. Spratt, who had been guests in our camp in 1901 and
+1902, spent some time with us, but neither one was able to remain to see
+the test of the motor-machine, on account of the delays caused by
+trouble which developed in the propeller shafts.
+
+While Mr. Chanute was with us, a good deal of time was spent in
+discussion of the mathematical calculations upon which we had based our
+machine. He informed us that, in designing machinery, about 20 per cent.
+was usually allowed for the loss in the transmission of power. As we had
+allowed only 5 per cent., a figure we had arrived at by some crude
+measurements of the friction of one of the chains when carrying only a
+very light load, we were much alarmed. More than the whole surplus in
+power allowed in our calculations would, according to Mr. Chanute's
+estimate, be consumed in friction in the driving chains. After Mr.
+Chanute's departure, we suspended one of the drive chains over a
+sprocket, hanging bags of sand on either side of the sprocket of a
+weight approximately equal to the pull that would be exerted on the
+chains when driving the propellers. By measuring the extra amount of
+weight needed on one side to lift the weight on the other, we calculated
+the loss in transmission. This indicated that the loss of power from
+this source would be only 5 per cent., as we originally estimated. And
+Tommy, "We're the King's Own 'Ymn of 'Aters"; some such subtle repartee
+as that. "Wot's your mob?"
+"We're a battalion of Irish rifles." The Germans liked to provoke
+us by pretending that the Irish were disloyal to England.The first run of the motor on the machine developed a flaw in one of the
+propeller shafts which had not been discovered in the test at Dayton.
+The shafts were sent at once to Dayton for repair, and were not received
+again until November 20, having been gone two weeks. We immediately put
+them in the machine and made another test. A new trouble developed. The
+sprockets which were screwed on the shafts, and locked with nuts of
+opposite thread, persisted in coming loose. After many futile attempts
+to get them fast, we had to give it up for that day, and went to bed
+much discouraged. However, after a night's rest, we got up the next
+morning in better spirits and resolved to try again.
+
+While in the bicycle business we had become well acquainted with the use
+of hard tire cement for fastening tires on the rims. A hopeless volume it
+seemed, with its queer type, published at Bhowanipore, printed at the
+Saptahiksambad Press! But when at last I took it out of my pocket, what
+was my surprise and almost rapture to open at such verse as this:--
+Still barred thy doors!We decided to try
+it. We heated the shafts and sprockets, melted cement into the threads,
+and screwed them together again. This trouble was over. The sprockets
+stayed fast.
+

@@ -1,0 +1,339 @@
+﻿Aluminium is a white metal with a characteristic tint 
+which most nearly resembles that of tin; when impure, or 
+after prolonged  exposure to air it has a slight violet 
+shade.  Its atomic weight is 27 (26.77, H=I, according to J. 
+Thomson).  It is trivalent.  The specific gravity of cast 
+metal is 2.583, and of rolled 2.688 at 4 deg.  C. It melts at 626 deg.  
+C. (freezing point 654.5 deg. , Heycock and Neville).  It is the 
+third most malleable and sixth most ductile metal, yielding 
+sheets 0.000025 in. in thickness, and wires 0.004 in. in 
+diameter.  When quite pure it is somewhat harder than tin, and 
+its hardness is considerably increased by rolling.  It is not 
+magnetic.  It stands near the positive end of the list of 
+elements arranged in electromotive series, being exceeded only 
+by the alkalis and metals of the alkaline earths; it therefore 
+combines eagerly, under suitable conditions, with oxygen and 
+chlorine.  Its coefficient of linear expansion by heat is 
+0.0000222 (Richards) or 0.0000231 (Roberts Austen) per 1 deg.  
+C. Its mean specific heat between 0 deg.  and 100 deg.  is 0.227, 
+and its latent heat of fusion 100 calories (Richards). Only 
+silver, copper and gold surpass it as conductors of heat, its 
+value being 31.33 (Ag= 100, Roberts-Austen).  Its electrical 
+conductivity, determined on 99.6% metal, is 60.5% that of 
+cooper for equal volumes, or double that of copper for equal 
+weights, and when chemically pure it exhibits a somewhat 
+higher relative efficiency.  The average strength of 98% 
+metal is approximately shown by the following table:-- 
+
+
+ 
+                   Elastic limit,      Ultimate strength,     Reduction
+                   tons per sq. in.    tons per sq. in.       of Area %
+ Cast   .   .   .         3                    7                  15
+ Sheet  .   .   .         5 1/2                11                 35
+ Bars   .   .   .         6 1/2                12                 40
+ Wire   .   .   .      7-13                 13-29                 60
+ 
+
+Weight for weight, therefore, aluminium is only exceeded in 
+tensile strength by the best cast steel, and its own alloy, 
+aluminium bronze.  An absolutely clean surface becomes 
+tarnished in damp air, an almost invisible coating of oxide 
+being produced, just as happens with zinc; but this film 
+is very permanent and prevents further attack.  Exposure to 
+air and rain also causes slight corrosion, but to nothing 
+like the same extent as occurs with iron, copper or brass.  
+Commercial electrolytic aluminium of the best quality contains 
+as the average of a large number of tests, 0.48% of silicon 
+and 0.46% of iron, the residue being essentially aluminium 
+itself.  The metal in mass is not affected by hot or cold water, 
+the foil is very slowly oxidized, while the amalgam decomposes 
+rapidly.  Sulphuretted hydrogen having no action upon it, 
+articles made of it are not blackened in foggy weather or in 
+rooms where crude coal gas is burnt.  To inorganic acids, except 
+hydrochloric, it is highly resistant, ranking well with tin 
+in this respect; but alkalis dissolve it quickly.  Organic 
+acids such as vinegar, common salt, the natural ingredients 
+of food, and the various extraneous substances used as food 
+preservatives, alone or mixed together, dissolve traces of 
+it if boiled for any length of time in a chemically clean 
+vessel; but when aluminium utensils are submitted to the 
+ordinary routine of the kitchen, being used to heat or cook 
+milk, coffee, vegetables, meat and even fruit, and are also 
+cleaned frequently in the usual fashion, no appreciable 
+quantity of metal passes into the food.  Moreover, did it do 
+so, the action upon the human system would be infinitely 
+less harmful than similar doses of copper or of lead. 
+
+The highly electro-positive character of aluminium is most 
+important.  At elevated temperatures the metal decomposes nearly 
+all other metallic oxides, wherefore it is most serviceable 
+as a metallurgical reagent.  In the casting of iron, steel and 
+brass, the addition of a trifling proportion (0.005%) removes 
+oxide and renders the molten metal more fluid, causing the 
+
+finished products to be more homogeneous, free from blow-holes 
+and solid all through.  On the other hand, its electro-positive 
+nature necessitates some care in its utilization.  If it be 
+exposed to damp, to sea-water or to corrosive influences of 
+any kind in contact with another metal, or if it be mixed 
+with another metal so as to form an alloy which is not a true 
+chemical compound, the other metal being highly negative to 
+it, powerful galvanic action will be set up and the structure 
+will quickly deteriorate. This explains the failure of boats 
+built of commercially pure aluminium which have been put 
+together with iron or copper rivets, and the decay of other 
+boats built of a light alloy, in which the alloying metal 
+(copper) has been injudiciously chosen. It also explains 
+why aluminium is so difficult to join with low-temperature 
+solders, for these mostly contain a large proportion of 
+lead.  This disadvantage, however, is often overestimated since 
+in most cases other means of uniting two pieces are available. 
+
+Alloys. 
+
+The metal produces an enormous number of useful alloys, some of 
+which, containing only 1 or 2% of other metals, combine the 
+lightness of aluminium itself with far greater hardness and 
+strength.  Some with 90 to 99% of other metals  exhibit 
+the general properties of those metals conspicuously 
+improved.  Among the heavy alloys, the aluminium bronzes 
+(Cu, 90-97.5%; Al, 10-2.5%) occupy the most important 
+position, showing mean tensile strengths increasing from 
+20 to 41 tons per sq. in. as the percentage of aluminium 
+rises, and all strongly resisting corrosion in air or 
+sea-water.  The light copper alloys, in which the proportions 
+just given are practically reversed, are of considerably less 
+utility, for although they are fairly strong, they lack power 
+to resist galvanic action.  This subject is far from being 
+exhausted, and it is not improbable that the alloy-producing 
+capacity of aluminium may eventually prove its most valuable 
+characteristic.  In the meantime, ternary light alloys 
+appear the most satisfactory, and tungsten and copper, or 
+tungsten and nickel, seem to be the best substances to add. 
+
+Uses. 
+
+The uses of aluminium are too numerous to mention.  Probably 
+the widest field is still in the purification of iron and 
+steel.  To the general public it appeals most strongly as 
+a material  for constructing cooking utensils.  It is not 
+brittle like porcelain and cast iron, not poisonous like 
+lead-glazed earthenware and untinned copper, needs no enamel 
+to chip off, does not rust and wear out like cheap tin-plate, 
+and weighs but a fraction of other substances.  It is largely 
+replacing brass and copper in all departments of industry 
+-- especially where dead weight has to be moved about, and 
+lightness is synonymous with economy -- for instance, in 
+bed-plates for torpedo-boat engines, internal fittings for 
+ships instead of wood, complete boats for portage, motor-car 
+parts and boiling-pans for confectionery and in chemical 
+works.  The British Admiralty employ it to save weight in 
+the Navy, and the war-offices of the European powers equip 
+their soldiers with it wherever possible, As a substitute for 
+Solenhofen stone it is used in a modified form of lithography, 
+which can be performed on rotary printing machines at a high 
+speed.  With the increasing price of copper, it is coming 
+into vogue as an electrical conductor for uncovered mains; 
+it is found that an aluminium wire 0.126 in. in diameter will 
+carry as much current as a copper wire 0.100 in. in diameter, 
+while the former weighs about 79 lb and the latter 162 lb per 
+mile.  Assuming the materials to be of equal tensile strength 
+per unit of area -- hard-drawn copper is stronger, but has a 
+lower conductivity -- the adoption of aluminium thus leads 
+to a reduction of 52% in the weight, a gain of 60% in the 
+strength, and an increase of 26% in the diameter of the 
+conductor.  Bare aluminium strip has recently been tried 
+for winding-coils in electrical machines, the oxide of the 
+metal acting as insulators between the layers.  When the 
+price of aluminium is less than double the price of copper 
+aluminium is cheaper than copper per unit of electric 
+current conveyed; but when insulation is necessary, the 
+smaller size of the copper wire renders it more economical.  
+Aluminium conductors have been employed on heavy work in 
+many places, and for telegraphy and telephony they are in 
+frequent demand and give perfect satisfaction. Difficulties 
+were at first encountered in making the necessary joints, 
+but these have been overcome by practice and experience. 
+
+Two points connected with this metal are of sufficient 
+moment to demand a few words by way of conclusion.  Its 
+extraordinary lightness forms its chief claim to general 
+adoption, yet is apt to cause mistakes when its price is 
+mentioned.  It is the weight of a mass of metal which governs 
+its financial value; its industrial value, in the vast majority 
+of cases, depends on the volume of that mass.  Provided it be 
+rigid, the bed-plate of an engine is no better for weighing 
+30 cwt. than for weighing 10 cwt.  A saucepan is required to 
+have a certain diameter and a certain depth in order that it 
+may hold a certain bulk of liquid: its weight is merely an 
+encumbrance.  Copper being 3 1/3 times as heavy as aluminium, 
+whenever the latter costs less than 3 1/2 times as much as 
+copper it is actually cheaper.  It must be remembered, 
+too, that electrolytic aluminium only became known during 
+the last decade of the 19th century.  Samples dating from 
+the old sodium days are still in existence, and when they 
+exhibit unpleasant properties the defect is often ascribed 
+to the metal instead of to the process by which it was 
+won.  Much has yet to be learnt about the practical qualities 
+of the electrolytic product, and although every day's 
+experience serves to place the metal in a firmer industrial 
+position, a final verdict can only be passed after the lapse of 
+time.  The individual and collective influence of the several 
+impurities which occur in the product of the Heroult cell 
+is still to seek, and the importance of this inquiry will 
+be seen when we consider that if cast iron, wrought iron and 
+steel, the three totally distinct metals included in the 
+generic name of ``iron'' -- which are only distinguished 
+one from another chemically by minute differences in the 
+proportion of certain non-metallic ingredients -- had only 
+been in use for a comparatively few years, attempts might 
+occasionally be made to forge cast iron, or to employ 
+wrought iron in the manufacture of edge-tools. (E. J. R.) 
+
+
+                  Compounds of Aluminium. 
+Aluminium oxide or alumina, Al2O3, occurs in nature 
+as the mineral corundum (q.v.), notable for its hardness 
+and abrasive power (see EMERY), and in well-crystallized 
+forms it constitutes, when coloured by various metallic 
+oxides, the gem-stones, sapphire, oriental topaz, oriental 
+amethyst and oriental emerald. Alumina is obtained as a 
+white amorphous powder by heating aluminium hydroxide.  
+This powder, provided that it has not been too strongly 
+ignited, is soluble in strong acids; by ignition it becomes 
+denser and nearly as hard as corundum; it fuses in the 
+oxyhydrogen flame or electric arc, and on cooling it assumes 
+a crystalline form closely resembling the mineral species. 
+Crystallized alumina is also obtained by heating the fluoride 
+with boron trioxide; by fusing aluminium phosphate with 
+sodium sulphate; by heating alumina to a dull redness in 
+hydrochloric acid gas under pressure; and by heating alumina 
+with lead oxide to a bright red heat.  These reactions are 
+of special interest, for they culminate in the production 
+of artificial ruby and sapphire (see GEMS, ARTIFICIAL). 
+
+Aluminium Hydrates. -- Several hydrated forms of aluminium 
+oxide are known.  Of these hydrargillite or gibbsite, Al(OH)3, 
+diaspore, AlO(OH), and bauxite, Al2O(OH)4, occur in the 
+mineral kingdom.  Aluminium hydrate, Al(OH)3, is obtained 
+as a gelatinous white precipitate, soluble in potassium or 
+sodium hydrate, but insoluble in ammonium chloride, by adding 
+ammonia to a cold solution of an aluminium salt; from boiling 
+solutions the precipitate is opaque.  By drying at ordinary 
+temperatures, the hydrate Al(OH)3.H2O is obtained; at 
+300 deg.  this yields AlO(OH), which on ignition gives alumina, 
+Al2O3.  Precipitated aluminium hydrate finds considerable 
+application in dyeing. Soluble modifications were obtained 
+by Waiter Crum (Journ. Chem.  Soc., 1854, vi. 216), and 
+Thomas Graham (Phil.  Trans., 1861, p. 163); the first 
+named decomposing aluminium acetate from lead acetate and 
+aluminium sulphate) with boiling water, the latter dialysing 
+a solution of the basic chloride (obtained by dissolving 
+the hydroxide in a solution of the normal chloride). 
+
+Both these soluble hydrates are readily coagulated by 
+traces of a salt, acid or alkali; Crum's hydrate does 
+not combine with dye-stuffs, neither is it soluble in 
+excess of acid, while Graham's compound readily forms 
+lakes, and readily dissolves when coagulated in acids. 
+
+In addition to behaving as a basic oxide, aluminium oxide (or 
+hydrate) behaves as an acid oxide towards the strong bases 
+with the formation of aluminates.  Potassium aluminate, 
+K2Al2O4, is obtained in solution by dissolving aluminium 
+hydrate in caustic potash; it is also obtained, as crystals 
+containing three molecules of water, by fusing alumina 
+with potash, exhausting with water, and crystallizing the 
+solution in vacuo. Sodium aluminate is obtained in the 
+manufacture of alumina; it is used as a mordant in dyeing, 
+and has other commercial applications.  Other aluminates 
+(in particular, of iron and magnesium), are of frequent 
+occurrence in the mineral kingdom, e.g. spinel, gahnite, &c. 
+
+Salts of Aluminium. -- Aluminium forms one series of 
+salts, derived from the trioxide, Al2O3.  These exhibit, in 
+certain cases, marked crystallographical and other analogies 
+with the corresponding salts of chromium and ferric iron. 
+
+Aluminium fluoride, AlF3, obtained by dissolving the 
+metal in hydrofluoric acid, and subliming the residue 
+in a current of hydrogen, forms transparent, very obtuse 
+rhombohedra, which are insoluble in water.  It forms a 
+series of double fluorides, the most important of which 
+is cryolite (q.v.); this mineral has been applied to the 
+commercial preparation of the metal (see above).  Aluminium 
+chloride, AlCl3, was first prepared by Oersted, who heated 
+a mixture of carbon and alumina in a current of chlorine, a 
+method subsequently improved by Wohler, Bunsen, Deville and 
+others.  A purer product is obtained by heating aluminium 
+turnings in a current of dry chlorine, when the chloride 
+distils over.  So obtained, it is a white crystalline solid, 
+which slowly sublimes just below its melting point (194 deg. ).  
+Its vapour density at temperatures above 750 deg.  corresponds 
+to the formula AlCl3; below this point the molecules are 
+associated.  It is very hygroscopic, absorbing water with the 
+evolution of hydrochloric acid.  It combines with ammonia to 
+form AlCl3.3NH3; and forms double compounds with phosphorus 
+pentachloride, phosphorus oxychloride, selenium and tellurium 
+chlorides, as well as with many metallic chlorides; sodium 
+aluminium chloride, AlCl3.NaCl, is used in the production 
+of the metal.  As a synthetical agent in organic chemistry, 
+aluminium chloride has rendered possible more reactions 
+than any other substance; here we can only mention the 
+classic syntheses of benzene homologues.  Aluminium bromide, 
+AlBr3, is prepared in the same manner as the chloride.  It 
+forms colourless crystals, melting at 90 deg. , and boiling at 
+265 deg. -270 deg. .  Aluminium iodide, AlI3, results from the 
+interaction of iodine and aluminium.  It forms colourless 
+crystals, melting at 185 deg. , and boiling at 360 deg. . Aluminium 
+sulphide, Al2S3, results from the direct union of the metal 
+with sulphur, or when carbon disulphide vapour is passed over 
+strongly heated alumina.  It forms a yellow fusible mass, 
+which is decomposed by water into alumina and sulphuretted 
+hydrogen.  Aluminium sulphate Al(SO4)3, occurs in the 
+mineral kingdom as keramohalite, Al2(SO4)3.18H2O, found 
+near volcanoes and in alum-shale; aluminite or websterite is 
+a basic salt, Al3(SO4)(OH)4.7H2O.  Aluminium sulphate, 
+known commercially as ``concentrated alum'' or ``sulphate of 
+alumina,'' is manufactured from kaolin or china clay, which, 
+after roasting (in order to oxidize any iron present), is 
+heated with sulphuric acid, the clear solution run off, and 
+evaporated. ``Alum cake'' is an impure product.  Aluminium 
+sulphate crystallizes as Al2(SO4)3.18H2O in tablets 
+belonging to the monoclinic system. It has a sweet astringent 
+taste, very soluble in water, but scarcely soluble in 
+alcohol.  On heating, the crystals lose water, swell up, and 
+give the anhydrous sulphate, which, on further heating, gives 
+alumina.  It forms double salts with the sulphates of the 
+metals of the alkalis, known as the alums (see ALUM.) 
+
+Aluminium nitride (AlN) is obtained as small yellow crystals 
+when aluminium is strongly heated in nitrogen.  The nitrate, 
+Al(NO3)3, is obtained as deliquescent crystals (with 8H2O) 
+by evaporating a solution of the hydroxide in nitric acid. 
+Aluminium phosphates may be prepared by Precipitating a 
+soluble aluminium salt with sodium phosphate.  Wavellite 
+Al8(PO4)3(OH)15.9H2O, is a naturally occurring 
+basic phosphate, while the gem-stone turquoise (q.v.) 
+is Al.(PO4).(OH)2.H2O, coloured by traces of copper.  
+Aluminium silicates are widely diffused in the mineral 
+kingdom, being present in the commonest rock-forming minerals 
+(felspars, &c.), and in the gem-stones, topaz, beryl, 
+garnet, &c. It also constitutes with sodium silicate the 
+mineral lapis-lazuli and the pigment ultramarine (q.v..) 
+Forming the basis of all clays, aluminium silicates play a 
+prominent part in the manufacture of pottery and porcelain. 
+
+BIBLIOGRAPHY. -- The metallurgy and uses of aluminium are 
+treated in detail in P. Moissonnier, L'Aluminium (Paris, 
+1903); in J. W. Richards, Aluminium (1896); and in A. Miner, 
+Production of Aluminium, Eng. trans. by L. Waldo (1905); 
+reference may also be made to treatises on general metallurgy, 
+e.g. C. Schnabel, Handbook of Metalurgy, vol. ii. (1907).  
+For the chemistry see Roscoe and Schlorlemmer, Treatise on 
+Inorganic Chemistry, vol. ii. (1908); H. Moissan, Traite 
+de chimie minerale; Abegg, Handbuch der anorgenischen 
+Chemie; and O. Dammer, Handbuch der anorganischen Chemie.  
+Aluminium alloys have been studied in detail by Guillet. 
+

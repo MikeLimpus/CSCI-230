@@ -1,0 +1,223 @@
+﻿"Well, there was one thing I never could reconcile myself to in the
+whole arrangement," replied Ardan cheerfully; "and that was destruction
+by an open curve. Safe from that, I could say, 'Fate, do your worst!'
+Besides, I don't believe in the infallibility of your ellipsic. It may
+prove just as unreliable as the hyperbola. And it is no harm to hope
+that it may!"
+
+From present appearances there was very little to justify Ardan's hope.
+Barbican's theory of the elliptic orbit was unfortunately too well
+grounded to allow a single reasonable doubt to be expressed regarding
+the Projectile's fate. It was to gravitate for ever around the Moon--a
+sub-satellite. It was a new born individual in the astral universe, a
+microcosm, a little world in itself, containing, however, only three
+inhabitants and even these destined to perish pretty soon for want of
+air. Our travellers, therefore, had no particular reason for rejoicing
+over the new destiny reserved for the Projectile in obedience to the
+inexorable laws of the centripetal and centrifugal forces. They were
+soon, it is true, to have the opportunity of beholding once more the
+illuminated face of the Moon. They might even live long enough to catch
+a last glimpse of the distant Earth bathed in the glory of the solar
+rays. They might even have strength enough left to be able to chant one
+solemn final eternal adieu to their dear old Mother World, upon whose
+features their mortal eyes should never again rest in love and longing!
+Then, what was their Projectile to become? An inert, lifeless, extinct
+mass, not a particle better than the most defunct asteroid that wanders
+blindly through the fields of ether. A gloomy fate to look forward to.
+Yet, instead of grieving over the inevitable, our bold travellers
+actually felt thrilled with delight at the prospect of even a momentary
+deliverance from those gloomy depths of darkness and of once more
+finding themselves, even if only for a few hours, in the cheerful
+precincts illuminated by the genial light of the blessed Sun!
+
+The ring of light, in the meantime, becoming brighter and brighter,
+Barbican was not long in discovering and pointing out to his companions
+the different mountains that lay around the Moon's south pole.
+
+"There is _Leibnitz_ on your right," said he, "and on your left you can
+easily see the peaks of _Doerfel_. Belonging rather to the Moon's dark
+side than to her Earth side, they are visible to terrestrial astronomers
+only when she is in her highest northern latitudes. Those faint peaks
+beyond them that you can catch with such difficulty must be those of
+_Newton_ and _Curtius_."
+
+"How in the world can you tell?" asked Ardan.
+
+"They are the highest mountains in the circumpolar regions," replied
+Barbican. "They have been measured with the greatest care; _Newton_ is
+23,000 feet high."
+
+"More or less!" laughed Ardan. "What Delphic oracle says so?"
+
+"Dear friend," replied Barbican quietly, "the visible mountains of the
+Moon have been measured so carefully and so accurately that I should
+hardly hesitate in affirming their altitude to be as well known as that
+of Mont Blanc, or, at least, as those of the chief peaks in the
+Himalayahs or the Rocky Mountain Range."
+
+"I should like to know how people set about it," observed Ardan
+incredulously.
+
+"There are several well known methods of approaching this problem,"
+replied Barbican; "and as these methods, though founded on different
+principles, bring us constantly to the same result, we may pretty
+safely conclude that our calculations are right. We have no time, just
+now to draw diagrams, but, if I express myself clearly, you will no
+doubt easily catch the general principle."
+
+"Go ahead!" answered Ardan. "Anything but Algebra."
+
+"We want no Algebra now," said Barbican, "It can't enable us to find
+principles, though it certainly enables us to apply them. Well. The Sun
+at a certain altitude shines on one side of a mountain and flings a
+shadow on the other. The length of this shadow is easily found by means
+of a telescope, whose object glass is provided with a micrometer. This
+consists simply of two parallel spider threads, one of which is
+stationary and the other movable. The Moon's real diameter being known
+and occupying a certain space on the object glass, the exact space
+occupied by the shadow can be easily ascertained by means of the movable
+thread. This space, compared with the Moon's space, will give us the
+length of the shadow. Now, as under the same circumstances a certain
+height can cast only a certain shadow, of course a knowledge of the one
+must give you that of the other, and _vice versa_. This method, stated
+roughly, was that followed by Galileo, and, in our own day, by Beer and
+Maedler, with extraordinary success."
+
+"I certainly see some sense in this method," said Ardan, "if they took
+extraordinary pains to observe correctly. The least carelessness would
+set them wrong, not only by feet but by miles. We have time enough,
+however, to listen to another method before we get into the full blaze
+of the glorious old Sol."
+
+"The other method," interrupted M'Nicholl laying down his telescope to
+rest his eyes, and now joining in the conversation to give himself
+something to do, "is called that of the _tangent rays_. A solar ray,
+barely passing the edge of the Moon's surface, is caught on the peak of
+a mountain the rest of which lies in shadow. The distance between this
+starry peak and the line separating the light from the darkness, we
+measure carefully by means of our telescope. Then--"
+
+"I see it at a glance!" interrupted Ardan with lighting eye; "the ray,
+being a tangent, of course makes right angles with the radius, which is
+known: consequently we have two sides and one angle--quite enough to
+find the other parts of the triangle. Very ingenious--but now, that I
+think of it--is not this method absolutely impracticable for every
+mountain except those in the immediate neighborhood of the light and
+shadow line?"
+
+"That's a defect easily remedied by patience," explained Barbican--the
+Captain, who did not like being interrupted, having withdrawn to his
+telescope--"As this line is continually changing, in course of time all
+the mountains must come near it. A third method--to measure the mountain
+profile directly by means of the micrometer--is evidently applicable
+only to altitudes lying exactly on the lunar rim."
+
+"That is clear enough," said Ardan, "and another point is also very
+clear. In Full Moon no measurement is possible. When no shadows are
+made, none can be measured. Measurements, right or wrong, are possible
+only when the solar rays strike the Moon's surface obliquely with regard
+to the observer. Am I right, Signor Barbicani, maestro illustrissimo?"
+
+"Perfectly right," replied Barbican. "You are an apt pupil."
+
+"Say that again," said Ardan. "I want Mac to hear it."
+
+Barbican humored him by repeating the observation, but M'Nicholl would
+only notice it by a grunt of doubtful meaning.
+
+"Was Galileo tolerably successful in his calculations?" asked Ardan,
+resuming the conversation.
+
+Before answering this question, Barbican unrolled the map of the Moon,
+which a faint light like that of day-break now enabled him to examine.
+He then went on: "Galileo was wonderfully successful--considering that
+the telescope which he employed was a poor instrument of his own
+construction, magnifying only thirty times. He gave the lunar mountains
+a height of about 26,000 feet--an altitude cut down by Hevelius, but
+almost doubled by Riccioli. Herschel was the first to come pretty close
+to the truth, but Beer and Maedler, whose _Mappa Selenographica_ now
+lies before us, have left really nothing more to be done for lunar
+astronomy--except, of course, to pay a personal visit to the
+Moon--which we have tried to do, but I fear with a very poor prospect of
+success."
+
+"Cheer up! cheer up!" cried Ardan. "It's not all over yet by long odds.
+Who can say what is still in store for us? Another bolide may shunt us
+off our ellipse and even send us to the Moon's surface."
+
+Then seeing Barbican shake his head ominously and his countenance become
+more and more depressed, this true friend tried to brighten him up a bit
+by feigning to take deep interest in a subject that to him was
+absolutely the driest in the world.
+
+"Meer and Baedler--I mean Beer and Maedler," he went on, "must have
+measured at least forty or fifty mountains to their satisfaction."
+
+"Forty or fifty!" exclaimed Barbican. "They measured no fewer than a
+thousand and ninety-five lunar mountains and crater summits with a
+perfect success. Six of these reach an altitude of upwards of 18,000
+feet, and twenty-two are more than 15,000 feet high."
+
+"Which is the highest in the lot?" asked Ardan, keenly relishing
+Barbican's earnestness.
+
+"_Doerfel_ in the southern hemisphere, the peak of which I have just
+pointed out, is the highest of the lunar mountains so far measured,"
+replied Barbican. "It is nearly 25,000 feet high."
+
+"Indeed! Five thousand feet lower than Mount Everest--still for a lunar
+mountain, it is quite a respectable altitude."
+
+"Respectable! Why it's an enormous altitude, my dear friend, if you
+compare it with the Moon's diameter. The Earth's diameter being more
+than 3-1/2 times greater than the Moon's, if the Earth's mountains bore
+the same ratio to those of the Moon, Everest should be more than sixteen
+miles high, whereas it is not quite six."
+
+"How do the general heights of the Himalayahs compare with those of the
+highest lunar mountains?" asked Ardan, wondering what would be his next
+question.
+
+"Fifteen peaks in the eastern or higher division of the Himalayahs, are
+higher than the loftiest lunar peaks," replied Barbican. "Even in the
+western, or lower section of the Himalayahs, some of the peaks exceed
+_Doerfel_."
+
+"Which are the chief lunar mountains that exceed Mont Blanc in
+altitude?" asked Ardan, bravely suppressing a yawn.
+
+"The following dozen, ranged, if my memory does not fail me, in the
+exact order of their respective heights;" replied Barbican, never
+wearied in answering such questions: "_Newton_, _Curtius_, _Casatus_,
+_Rheita_, _Short_, _Huyghens_, _Biancanus_, _Tycho_, _Kircher_,
+_Clavius_, _Endymion_, and _Catharina_."
+
+"Now those not quite up to Mont Blanc?" asked Ardan, hardly knowing what
+to say.
+
+"Here they are, about half a dozen of them: _Moretus_, _Theophilus_,
+_Harpalus_, _Eratosthenes_, _Werner_, and _Piccolomini_," answered
+Barbican as ready as a schoolboy reciting his lesson, and pointing them
+out on the map as quickly as a compositor distributing his type.
+
+"The next in rank?" asked Ardan, astounded at his friend's wonderful
+memory.
+
+"The next in rank," replied Barbican promptly, "are those about the size
+of the Matterhorn, that is to say about 2-3/4 miles in height. They are
+_Macrobius_, _Delambre_, and _Conon_. Come," he added, seeing Ardan
+hesitating and at a loss what other question to ask, "don't you want to
+know what lunar mountains are about the same height as the Peak of
+Teneriffe? or as Ætna? or as Mount Washington? You need not be afraid of
+puzzling me. I studied up the subject thoroughly, and therefore know all
+about it."
+
+"Oh! I could listen to you with delight all day long!" cried Ardan,
+enthusiastically, though with some embarrassment, for he felt a twinge
+of conscience in acting so falsely towards his beloved friend. "The fact
+is," he went on, "such a rational conversation as the present, on such
+an absorbing subject, with such a perfect master--"
+
+"The Sun!" cried M'Nicholl starting up and cheering. "He's cleared the
+disc completely, and he's now himself again! Long life to him! Hurrah!"
+

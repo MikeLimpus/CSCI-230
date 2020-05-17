@@ -1,0 +1,3212 @@
+﻿Produced by K Nordquist, David Cortesi, Renald Levesque
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+                             THE GHOST BREAKER
+
+                    By PAUL DICKEY and CHARLES GODDARD
+
+             [Illustration: FRENCH'S STANDARD LIBRARY EDITION]
+
+                 SAMUEL FRENCH, 25 West 45th St., New York
+
+
+TRANSCRIBER'S NOTE
+
+Two minor typos were corrected and a Table of Contents and
+List of Illustrations have been added.
+
+
+                                 CONTENTS
+
+                        (Supplied by Transcriber)
+
+                    Cast List                   p.  3
+                    ACT I                       p.  5
+                    ACT II                      p. 19
+                    ACT III                     p. 39
+                    ACT IV                      p. 56
+                    Stage Manager's Plot        p. 70
+                    Carpenter's Plot            p. 71
+                    Property Plot               p. 72
+                    Electrician's Plot          p. 73
+
+                              ILLUSTRATIONS
+
+                        (Supplied by Transcriber)
+
+                    Plate based on Act I        p. 17
+                    Plate based on Act II       p. 24
+                    Plate based on Act III      p. 48
+                    Plate based on Act IV       p. 56
+
+                    *       *       *       *       *
+
+
+                                Pollyanna
+
+
+The glad play, by Catherine Chisholm Cushing, after the novel by Eleanor
+H. Porter. 5 males, 6 females. 2 interiors. Costumes, modern. Plays
+2-1/4 hours. An orphan girl is thrust into the home of a maiden aunt. In
+spite of the trials that beset her, she manages to find something to be
+glad about, and brings light into sunless lives. Finally Pollyanna
+straightens out the love affairs of her elders, and finds happiness for
+herself in Jimmy. "Pollyanna" gives a better appreciation of people and
+the world. It reflects the humor and humanity that gave the story such
+wonderful popularity among young and old.
+
+Produced in New York, and for two seasons on tour. Royalty, $25.00.
+Price, 75 cents.
+
+
+                            Martha By-the-Day
+
+
+An optimistic comedy in 3 acts, by Julie M. Lippmann, author of the
+"Martha" stories. 5 males. 5 females. 3 interiors. Costumes, modern.
+Plays 2-1/2 hours.
+
+Full of quaint humor, old-fashioned, homely sentiment, the kind that
+people who see the play will recall and chuckle over tomorrow and the
+next day.
+
+Miss Lippmann has herself adapted her successful book for the stage and
+has selected from her novel the most telling incidents, infectious
+comedy and homely sentiment for the play, and the result is thoroughly
+delightful. Royalty, $25. Price, 60 cents.
+
+
+                                Seventeen
+
+
+A comedy of youth, in 4 acts, by Booth Tarkington. 8 males, 6 females. 1
+exterior. 2 interiors. Costumes, modern. Plays 2-1/2 hours.
+
+It is the tragedy of William Sylvanus Baxter that he has ceased to be
+sixteen and is not yet eighteen. Seventeen is not an age, it is a
+disease.
+
+In his heart William knows all the tortures and delights of love. But he
+is still sent by his mother on errands of the most humiliating sort and
+depends on his father for every nickel, the use of which he must justify
+before he gets it.
+
+"Silly" Bill fell in love with Lola, the "Baby-Talk Lady," a vapid
+little flirt. To woo her in a manner worthy of himself (and of her) he
+steals his father's evening clothes. When his wooings become a nuisance
+to the neighborhood, his mother steals them back, and has them let out
+to fit the middle-aged form of her husband, thereby keeping William at
+home.
+
+But when it comes to the "Baby-Talk Lady's" good-bye dance, not to be
+present was unendurable. Now William again gets the dress suit, and how
+he wears it at the party, and Genesis discloses the fact that the proud
+garment is in reality his father's makes up the story of the play.
+
+"Seventeen" is a work of exquisite human sympathy and delicious humor.
+Royalty, $25.00. Price. 75 cents.
+
+             SAMUEL FRENCH. 25 West 45th Street, New York City
+
+              New and Explicit Descriptive Catalogue Mailed
+                             Free on Request
+
+                    *       *       *       *       *
+
+
+                            The Ghost Breaker
+
+                    A MELODRAMATIC FARCE IN FOUR ACTS
+
+                                     BY
+
+                     PAUL DICKEY AND CHARLES GODDARD
+
+          Copyright, 1909, by Charles W. Goddard and Paul Dickey
+               Copyright assigned, 1914, to Sanger & Jordan
+
+                             ALL RIGHTS RESERVED
+
+CAUTION: Professionals and amateurs are hereby warned that "THE GHOST
+BREAKER," being fully protected under the copyright laws of the United
+States, the British Empire, and the other countries of the Copyright
+Union, is subject to a royalty, and anyone presenting the play without
+the consent of the owners or their authorized agents will be liable to
+the penalties by law provided. Applications for the amateur acting
+rights must be made to Samuel French, 25 West 45th Street, New York,
+N.Y.
+
+                                 New York:
+                               SAMUEL FRENCH
+                                 Publisher
+                            25 West 45th Street
+
+                                  London:
+                             SAMUEL FRENCH, LTD.
+                            26 Southampton Street
+                                  Strand
+
+                    Royalty on this play payable to our
+                            Los Angeles Office
+                             SAMUEL FRENCH
+
+                    *       *       *       *       *
+
+
+                            "THE GHOST BREAKER"
+
+
+                           _All Rights Reserved_
+
+Especial notice should be taken that the possession of this book without
+a valid contract for production first having been obtained from the
+publisher, confers no right or license to professionals or amateurs to
+produce the play publicly or in private for gain or charity.
+
+In its present form this play is dedicated to the reading public only,
+and no performance, representation, production, recitation, public
+reading or radio broadcasting may be given by amateurs except by special
+arrangement with Samuel French, 25 West 45th Street, New York.
+
+This play may be presented by amateurs upon payment of a royalty of
+twenty-five dollars for each performance, payable to Samuel French, 25
+West 45th Street, New York, one week before the date when the play is
+given.
+
+Whenever the play is produced by amateurs the following notice must
+appear on all programs, printing and advertising for the play: "Produced
+by special arrangement with Samuel French of New York."
+
+Attention is called to the penalty provided by law for any infringement
+of the author's rights, as follows:
+
+SECTION 4966:--Any person publicly performing or representing any
+dramatic or musical composition for which copyright has been obtained,
+without the consent of the proprietor of said dramatic or musical
+composition, or his heirs and assigns, shall be liable for damages
+thereof, such damages, in all cases to be assessed at such sum, not less
+than one hundred dollars for the first and fifty dollars for every
+subsequent performance, as to the court shall appear to be just. If the
+unlawful performance and representation be wilful and for profit, such
+person or persons shall be guilty of a misdemeanor, and upon conviction
+shall be imprisoned for a period not exceeding one year.--U.S. Revised
+Statutes: Title 60, Chap. 3.
+
+                    *       *       *       *       *
+
+
+                                 THE CAST
+
+    PRINCESS MARIA THERESA OF ARAGON.
+    WARREN JARVIS, _of Kentucky_.
+    NITA, _the Princess' Maid_.
+    HOUSE DETECTIVE, _Manhattan Hotel_.
+    RUSTY SNOW, _Warren Jarvis' Colored Servant_.
+    DETECTIVES, _from Police Headquarters_.
+    HOTEL PORTER.
+    STEWARD, _on S.S. Aquitania_.
+    CARLOS, _Duke d'Alva_.
+    DOLORES, _the Innkeeper's Daughter_.
+    VARDOS, _Messenger to the Missing Prince_.
+    DON ROBLEDO, _a Soldier of Fortune_.
+    PEDRO, _the Innkeeper_.
+    MAXIMO, _a Spanish Soldier_.
+    GASPAR, _a Villager_.
+    JOSE, _Chauffeur_.
+
+                          TIME: _The Present_.
+
+    ACT I. _A Room in the Hotel Manhattan, New
+        York. Five A.M._
+
+    ACT II. _A Cabin on Board S.S. Aquitania. Same
+        Morning._
+
+    ACT III. _An Old Tavern, Segura, Spain. Evening._
+
+    ACT IV. _The Castle. Same Night._
+
+                    *       *       *       *       *
+
+
+                            THE GHOST BREAKER
+
+
+                                  ACT I
+
+
+SCENE: _Room 1121, Manhattan Hotel, New York City._
+
+_At rise stage dark. Moonlight streams through the window. Small clock
+strikes five. Pause. Tower clock strikes. Two gun-shots heard off stage
+right. Door slams off stage. Footsteps heard coming along corridor,
+growing hubbub and commotion._ PRINCESS _pokes head through curtains._
+R. _door bursts open and_ WARREN JARVIS _enters hurriedly, in long coat
+over evening dress, closing and bolting the door behind him._
+
+_Princess._ Madre de Dios! (_Showing only her head._) (JARVIS _kicks in
+door, shuts it, and throws his shoulder against it._) Who's there?
+
+JARVIS. Sh! Don't make any noise.
+
+PRINCESS. (_Winding her dressing gown closely about her and coming a
+little way into the room_) What do you want?
+
+JARVIS. Silence!
+
+PRINCESS. (_Switches on lamp on right table_) How dare you enter!
+
+JARVIS. Sh! Not a sound--do you understand?
+
+VOICE OFF. (R.) What's the row?
+
+SECOND VOICE. (R.) Somebody fired a pistol.
+
+PRINCESS. What right--?
+
+JARVIS. Quiet!
+
+VOICE. Where'd he go? Look on the fire-escape.
+
+SECOND VOICE. No, he's on this floor.
+
+PRINCESS. What is it? What do you want here? What have you done?
+
+JARVIS. (_Turning to her_) Now, it's all right. He must certainly belong
+to that unfortunate class of the community, for whom "strait-jackets
+and a spare diet," are usually prescribed.
+
+"By this report, Col. Johnson has put weapons into the hands of infidelity
+to annoy and harass that very portion of the republican community,
+which furnishes the only hope, and pledge, that our free institutions
+will continue permanent
+
+."
+
+* * * * *
+
+The following account of a Parisian Sabbath we find in the "Salem
+Observer" of 1830:
+
+PARISIAN SABBATH. There is little in the appearance of Paris on a Sabbath
+morning to remind us that it is a day of rest; the markets are
+thronged as on other days, carts and drays and all sorts of vehicles,
+designed for the transportation of merchandise are in motion; buying
+and selling and manual labor proceed as usual; there is rest for
+neither man nor beast.
+
+In the afternoon the shops are usually closed; and labor is suspended,
+and the remainder of the day is devoted to pleasure.
+
+Few of those who go to church appear to have any other motive than
+amusement.
+
+They walk about the aisles, gazing at the pictures, and listening
+to the solemn music of the mass and go away when they are tired.
+
+Those whom I have seen really engaged in worship appeared to belong
+to the lower classes; and with the exception of those few, the
+persons you see in church are merely idle spectators, attracted
+thither by curiosity, or to pass an idle half hour before they go
+to promenade in the gardens.
+
+--_Wheaton's Travels_.
+
+* * * * *
+
+In the "Salem Observer" of Dec. 10, 1829, is the following notice
+on the Sunday-mail question:-- 
+SUNDAY MAILS.
+
+The following resolution on the subject of stopping the mails on
+Sundays, was passed at a recent session of the Salem Baptist
+Association in Kentucky:--
+"_Resolved_, That we as an Association cordially approve the Report
+and resolution, as presented to the Senate of the United States,
+by Col.
+
+R.M.
+
+Johnson, Chairman of the Committee upon the subject of the petition
+to stop the mail on the Sabbath: and sincerely advise all friends
+of civil and religious liberty, to refuse to subscribe any petition
+that has the least tendency to influence the legislative powers to
+act upon _religious matters_; for we consider an association of
+_civil_ and _ecclesiastical_ power or an union of _Church_ and
+_State_, as one of the greatest calamities which could befal our
+country, and that it should be resisted in every possible shape in
+which it may be presented
+
+."
+
+* * * * *
+A great change has taken place in some of our towns within a few years
+in reference to the Sunday mail. Twenty-five years ago it was rare to
+see a person belonging to one of the Evangelical sects at the post-office
+at the time of the opening of the mail on Sunday noon; whereas now
+it is not uncommon to see deacons and numerous other members of
+such churches hurry from their several places of worship to get
+their letters and papers with as much eagerness as "heretics."
+
+Sunday papers moreover are now bought by the same class. The same change
+too is observable in the use of horse-cars on Sunday.
+
+Few men are governed by the conscientious scruples once held about
+riding to and from church, especially if the day happens to be hot
+or stormy.
+
+This may or may not be an improvement; it depends upon the point
+of view from which we look at it.
+
+One of the most radical men we ever knew, one who thought "Sunday should
+be abolished" and a "new Bible made by men of modern ideas, and
+reasonable views introduced, and the old one discarded," said he
+was brought to these views by having been forced when young to
+attend church and engage in religious exercises, and told that he
+must conform to the established belief and never ask any questions.
+
+It will be said that this man was an exception to the general rule.
+Perhaps so, for one taking such an extreme view; but we must all
+know cases somewhat similar.
+
+A careful inquiry will show that if we look around among the clergy
+even, we shall find that the most radical preachers of the day were
+brought up in the Orthodox ranks.
+
+Who would wish to re-establish the gloomy Puritan Sabbath, with its
+barren meeting-house, without fires or music, and its tedious,
+uninteresting sermon, running on to "fifteenthly," gauged by an
+hour-glass turned over perhaps once or twice during the discourse?
+
+Speaking of the change of habits in New England, even, it is noticeable
+how much more prevalent colds and other slight indispositions are
+now to what they used to be on Sunday.
+
+The very thought of going to church makes some people cough or have
+a headache.
+
+Theatres or concerts never seem to affect these people in the same way.
+Even the weather, which keeps people in-doors on Sunday, never
+keeps them in on other days.
+
+Our own view of the subject is that while we should be glad to see
+more interest taken in public worship than there is at present, we
+think people should have the right of spending their Sundays in
+their own way,--always, of course, provided they do not interfere
+with the rights and feelings of others.
+
+It seems to us that the only way to have Sunday properly observed
+is for those who are influential to make some little personal
+sacrifices, if need be, to attend the Sunday services, and do all
+they can to promote the most cheerful views of religion and make
+the services interesting.
+
+Let those people who lament the decay of religious observances read the
+following quotation from the "Salem Gazette" of 1830.
+
+Those who can recollect how it was at that date must see that
+notwithstanding a perhaps much smaller attendance now upon public worship,
+there is every reason to believe that, at least as far as the native
+population is concerned, Sunday is really more quiet than it was
+then.
+
+After reading this article we shall perhaps be prepared to say that
+"tythingmen" may have been needed just after the Revolution.
+
+THE TIMES WE LIVE IN. The dreadful tragedy performed in this town last
+April, and the subsequent arrests, developments, confessions, trials,
+&c., by keeping the thoughts and conversation of the community
+continually directed to that enormity, have led to the general but
+very erroneous notion, that there must have been a great deterioration
+of the public morals.
+
+--If the words of the aged are to be received as true, the very reverse
+is the fact.
+
+The revolutionary war left the whole country as well depraved in morals
+as exhausted in resources.
+
+This was particularly the case with such towns as Salem, which had
+been largely exposed to the irresistibly corrupting influence of
+privateering.
+
+At that time, when the population of Salem was not half so great
+as it is at present, more riot, debauchery, and vice, obtruded
+themselves upon the sight in a week, than could now be discovered
+by diligent search in a month.
+
+The corruption of manners was so general, that almost none escaped
+from its contaminating influence.
+
+Mechanics and other laboring men would leave their business in the
+day, and their families in the evening, to spend their time, dancing
+and drinking, in the dens of pollution which then abounded in
+"Naugus-Hole" and "Button-Hole."
+
+Merchants, professional men, &c. passed a great part of their time
+in taverns, drinking and gambling.
+
+Quarrelling and fighting there were not uncommon, and well-worn packs of
+cards were always lying about the bar-room tables, (though seldom
+long unemployed,) ready for the use of visitors,--the common game
+on these occasions being All-Fours, and the common stake a bowl of
+punch or a mug of flip.
+
+Pastimes like the above named, were current in every class of
+society.
+
+When the regular hours of drinking approached, the workmen left
+their labour to play at cards, the loser "treating the shop's crew." In
+a large establishment a boy would be kept running with his jug
+nearly the whole time, the contents being freely shared amongst
+master, journeymen, boys, and numerous visitors.
+
+At this time, and long afterward, infamous houses were kept open day and
+night, in the quarters of the town named in the preceding paragraph.
+
+The fiddles were kept in constant motion, and if any thought of stopping
+them they did not dare to attempt it.
+
+The most flagrant disorders and outrages were continually occurring,
+so that a timid man would go far out of his way to avoid passing near
+those places.
+
+The churches on Sunday were not nearly so well attended as they now
+are.
+
+The proportion of persons who made the Sabbath a day of recreation,
+was much greater.
+
+The time was spent in riding into the country, walking about the
+fields and pastures, and visiting friends in town.
+
+But little order was preserved in the streets on that day. People in
+passing to meeting thro' Prison Lane, (as County-street was then called)
+and its environs, encountered frequent and large groups of men and boys,
+noisily engaged in gambling with props, pitching coppers, &c. occasionally
+enlivened by the uproar of a quarrel.
+
+The doctrines of Tom Paine and his French coadjutors, were much
+more in vogue then than now.
+
+Infidelity stalked over the land with a giant stride, to which the mincing
+pace of the fooleries of Fanny Wright can bear no comparison; and virtue
+and good order were almost put out of countenance. Intemperance,
+habitual or occasional, was so common, as to be hardly considered
+a matter of reproach; and the kindred vices abounded, which usually
+follow in its train.
+
+The state of society has been continually improving since. The bad habits
+of that time have been discarded one after another, by all who would
+maintain a reputable standing; and open immorality now places a man
+at once in the lowest rank of society.
+Intemperance has been diminished in a surprising degree.
+
+Debauchery has been compelled to retreat to lurking holes and
+corners, instead of obtruding its "horrid front" to the public gaze.
+
+Education has been improved, and universally diffused; and public
+worship is more generally attended.
+
+--Terrible crimes have indeed been committed amongst us, and may
+be again, but the habits and manners which lead to crime, are less
+prevalent at the present time than they have been for fifty years
+before.
+
+It seems to us to be clearly a mistake for those of ultra-liberal notions
+to suppose that all who cannot assent to their views of Sunday
+must of necessity be either Pharisees or hypocrites,--quite as great
+a mistake as that of the ultra-conservatives, who condemn as wicked
+all who do not believe in a puritanical observance of Sunday.
+
+Whatever we may think or say or do, people nowadays will not be
+forced to attend church.
+
+Among all denominations the services are more attractive than they
+once were, and every year there is less and less of the repulsive
+kinds of doctrine preached.
+
+But in spite of this, while many men regard attendance on divine
+service as both a pleasure and a privilege, there are others, and
+they not few, whom no influence or persuasion can induce to attend
+Sunday worship.
+
+Such persons must be left to spend the day as they please.
+
+A very large proportion of those who do not attend church services
+are people of culture and character, from whom church-goers have
+nothing to fear as regards a disturbance of their worship.
+
+Generally this class are interested in having Sunday kept as a day
+of quiet and rest, and their non-attendance at church is no evidence
+that they have any desire to secularize Sunday.
+
+An eminent writer has said: "We live in a transition period, when
+the old faiths which comforted nations, and not only so, but made
+nations, seem to have spent their force....
+
+There is faith in chemistry, in meat and wine, in wealth, in
+machinery, in the steam-engine, galvanic battery, turbine-wheels,
+sewing-machines, and in public opinion; but not in divine causes....
+
+A silent revolution has loosed the tension of the old religious
+sects, and in place of the gravity and permanence of those societies
+of opinion, they run into freak and extravagance....
+
+In creeds never was such levity: witness the heathenisms in
+Christianity,--the periodic revivals, the millennium mathematics,
+the peacock ritualism, the retrogression to popery, the maundering
+of Mormons, the squalor of mesmerism, the deliration of rappings,
+the rat-and-mouse revelation, thumps in table-drawers, and black
+art ...
+
+By the irresistible maturing of the general mind the Christian
+traditions have lost their hold."
+
+If these statements are true, we have a sufficient answer to the
+question so often asked: "Why do not people go to church as they
+once did?"
+
+They do not go because they have lost their faith in churches and
+worship,--at least such have as are appealed to from those holding
+liberal and reasonable views.
+
+There are no doubt men who consider the too often expensive ways
+in which churches are supported as altogether beyond their means.
+
+The demands of civilization upon individuals in these restless
+times, when there are so many organizations, secret, secular, and
+religious, are indeed too great for small incomes, especially as
+the cost of food is continually increasing, and as society in other
+ways makes so many secular demands upon them.
+
+Public worship is after all, in the view of many persons, not a
+necessity, but only a luxury which can easily be dispensed with.
+
+It might perhaps have been better for the whole community if churches
+had undertaken to do the work which is now in the hands of many
+charitable and secret societies; then those who take so much interest
+in these outside, often expensive, organizations would have had all
+their interest in the churches.
+
+But the latter were for years so divided on doctrines of belief
+that their whole attention has for the most part been directed to
+other matters than their legitimate work, which has thus been thrown
+into the hands of outside agencies.
+
+In these times it seems difficult to maintain religious societies except
+where the element of fear is dominant in the creed, where some remarkable
+preacher takes the attention, or where the ritual or fashion attracts.
+Do not the papers often speak of "fashionable" churches?
+
+One thing which prevents many people from attending public worship
+on Sunday is the increasing tendency towards ritualism,--or perhaps,
+we should say, making the services less instructive than formerly,
+and more devotional or emotional.
+
+This is seen not only in the Episcopal Church, but also among many
+other denominations.
+
+Even Congregational Orthodox--descendants of the Pilgrim
+Fathers--introduce prayer-books and responsive services, and make
+their church buildings more ecclesiastical in appearance, to look
+as much as possible like Episcopal churches.
+
+All these things to many minds are not edifying, to say the least,
+and consequently such persons absent themselves from service.
+
+Those too who are impressed by emotional religion join the
+Episcopalians, so that for the time there is an apparent increase
+in the attendance at the Episcopal churches, gained from churches
+of other denominations; and especially too as fashion decrees
+nowadays that "it is the proper thing to do" to go to the Episcopal
+Church, whether you believe in its doctrines or not.
+
+So that at length there are a great many people who think when
+church-going gets to be a matter of fashion, there is quite as much
+real religion to be found outside as inside the church; consequently
+they lose their interest.
+
+All these causes must be taken together; of course no one thing alone
+accounts for the change in regard to church attendance.
+
+We quote the following remarks from a recent English paper ("The
+Unitarian Herald"); they have a direct bearing on our subject, and
+are worthy of consideration by those who neglect public worship or
+favor a more secular Sunday.
+
+Among other things, the speaker (the Rev.
+
+John Page Hopps) says:
+
+"So far as we can see, the old orthodox believers were right when
+they called public worship 'a means of grace;' and if human
+experience is of any value, it is an undoubted fact that a great
+multitude which no man could number _have_ felt the grace-giving
+influence of it.
+
+It is as true as ever that man cannot 'live by bread alone,' but
+that he needs also the 'word that proceedeth from the mouth of God;'
+and if it is true, as we believe, that the word of God does come
+home with special force and pathos when worship is joined in by
+kindred souls, the argument for public worship, from this point of
+view, seems complete.
+
+And yet, half in jest and half in earnest, and sometimes altogether
+in earnest, we hear it said that a man can worship God in the fields
+quite as well as in the church.
+
+'Perhaps he can,' said a wise man once, 'but _does_ he?'
+
+I wonder whether we shall go on in this direction until we hear it said
+that a man can worship God playing at lawn-tennis as in attending
+public worship?
+
+Thus there may actually come into existence a cant of the absentee which
+shall be as really cant as the cant of the devotee; for the use
+of the word 'worship' in such instances is a glaring case of
+exaggeration tinged with self-deception, which is the very essence
+of cant.
+
+Besides, one of the surest notes of the worshipping spirit is an increase
+of sympathy and love,--sympathy that suggests fellowship, and love that
+suggests anything but selfish isolation.
+
+"The irregularity also of attendance upon public worship might be cited
+as an instance of neglect or levity which 'personal consecration'
+alone can cure.
+
+In days gone by, attendance upon public worship was a habit, and nothing
+that could be avoided was allowed to interfere with it.
+
+Twice on the Sunday, too, was the rule, and not, as now, the decided
+exception.
+
+But with many it is now becoming once every other Sunday, or scarcely
+that; with so little of 'personal consecration' in the matter that
+the need for an umbrella may decide the doubter not to go.
+
+"Do we not, again, listen too much merely for delight?
+
+and does not the question, 'How did you like the sermon,' or 'How did you
+like the service,' indicate that we join in the service and listen to
+a sermon in an entirely wrong spirit? The critical or self-regarding
+spirit has its uses, but it may be fatal to 'personal consecration'
+in public worship.
+
+How often does an entire service depend upon our own temper, our
+own mood, our own spirit?
+
+And how often is it true that a congregation has as much to do with
+the making of a minister as the minister has to do with the making
+of a congregation?
+
+"'If I neglect public worship, then,' a man should say to himself,
+'the community is injured, the brotherhood is weakened, the young
+are confused.
+
+It is a grave responsibility.'
+"But now we must not shrink from the question: How far or how long
+ought these considerations to hold the man who has lost delight in
+public worship or faith in that to which it bears witness?
+
+When should doubt make worship impossible, or unbelief make worship
+wrong for the honest soul?
+
+When should 'personal consecration' say to a man, not _stay_, but
+_depart_?
+
+It is a grave question, and every one must shape his answer for
+himself.
+
+All I would say is: Give worship the benefit of the doubt: ay!
+
+give fellow-worshippers the benefit of the doubt. Continue with them
+as long as you can; if not as a full believer, then as a devout inquirer,
+a gentle seeker, a sympathetic friend.
+
+Why not?
+That is possible with us; for the very bond of our union is sympathetic
+regard for one another's freedom. It is also specially possible with
+us because our teachings do not, at all events, outrage the reason
+and shock the moral sense.
+
+Even an agnostic might listen to us and hope that our Gospel is
+true.
+
+"Special dangers call for special safeguards, special consideration,
+special wariness.
+
+It is an age of splendid advance in science, of restless energy in
+business, of stupendous activity in politics, of daring questioning
+everywhere.
+
+All that makes against public worship; and yet all that makes public
+worship a greater necessity and demonstrates 'the pressing need of personal
+consecration' to it. God only knows what we should do without it and the
+blessed Sunday!
+
+"'Dear old commemorative day, For weary man designed To help him
+on life's troubled way, To give his spirit freer play, To soothe
+his harassed mind!
+
+"'A day of worship and of grace, One calm, sweet day in seven, To
+grant a little breathing space To strengthen man life's work to
+face, And lift his life to heaven.'"
+
+In conclusion, let us add to the above speech the following remarks,
+which we heartily approve,-- 
+"Mr.
+
+Preston (London) testified to the falling off of attendance at public
+worship, and he attributed this largely to the parents not taking
+their children with them in early years, as of old times.
+
+He deprecated the going to public worship to have the brains tickled
+in hearing a particular man, and maintained that this was in no
+sense 'public worship.'
+
+He emphasized strongly the fact that those who say they can worship in
+the fields do not, in fact, worship at all. He urged that in worship the
+musical and devotional services should become more prominent, and the
+sermon become frequently but subsidiary."
+
+Benjamin H. Ticknor. Thomas B. Ticknor. George F.
+
+Godfrey.
+
+[Illustration]
+A LIST OF BOOKS
+
+PUBLISHED BY
+
+TICKNOR AND COMPANY
+
+BOSTON.
+
+* * * * *
+_AMERICAN-ACTOR SERIES_ (THE). Edited by LAURENCE HUTTON. A series of
+12mo.
+
+volumes by the best writers, embracing the lives of the most famous
+and popular American Actors.
+
+Illustrated. Six volumes in three.
+
+Sold only in sets. Per set, $5.00.
+
+Vol. I. Edwin Forrest. By Lawrence Barrett. The Jeffersons.
+
+By William Winter.
+
+Vol. II.
+
+The Elder and the Younger Booth. By Mrs. Asia Booth Clarke.
+Charlotte Cushman.
+
+By Clara Erskine Clement.
+
+Vol. III. Mrs. Duff. By Joseph N. Ireland. Fechter. By Kate Field.
+
+Also a limited edition on large paper, especially adapted to the use of
+collectors and bibliophiles, for extending, extra illustrating, etc. 6
+vols.
+
+Per vol., $5.00.
+
+_AMERICAN ARCHITECT_.
+
+See last page.
+
+_ARCHITECTURE_.
+
+See MONOGRAPH.
+
+_ARNOLD'S_ (EDWIN) The Light of Asia. Beautiful illustrated edition.
+8vo.
+$6.00. In antique morocco, or tree-calf, $10.00.
+
+_ARNOLD'S_ (GEORGE) Poems. Edited, with a Biographical Sketch of the Poet,
+by WILLIAM WINTER. With Portrait. 16mo. $1.50. Half-calf, $3.00. Morocco
+antique or tree-calf, $4.00.
+
+_AUSTIN'S_ (JANE G.)
+
+Nantucket Scraps; Being Experiences of an Off-Islander,
+in Season and out of Season, among a Passing People. 16mo.
+$1.50.
+
+(_Hangs
+up--crosses and looks out window._) Well, good-bye, America. I don't
+know when I'll see your shores again. (_Shuts trunk and sits on it._) If
+Rusty gets here before that Exalted Cousin returns, I'll be all right.
+Hm--ouch!--I wonder what the game is? (_Knock at door._) Go away--we're
+all very ill. (JARVIS, _uncertain who it is, starts to hide. Door opens
+very cautiously. Enter_ RUSTY _carrying bundle of trays taken in first
+act_.)
+
+RUSTY. (_Looking over shoulder_) I knows where I'm goin', all right.
+
+JARVIS. Come on in, Rusty.
+
+RUSTY. (_Crosses to back of trunk_) How did you get on board?
+
+JARVIS. I came in that trunk.
+
+RUSTY. You came in that trunk?
+
+JARVIS. Did you see any signs of the police?
+
+RUSTY. No, sir.
+
+JARVIS. Are you sure?
+
+RUSTY. Yes, sir.
+
+JARVIS. Did you look?
+
+RUSTY. No, sir. (_Handle of door_ R. _rattles._ JARVIS _to open door._
+Princess _enters._)
+
+RUSTY. How de do, Mrs. Princess?
+
+PRINCESS. How do you do, Rusty? (_Exclamation_ C.R.) Oh, there you are!
+You're all right, aren't you?
+
+JARVIS. (_Rubbing sore places_) Yes, I'm all right.
+
+PRINCESS. But your hand--you must have that attended to at once.
+
+JARVIS. That's all right. I'll see the ship's surgeon.
+
+PRINCESS. Do, please.
+
+JARVIS. (R.) You can go now, Rusty. Oh, listen! What is the number of
+your stateroom?
+
+RUSTY. Number Seven twenty-nine.
+
+JARVIS. Seven twenty-nine. Now get this: Go there, lock yourself in, and
+don't talk to anyone. You're deaf and dumb--understand?--deaf and dumb.
+
+RUSTY. I got you first. (_Exit upper deck._)
+
+PRINCESS. There is something I must tell you. My cousin, the Duke
+D'Alva, is on board this boat.
+
+JARVIS. (_Whimsically_) He professes to love you devotedly.
+
+PRINCESS. You overheard?
+
+JARVIS. (_Pointing to trunk_) The trunk. It wasn't my idea, you know.
+(_With feeling--yet knowledge_) You are afraid of him? Why?
+
+PRINCESS. Well, he is very powerful--and I may be driven into his hands.
+
+JARVIS. You mean--you might have to marry him?
+
+PRINCESS. (_Looking nervously toward door_ C.) Yes, if you fail.
+
+JARVIS. (_Breath being taken away_) If I fail--Say, hold on a minute!
+Things are coming too fast for me. I--you--how do I----
+
+PRINCESS. (_Interrupting_) He may come back any minute--and I don't dare
+tell him what happened at the Manhattan Hotel--but he will want to know
+who you are and why you are with me.
+
+JARVIS. That's what I want to know. You forget I am completely in the
+dark.
+
+PRINCESS. (_Looking out of window_) The police can't be on board now.
+(_Down stage._)
+
+JARVIS. (_Going to window beside her, and then back again_) You can't
+tell until you see who goes ashore with the pilot. They may be working
+on Rusty as a clue, but it won't lead them to anything so long as they
+don't connect him with me. We'll take no chances until we get past the
+danger line. Now let's get down to business. What is the matter--and
+what am I to do?
+
+PRINCESS. (_Hesitating_) I hardly know how to begin--it seems absurd in
+this broad daylight to talk of ghosts--but the fact is, my castle is
+haunted.
+
+JARVIS. (_Laughing_) Spooks?
+
+[Illustration: "THE GHOST BREAKER" _See Page 34_]
+
+PRINCESS. (_Very seriously_) Call it anything you like, but the
+castle is haunted, just the same. My grandfather was one of the
+wealthiest nobles in Spain. When he died my father went to take
+possession of his estate in Segura. He found the town full of weird
+stories of uncanny happenings--the castle was deserted, everyone had
+fled and all told of something in armor that stalked the halls at night.
+
+JARVIS. O-o-o-o-o-o-o-h!
+
+PRINCESS. My father laughed at the silly natives and said he would go
+into the castle and show them how foolish their fears were. He went, and
+was never seen again.
+
+JARVIS. (_Naturally deeply interested_) What happened to him?
+
+PRINCESS. No one knows. He disappeared--vanished utterly, without
+leaving a single clue--and the treasure's gone.
+
+JARVIS. (_More interested at word Treasure_) Treasure--what treasure?
+
+PRINCESS. My grandfather is known to have converted all his wealth into
+Spanish gold. It amounted to about a million dollars in your money.
+
+JARVIS. How long ago was that?
+
+PRINCESS. Fifteen years ago. Since then two other men have
+disappeared--just as my father did--and now, the Duke tells me that my
+brother has entered the castle. You see it runs in the blood. Up to a
+week ago my brother had sent me a cable every day, then suddenly the
+messages ceased. All this week not a word. Now I know--my brother has
+entered the castle, and--well, that is the end.
+
+JARVIS. Why did you leave Spain?
+
+PRINCESS. A part of the legend was that a plan had been made showing
+just where the treasure was located--but this plan could never be found.
+Only by accident I learned that this plan had been hidden in the back of
+a locket and the locket, I discovered, had been sold and was in
+America. It was to find this locket that I left my brother and came
+here.
+
+JARVIS. Then my work now is to find your brother and solve the mystery?
+All right! We'll explain to the Duke that you are taking me to Spain for
+no other purpose than to solve the mystery. In America we've had
+trust-breakers and strike-breakers, and now why not Jarvis, the Ghost
+Breaker?
+
+PRINCESS. Why, yes, why not? Carlos would believe almost anything of you
+Americans.
+
+JARVIS. (_Whimsically_) And you will tell him you have made me
+a--er--what is it? A vassal?
+
+PRINCESS. (_Almost shyly_) I think not--not just yet.
+
+JARVIS. By the way, your--er--just how should a perfectly good vassal
+address his Princess?
+
+PRINCESS. (_Hesitatingly_) Highness--is correct.
+
+JARVIS. Highness--tell me, your Highness, a vassal doesn't amount to
+much, does he? I thought he was a piker.
+
+PRINCESS. (_Mystified_) A piker--a man who carries a pike?
+
+JARVIS. (_Trying to explain_) No, no--a piker is a tin horn.
+
+PRINCESS. Tin horn?
+
+JARVIS. Well, a sort of pawn in this game of chess--along with your
+kings and queens and castles and things. (_Seriously, yet playfully_)
+Could a good, hard-working, reliable vassal work his way up to be a Duke
+or a Lord, or something like that?
+
+PRINCESS. (_Almost playing with him_) You're an ambitious vassal, aren't
+you? I'm afraid you wouldn't be content with being anything less than a
+king.
+
+JARVIS. (_Meaningly_) A king--a prince--or a bandit.
+
+PRINCESS. A bandit? And why a bandit?
+
+JARVIS. A king might command--a prince request--a bandit seize.
+
+PRINCESS. Seize what?
+
+JARVIS. (_Daringly_) That which a mere vassal can only admire. (_Knock
+at door. Both brought back to earth._)
+
+PRINCESS. There he is now.
+
+JARVIS. Hooray!
+
+PRINCESS. What shall I call you?
+
+JARVIS. (_Whispering_) Oh, any old thing--Warren, Mr. Warren. (_Pause._
+PRINCESS _crosses to door, hesitates a moment, then opens it._)
+
+PRINCESS. Come in.
+
+(_Enter_ DUKE. _Stops at sight of_ JARVIS.)
+
+DUKE. Oh, I'm intruding. (_Spoken as though he expected_ JARVIS _to
+go._)
+
+PRINCESS. Allow me to present Mr. Warren, whom I am bringing from
+America to solve the mystery of the castle. My cousin, Duke D'Alva.
+(_She crosses_ L.)
+
+JARVIS. (_Cross to_ DUKE--_easily_) Glad to know You. (PRINCESS _back_
+R.)
+
+DUKE. (_Patronizingly_) I am honored. Interesting task you have
+undertaken. May I ask if that is your regular profession?
+
+JARVIS. That is my business, solving mysteries, looking up the family
+skeleton, hunting out spooks. What we call in America a Ghost Breaker!
+
+DUKE. Ghost Breaker? A strange calling. I indeed never heard of anything
+more extraordinary.
+
+JARVIS. It is not surprising, your Excellency. We are living in an age
+of specialists--and like every other profession, this calls for its own
+peculiar training.
+
+PRINCESS. (_Interrupting_) I am so glad you are here, cousin--you will
+be able to tell Mr. Warren, so much better than I, all the
+circumstances.
+
+DUKE. I'll be delighted to throw any light I can on the mystery, but
+first tell me--(_To_ PRINCESS)--why did you leave your brother to come
+to America?
+
+PRINCESS. (_Takes locket from reticule_) This little locket is what
+brought me to America.
+
+DUKE. (_Crosses to her, holding out hand to take it_) May I see it?
+
+PRINCESS. (_Takes out memo._) No, Carlos, you may see the locket--no one
+must see the memorandum.
+
+DUKE. Memorandum?
+
+PRINCESS. Yes.
+
+JARVIS. (_Seated on trunk--to_ DUKE) A wise precaution.
+
+DUKE. (_Picking up locket_) Curious old piece of work--and you came all
+the way to America for this?
+
+PRINCESS. Yes.
+
+DUKE. You were very fortunate to find it so soon. (_Cross_ R.)
+
+PRINCESS. I knew where to go to find it--and yet I was nearly too late.
+Think of it, after that dear old locket had lain in an antique shop for
+ten years, suddenly in one day there came two inquiries for it. (JARVIS
+_sits looking at_ CARLOS.) Mine was the second. A distinguished-looking
+gentleman had been there in the morning, described it roughly to the old
+man and got him to hunt for it. He had just found it when I came in. I
+doubled the distinguished-looking gentleman's offer and got it.
+(_Another look at_ DUKE.) Who do you suppose wanted that locket, Carlos?
+
+DUKE. (R._, being cornered and with effort to throw it off lightly_) I
+see that it has already occurred to you that I am the
+distinguished-looking gentleman whose offer you doubled.
+
+PRINCESS. (_With curiosity_) But how did you learn about the memorandum,
+Carlos? (JARVIS _sits on trunk._)
+
+DUKE. I didn't, Cousin. I had not the slightest suspicion that the
+locket contained the supposed secret. I was merely following my pet
+hobby, trying to recover some of those precious heirlooms which have
+been scattered to the four winds. (_Quickly_) You would be surprised,
+Mr. Warren, to see the collection I have already rescued and which some
+day may be yours, Maria.
+
+JARVIS. (_Breaking in impatiently_) Well, so much for the treasure. Now
+let's hear about the ghost. What's your opinion of this, your
+Excellency? Do you put any stock in ghosts?
+
+DUKE. Yes, Mr. Warren, I am convinced there are such things.
+
+JARVIS. You believe that this castle is haunted?
+
+DUKE. I know it.
+
+JARVIS. You think this ghost is dangerous to encounter--that it is the
+cause of the deaths and disappearances in the castle?
+
+DUKE. I do.
+
+JARVIS. Well, what do you think about that? Ghosts---- That's a pretty
+broad term, your Excellency. Can you tell me just what you believe this
+ghost is?
+
+DUKE. There are certain occult forces in this world, Mr. Warren, that
+science cannot fathom, and some of them are manifested in that castle
+now. A priest might call it a demon or a fiend; a psychologist, perhaps
+a returning spirit. I can't say--but I know there is something real, a
+malignant force which lurks in that castle, and while it haunts those
+halls, it is madness for any man to expose himself there.
+
+JARVIS. Have you ever seen this ghost?
+
+PRINCESS. My brother has.
+
+JARVIS. What?
+
+PRINCESS. Twice.
+
+JARVIS. Good night!
+
+PRINCESS. So has my father, and the others when they disappeared. No one
+has seen it three times and lived.
+
+JARVIS. (_Interrupting and looking at_ DUKE) In just what way do you
+connect this spook with the treasure?
+
+DUKE. Spook? I see no connection. What do you mean?
+
+JARVIS. Oh, there is always money where the ghost walks.
+
+DUKE. I don't know what your experience has been, Mr. Warren. You are
+evidently a brave man--but you have yet to encounter a real ghost.
+
+JARVIS. Brave! It takes no bravery to fight a coward. That is what this
+ghost is--it's a coward like every other ghost. I tell you that men are
+not half so afraid of spirits as spirits are afraid of men. Face the
+supernatural--and it is beaten to a frazzle before the fight begins.
+Spooks--horse-thieves--and peevish wild-cats can all be tamed by the
+same little charm.
+
+PRINCESS. (_Mystified_) Charm?
+
+DUKE. (_Leaning forward_) What is it?
+
+JARVIS. I'd hate to tell you. It's part of my system. (_Taking out
+pistol._)
+
+DUKE. (_Scornfully_) I had been hoping, Mr. Warren, that you had some
+subtle method of handling this problem, but you evidently propose to
+meet the forces of the supernatural with firearms. I--I may tell you
+that this specter has been shot at before without the slightest effect.
+
+JARVIS. (_Smiling_) Quite likely, your Excellency. I have seen rifle
+fire that had not the slightest effect on a wild-cat for the very
+reason that the firing was wilder than the cat.
+
+DUKE. (_As though pitying him_) I am sorry for you Mr. Warren. You will
+find the ghost more real than the treasure.
+
+PRINCESS. (_Rising_) But the treasure is real, Carlos. Would I have
+crossed the ocean for this locket unless I knew? Why, with this paper
+anybody--a total stranger--could walk right up to the very stone that
+hides it----
+
+JARVIS. (_Meaningly_) Pretty dangerous paper to have around. Look out
+somebody does not get there ahead of you.
+
+DUKE. (_Meaningly to_ JARVIS) Yes, it is a dangerous paper--if it leads
+anyone into the castle.
+
+JARVIS. (_Laughingly_) Well, your Excellency, I'd go a long way for the
+fun of unravelling a good mystery with a little spice of danger thrown
+in.
+
+DUKE. You needn't have gone so far, Mr. Warren. You are leaving a very
+unusual case behind you in New York. The papers are full of it. Have you
+read them? (_Picking up newspaper._) It will interest you too, Cousin.
+You were at the Manhattan last night, I believe.
+
+PRINCESS. Yes! (JARVIS _and_ PRINCESS _look at each other and_ DUKE
+_reads from newspaper._)
+
+JARVIS. Why, no---- (_Glancing at trunk._) I was so wrapped up in my
+baggage I really didn't have a chance. (_Looks at_ PRINCESS.)
+
+DUKE. "Pistol duel in Manhattan Hotel. Colonel James Marcum, a prominent
+and wealthy Kentuckian, nearly met his death at five o'clock this
+morning in a pistol duel in his room at the Manhattan Hotel." (_Glancing
+down a little further_) "At a late hour the police had no clue to the
+identity of his assailant, except the remarkable fact that the person is
+still hiding somewhere in the hotel."
+
+JARVIS. (_Interrupting_) He's probably a long way from the hotel by
+this time.
+
+DUKE. (_Looking at paper_) They say that he couldn't have gotten out
+without being seen.
+
+JARVIS. That's the theory of the police or reporters.
+
+DUKE. What do you think?
+
+JARVIS. He might have escaped in a thousand ways--but that work is
+hardly in my line. That belongs to the "Gum-shoes."
+
+DUKE. Gum-shoes?
+
+JARVIS. Yes, ordinary detectives. (_Enter_ NITA.)
+
+NITA. Excuse, Madame----
+
+PRINCESS. No, Nita! Not just yet. I'll call you when I want you.
+
+JARVIS. We are keeping you from getting settled, I am afraid. (_Cross
+toward door._) So, if you will excuse me, I'll see you at luncheon,
+perhaps. Hooray! I am glad to have made your acquaintance, your
+Excellency.
+
+DUKE. Thank you, Mr. Warren, I find you most interesting. I shall be
+glad to hear more of your remarkable profession. (WARREN _crosses to
+door and opens it, disclosing two detectives and steward._)
+
+DETECTIVE. Are you Miss M. T. Ar--ra--gan?
+
+PRINCESS. (L.C.) Yes!
+
+DETECTIVE. You was at the Manhattan Hotel last night?
+
+PRINCESS. Yes.
+
+DETECTIVE. The lock on your door was broken?
+
+PRINCESS. Yes.
+
+DETECTIVE. (_Removes hat_) I am from headquarters, Madame, and I have
+orders to clear up one or two little matters with that affair at the
+hotel last night.
+
+DUKE. Orders, orders! To break in here--what headquarters?
+
+DETECTIVE. Police headquarters.
+
+DUKE. Do you know whom you are addressing?
+
+DETECTIVE. Say--that will be about all from you!
+
+PRINCESS. Yes, Carlos. Please let me attend to this matter. Won't you
+come in, gentlemen?
+
+DETECTIVE. Thanks. (_Realizing they are already in the room_) That's
+all, Steward. (_Exit_ STEWARD; _enter_ DETECTIVES, _closing door._
+JARVIS _slips wounded hand into coat pocket._)
+
+JARVIS. Yes, we were just discussing that mystery, Inspector.
+
+DUKE. You are, I take it, one of the--er--gum-shoes? (JARVIS _laughs and
+goes up stage._)
+
+DETECTIVE. (_Glaring angrily for a moment, walks over toward him and
+shouts in his face_) Gum-shoe! Say, are you trying to be funny?
+
+DUKE. Well, sir, you are talking rather loud and with undue asperity. I
+presume I have offended you.
+
+DETECTIVE. _You presume!_ That's a hot one! Say, who are you, anyhow?
+
+DUKE. I am Carlos Hernando Duke D'Alva. I have other titles, but they
+would hardly interest you.
+
+DETECTIVE. Dook de Alver--and then some, eh? Ain't that nice? Well, if
+you was the Archbishop of Canterbury I'd run yer in and take yer 'shore
+if yer give me any more lip! (_To_ PRINCESS, _sucks his teeth
+contemptuously and turns his back on_ DUKE. _Produces notebook from
+pocket and addresses_ PRINCESS.) As you was saying when we was
+interrupted, you was in the hotel when the shooting occurred. Did you
+hear it?
+
+PRINCESS. Yes, I heard two shots.
+
+DETECTIVE. Did you hear anything else?
+
+PRINCESS. Yes, I heard some people running near my door.
+
+DETECTIVE. Any one come in?
+
+PRINCESS. Yes, my maid was frightened and came in.
+
+DETECTIVE. Aha! How did the lock on your door get broken?
+
+PRINCESS. It was broken when I came. I explained all that at the hotel.
+
+DETECTIVE. Um--all right. What about the colored man who came to your
+room and carried away a large bundle.
+
+PRINCESS. That was my servant. I sent for him. They were purchases I
+made too late to put in my trunk. They are here, unopened; you may
+examine them if you wish.
+
+DETECTIVE. That's all right, Miss, but what do you know about this?
+(_Produces knife from pocket--walks slowly to her, examining it._) The
+initial on it is "W."
+
+PRINCESS. Did I leave that? Thank you. I'm so glad you found it.
+
+DETECTIVE. Then it's yours? Who is W? Your name is Aragon, I believe.
+
+PRINCESS. I am Maria Theresa of Aragon.
+
+DETECTIVE. But who is W?
+
+PRINCESS. Why, er, it isn't W--you had it upside down. It is M--Maria
+Theresa.
+
+DETECTIVE. That's all right, ma'am. Now there's just one thing more.
+
+DUKE. (_Cross and touch_ DETECTIVE _on arm_) You will pardon me, but I
+wish to inform you that this man's name is Warren----
+
+DETECTIVE. (_Crossing toward him_) Say! Who's conducting this inquiry,
+you er me?
+
+DUKE. But, my dear man----
+
+DETECTIVE. I am not your dear man. Cut that! You get out of here.
+(_Forces him toward door._)
+
+PRINCESS. Yes, do go, Carlos. Leave us to attend to this matter. I am
+sure we can finish this better without you.
+
+DUKE. I merely wished to point out----
+
+DETECTIVE. (_Interrupting and hustling_ DUKE _out_) You hear what the
+lady says. (SECOND DETECTIVE _cross to_ DUKE.) Cut it, or out yer goes,
+and if ye butt in again I'll fan yer. Do you hear? (SECOND DETECTIVE
+_slaps_ DUKE _on arm, motions him to door_ R.)
+
+DUKE. (_At door_) Infernal outrage! I shall report this to the King!
+
+DETECTIVE. To the King, huh? Did you get that, Tom? Well, what do you
+know about that? (SECOND DETECTIVE _closes door._)
+
+JARVIS. Don't be disturbed, gentlemen; he's quite harmless. You heard
+him talking about the King--he suffers from Regalmania. He has grandiose
+ideas.
+
+DETECTIVE. (_Aside_) What does that mean, Tom?
+
+SECOND DETECTIVE. (_With gesture to head_) Wheels.
+
+DETECTIVE. You mean he is crazy?
+
+JARVIS. Yes, he is at times; but he is not at all dangerous.
+
+DETECTIVE. You lookin' out for him?
+
+JARVIS. Yes, that's my job.
+
+DETECTIVE. Sorry I had to be rough with him like that, Miss, but you saw
+he was gumming the game. I'm going back to New York in the pilot boat
+shortly and there wasn't no time to waste. Now just one question more.
+How do you account for the blood on that knob of your door?
+
+PRINCESS. Blood, on my door---- Why, I----
+
+JARVIS. I think I can explain that, Inspector.
+
+DETECTIVE. Go ahead, then.
+
+JARVIS. (_Cross_ C.) Allow me.
+
+PRINCESS. Certainly.
+
+JARVIS. The colored man, the one you were talking about, the one who
+brought the bundle, that bundle there, carelessly broke the blade of
+that knife and cut his hand. That was it, wasn't it? You see the large
+blade is snapped off near the handle.
+
+DETECTIVE. Where is this colored man now?
+
+PRINCESS. He is in stateroom 729.
+
+DETECTIVE. All right, I will just take a look at him. 729? Sorry to
+bother you. They was the Chief's orders. Good-bye. (_Exit._)
+
+PRINCESS. But his hand isn't cut.
+
+JARVIS. (_Cross to 'phone_) No, not yet--but it soon will be. Hello,
+give me 729. (_Pause._) Hello, hello, hello, Rusty? Damn it all, answer
+me, do you hear me? (_Pause._) Yes, I know I did, but I am telling you
+to talk now. Do just what I tell you and do it quick. Take your knife
+and cut your left hand. What? No, no, you a--damned fool, don't cut it
+off, but just enough to make it bleed a little and then tie it up with a
+handkerchief. Never mind. Do it quick, and remember, don't answer
+questions. You're deaf and dumb again. (_Hangs up receiver and turns to_
+PRINCESS.) By gee, you're game! You certainly buffaloed that Detective.
+Then your cousin Carlos broke in at the psychological moment to scatter
+their gum-shoe wits. (_Laugh._)
+
+PRINCESS. They believe he's crazy.
+
+JARVIS. That's just it. Now they won't listen to him. Yes, he'll be
+crazy, all right. Do you think you can handle him?
+
+PRINCESS. Yes, you have your hand dressed.
+
+JARVIS. Then I'll hunt up the ship's surgeon--and be back directly. Gee,
+you're game! (_Cross to door_ R. DUKE _enters at door_ R. JARVIS
+_turns._) Crazy! That's funny! (JARVIS _exits, laughing._)
+
+DUKE. (_Showing suppressed emotion, stands_ R.C. _glaring at_ PRINCESS)
+Well!
+
+PRINCESS. Well!
+
+DUKE. Well, I'm waiting!
+
+PRINCESS. For what, Carlos?
+
+DUKE. For some explanation. Who is this man Warren?
+
+PRINCESS. He is a professional ghost breaker, as he explained.
+
+DUKE. How did you find him?
+
+PRINCESS. I met him quite by accident.
+
+DUKE. What do you know about him?
+
+PRINCESS. Why, he is as well known in America as you are in Spain.
+
+DUKE. Indeed! (_Cross to center._) Well, he will be better known when I
+turn him over to the police.
+
+PRINCESS. Why, Carlos, what do you mean?
+
+DUKE. I think you know that which I mean, Maria. (DETECTIVE _sticks head
+in door._)
+
+DETECTIVE. It's all right, Madame, but you might have told us that your
+nigger was a dummy.
+
+DUKE. (_To_ PRINCESS) One moment, gentlemen, one moment. (DETECTIVES
+_enter._) If this person is famous, these gentlemen should know him. Do
+you know Warren, the Ghost Breaker?
+
+DETECTIVE. The what?
+
+DUKE. The Ghost Breaker!
+
+DETECTIVE. (_Both grinning_) He's off again, Tom. (_Enter_ JARVIS.)
+
+DUKE. Now we'll see. Is this man Warren, the Ghost Breaker? (_Warren
+winks at_ DETECTIVES.)
+
+DETECTIVE. (_To_ SECOND DETECTIVE) He's hip, all right.
+
+JARVIS. Agree with anything he says.
+
+DUKE. (_Furiously_) Answer my question--is this man Warren, the Ghost
+Breaker?
+
+DETECTIVE. Now, that's all right, Dook. Sure he's a Ghost Breaker, ain't
+he, Tom?
+
+SECOND DETECTIVE. Surest thing you know.
+
+DUKE. Sacristi, am I, Carlos Hernando D'Alva, to be mocked at by two
+grinning, bull-necked scullions? (_Ship's officer appears in door._)
+
+SHIP'S OFFICER. Hurry up, there, if you're going ashore with the pilot!
+
+DETECTIVES. (_As they go through door_) You're all right, Dook, old boy!
+Ghost Breaker! Ha, ha! (_They exit._)
+
+DUKE. (_Crossing toward door_) I'll see the Captain.
+
+JARVIS. (_Back against door_) I think not just yet!
+
+                                 CURTAIN
+
+
+                                 ACT III
+
+
+SCENE: _The main room of an Old Spanish tavern, Segura, Spain. Singing
+and mandolins heard from Wine Room._
+
+AT RISE, MAXIMO, _an old discharged Spanish veteran, and_ GASPAR, _a
+villager, discovered playing cards at table down_ C. When he heard
+that the contractors were about to sign, he insisted on getting out of
+his sick-bed and going to the meeting, to make sure everything was
+being properly arranged.
+
+The success of the strikers will cause a slight increase in the price
+of ready-made clothes, but few are likely to begrudge this when they
+realize what an increase of comfort it means to the poor workers
+
+.
+
+* * * * *
+
+Austria and Hungary are not getting along as well as they might.
+
+There are two reasons for this unfriendly feeling.
+
+One is that Austria has asked Hungary to pay a larger proportion
+of the common expenses of the two countries.
+
+It was arranged that Hungary should pay thirty per cent. of these
+expenses, and Austria the other seventy per cent., because Austria
+was much larger and wealthier than the sister land.
+
+Since these arrangements were made Hungary has become exceedingly
+prosperous, and Austria now asks her to pay thirty-seven per cent.
+of the expenses instead of the former thirty per cent.
+
+Hungary will not listen to any arguments on the subject, and threatens
+to separate herself from Austria.
+
+These two countries are governed by one sovereign, and, like Sweden
+and Norway, or the various States of our own country, have each their
+own local government, but are united on all matters of foreign affairs,
+national defences, tariff, etc.
+
+[Illustration]
+
+The Hungarians and Austrians are, however, people of very different
+races, and, in spite of the years they have been joined under one
+federal government, they have never grown to like each other.
+
+The Hungarians are Magyars, and were originally of Asiatic origin. They
+are a fierce, fiery race.
+
+The Austrians come of the same stock as the Germans, and are of a much
+milder temperament.
+
+Hungary is a conquered country.
+
+In the fourteenth and fifteenth centuries it was a very great kingdom,
+but in the sixteenth century its power declined, and, the king having
+died, Turkey and Austria fought for the possession of the crown,
+Austria eventually gaining the day.
+
+Ferdinand I., a prince of the Austrian House of Hapsburg, was declared
+King of Hungary, and ever since then the Emperor of Austria has been
+crowned King of Hungary.
+
+The Hungarians have never felt satisfied with the Austrian rule, and
+have frequently revolted. The last rising was in 1848, under Louis
+Kossuth. This rebellion was put down with the help of the Russians.
+
+Last June a great patriotic celebration took place in Hungary, and
+this possibly roused the national feeling so strongly in the hearts
+of the Hungarians that it has made them a little more restless than
+usual.
+
+This celebration was called the Banderium, and was to celebrate the
+thousandth year of Hungary's existence as a kingdom.
+
+The nobles of Hungary met together in Buda-Pesth, the capital city
+of the country, and went in procession to the Houses of Parliament,
+and swore allegiance to the battered golden crown which Pope Sylvester
+II.
+had given to the first King of Hungary, one thousand years before.
+
+It was said to have been a most wonderful and stirring sight to see these
+nobles "dressed in the clothes their ancestors had worn, carrying
+the banners under which their grandfathers had fought, weeping with
+emotion around a battered golden crown," a relic of the days when
+their fatherland was great and powerful.
+
+The description given by Mr.
+
+Richard Harding Davis in _Scribner's Magazine_ for March, and from
+which we quote the above statement, gives a living picture of this
+grand festival.
+
+There can be little doubt that such an occasion must have roused the
+patriotism of these people to fever heat.
+
+Whether this be true or not, it is certain that the Hungarians have
+been harder to manage, and that their dislike of the Austrians has
+been steadily gaining strength.
+
+We spoke of a second cause of disagreement. It arises from a measure
+that was intended to conciliate the Hungarians.
+
+This measure was an imperial edict, ordering that every official,
+in the districts where Hungarian is spoken, must be able to speak
+both the German and Hungarian language within five years.
+
+This has given great offence to the German-speaking part of the
+population; they cannot see why they should be forced to learn
+Hungarian, and the Hungarians insist that no officials can properly
+govern a people unless they can speak their language.
+
+These two questions have set Hungary and Austria at variance with each
+other, and it is feared that Hungary may not be satisfied until
+she has severed herself from Austria, and once more become an
+independent kingdo
+
+m
+_to window_.) You
+little cat, I'll trim those claws! (VILLAGERS _laugh_. MAXIMO _nudges_
+GASPAR.)
+
+GASPAR. Sh! sh! sh! Look out!
+
+ROBLEDO. (_To them_) Well, what are you laughing at?
+
+MAXIMO. Why, why---- (_Stammering._)
+
+GASPAR. A jest in the wine room, Senor.
+
+ROBLEDO. Huh! Lucky for you! Get out of my way! (_Pushes them aside and
+swaggers through door_ R.)
+
+DOLORES. Gaspar! Maximo! Come here quickly!
+
+MAXIMO. (_Crossing to_ DOLORES) What is it?
+
+GASPAR. What is the matter? (_Crossing to_ DOLORES.)
+
+DOLORES. A light! A light in the castle!
+
+GASPAR. I thought I saw it a while ago.
+
+MAXIMO. I don't see it.
+
+DOLORES. But I tell you I did see it. (_She runs_ R.C., _calling_)
+Father--Father--come quickly.
+
+PEDRO. (_Entering_ R.) What is it? What are you looking at? (_Cross_ C.)
+
+DOLORES. (L.C., _pointing out window_) A light--a light in the castle.
+I saw it!
+
+PEDRO. (_Going to window_) Nombre de Dios. (MAXIMO _and_ GASPAR _back
+to_ L.C.)
+
+DOLORES. (C. _to_ GASPAR _and_ MAXIMO) Well, why don't you do something?
+Are you going to stand there like scared sheep, and let a man, your
+Prince, signal to you in vain?
+
+ROBLEDO. Who's the little devil tearing to pieces now? (C. _cross to_
+DOLORES.)
+
+DOLORES. You, Don Robledo, sword-fighter, toreador, fire-eater, hero of
+a hundred duels--you--Don Robledo--coward! (_He chucks_ DOLORES _under
+the chin. She throws his hand off._) I asked you to go into the castle
+and rescue your Prince. I ask you now to answer the signal that I just
+saw in the tower window. Perhaps your Prince has just crawled to that
+tower window where he can see our lights. Perhaps he has burned
+something, a scrap of paper, in the hope that some of you gentlemen
+would notice it and come to his assistance, but he doesn't know what
+cowards you are or he wouldn't have wasted his matches. Don
+Robledo--coward!
+
+ROBLEDO. Coward, never! A fair fight in the open and I'll meet the best
+man that walks the earth. (_Turns to_ VILLAGERS.) Any two or three! (_To
+table_ L.)
+
+DOLORES. I don't ask you to kill one or two or three of these poor
+whimpering sheep! I ask you to dare something. (DUKE _enters_ C.) I ask
+you and these gentlemen--(_Point to_ VILLAGERS)--to go to the aid of
+your Prince--and there isn't a man among you who dares! God, how I could
+love such a man!
+
+DUKE. (_Down_ C., _sarcastically to_ DOLORES) A pretty speech, Senorita!
+
+ROBLEDO. (_Seeing_ DUKE, _removes hat and bows_) Your Excellency!
+
+GASPAR. The Duke D'Alva! (VILLAGERS _remove hats and bow to_ DUKE.)
+
+PEDRO. His Excellency!
+
+VILLAGERS. The Duke, His Excellency, etc.
+
+DUKE. Charming sentiments you express for your fellow townsmen, whose
+healthy common-sense prevents them from rushing to a fool's death.
+Still, all fools are not dead yet. One of them will be here tonight. And
+you, Senorita, will doubtless be pleased to look upon him, as he has
+come all the way from America for the privilege of entering the castle
+and playing your hero.
+
+DOLORES. (_To_ ROBLEDO) And did her Highness have to go all the way to
+America to find him?
+
+DUKE. Yes, he's from America, where all the fools come from. (_Everybody
+laughs but_ DOLORES. _To_ ROBLEDO) A word with you alone, Senor.
+
+(ROBLEDO _looks at_ GASPAR _and_ MAXIMO. PEDRO, _scared, motions_
+VILLAGERS _off to_ R. PEDRO, MAXIMO _and_ VILLAGERS _exit door_ R.)
+
+DOLORES. Can I get your Excellency anything?
+
+DUKE. Don't mind me. I'll look out for myself. Her Highness will be here
+very soon and will doubtless remain here for the night. I drove ahead to
+prepare you.
+
+DOLORES. Yes, your Excellency! (_Bowing--exit door_ R.)
+
+DUKE. (_Half sits on table_ L., _watches_ DOLORES _off_. _To_ ROBLEDO)
+You've got work before you--Robledo.
+
+ROBLEDO. (_Center_) I'm ready, Excellency.
+
+DUKE. (_Rising, across to_ ROBLEDO) Yes, but this American may be
+dangerous.
+
+ROBLEDO. In what way?
+
+DUKE. Unless he is stopped he will go into that castle tonight--and I
+look upon you to stop him. He is coming here to solve the mystery and
+to find the Prince. I shall endeavor to stop him, but if I fail,
+Robledo, it rests with you.
+
+ROBLEDO. I can assure your Excellency I will convince the American that
+his presence in the castle tonight is quite unnecessary. Have you any
+instructions?
+
+DUKE. Any way you please, Robledo--means are of no consequence in this
+world. What I want is results. Only don't underestimate your man. He
+will shoot, and I think he will shoot quick.
+
+ROBLEDO. Good! (_Enter_ PEDRO _door_ R. _with tray and bottles and two
+glasses. Cross and put them on table up_ C.)
+
+DUKE. (_Taking coin from pocket_) Here, take this and have them drink to
+my health and that of her Highness! (ROBLEDO _bows and exits_ R.)
+
+PEDRO. Is there anything else your Excellency desires?
+
+DUKE. Yes, hot water, soap and towels. (_Looks at hands._)
+
+PEDRO. This way, your Excellency. (_Exit_ DUKE _and_ PEDRO _upstairs and
+off_ L.)
+
+ROBLEDO. (_Heard off stage_ R.) To his Gracious Excellency, the Duke
+D'Alva!
+
+VILLAGERS. (_Off stage_) The Duke! The Duke! The Duke!
+
+(_Enter_ DOLORES R., _crossing to window_ L.)
+
+ROBLEDO. Louder, you beggars, louder, or I'll give you something to yell
+for!
+
+VILLAGERS. (_Much louder_) The Duke! The Duke! Long live the Duke! The
+Duke! etc.
+
+(_Lights seen of automobile approaching._)
+
+DOLORES. Her Highness! (_Calls_) Father! Father!
+
+PEDRO. (_Entering_) What is it, Dolores?
+
+DOLORES. Quick! Her Highness is here!
+
+PEDRO. Her Highness! (_He bustles downstairs._) Her Highness! (_Calls
+off_ R.) Her Highness!
+
+(VILLAGERS _enter door_ R. _Enter_ PRINCESS, NITA _and_ JOSE _in motor
+clothes_. PRINCESS _comes_ C. JOSE _door_ L. NITA _left center up
+stage_. DOLORES L.C. PEDRO _right center_, C. VILLAGERS _in door_ R.,
+_bowing low_.)
+
+PEDRO. Your Highness does my humble inn great honor---- (VILLAGERS
+_bow_.)
+
+PRINCESS. Thank you. (_She nods to_ VILLAGERS, _extends her hand to_
+DOLORES, _who carries it to her lips, curtseying_.)
+
+DOLORES. Your gracious Highness, we are ill prepared for this great
+favor. Your exalted cousin gave but short warning of your coming.
+
+PRINCESS. My child, any place to remove the dust of travel will do for
+the present. Jose, I shall want the car later.
+
+NITA. (L.C.) Your Highness is not thinking of going on to the castle
+tonight?
+
+PRINCESS. I must have news.
+
+With Critical Essays and Notes. 1 vol. 12mo. $2.00.
+
+_WINCKELMANN'S_ (JOHN) The History of Ancient Art. Translated by Dr.
+
+G.H.
+
+LODGE. With 78 copperplate Engravings. 2 vols. 8vo. $9.00. Half-calf,
+$18.00.
+
+Morocco antique or tree-calf, $25.00.
+
+_WINTER'S_ (WILLIAM) English Rambles, and other Fugitive Pieces in
+Prose and Verse. 1 vol. 12mo. $1.50.
+
+---- Poems.
+
+New revised edition. 1 vol. 16mo.
+
+Cloth, $1.50. Half-calf, $3.00. Morocco antique or tree-calf,
+$4.00.
+
+---- The Trip to England.
+
+With Illustrations by JOSEPH JEFFERSON. 16mo.
+$2.00.
+
+Half-calf, $4.00. Morocco antique or tree-calf, $5.00.
+
+_WOODS'S_ (REV. LEONARD) History of the Andover Theological Seminary.
+1 vol. 8vo. $3.50.
+
+* * * * *
+=MR. HOWELLS'S LATEST NOVELS.=
+
+=Indian Summer. The Rise of Silas Lapham. A Woman's Reason. A Modern
+Instance.
+
+Dr. Breen's Practice. A Fearful Responsibility.= Each in 1 vol.
+12mo. $1.50.
+
+The 6 volumes in a neat box, $9.00.
+
+"There has been no more rigidly artistic writing done in America
+since Hawthorne's time."
+
+--_The Critic (N.Y.)_.
+
+=MR. HOWELLS'S COMEDIES.= Each in 1 vol. 16mo. $1.25.
+
+=Out of the Question.
+
+A Counterfeit Presentment.= 
+=MR.
+
+HOWELLS'S PLAYS.= Each in 1 vol. 32mo. 50 cents.
+
+=The Register.
+
+The Sleeping-Car.
+The Parlor-Car.
+
+The Elevator.=
+=MR.
+
+HOWELLS'S POEMS.= Printed on imported hand-made paper. White parchment
+covers. Enlarged edition. $2.00.
+
+=THREE VILLAGES.= 1 vol.
+
+Little-Classic size. $1.25.
+
+=CHOICE AUTOBIOGRAPHIES.= 8 vols. 16mo. $1.25 each.
+
+=TICKNOR & COMPANY'S NEW BOOKS,=
+SPRING OF 1886.
+
+The prices named below are subject to revision on publication.
+
+_ROMANCE AND REVERIE._ By EDGAR FAWCETT. 1 vol. 12mo.
+
+Printed on fine hand-made paper, with gilt top. $2.00. A volume of poems,
+by the author of "Song and Story."
+
+"Mr. Fawcett was the man of whom Longfellow expected more than
+from any of the other young American authors, both as a poet and
+novelist."--_American Queen._
+
+"The _Revue des Deux Mondes_ gives high praise to Mr.
+
+Fawcett's poetry, and compares his briefer lyrics to the famous
+'Emaux et Camées' of Théophile Gautier."
+
+--_Beacon._
+
+_STORIES AND SKETCHES._ By JOHN BOYLE O'REILLY, editor of the
+_Pilot_, author of "Moondyne," Songs, Legends, Ballads etc. 1 vol.
+12mo. $1.50.
+
+The great popularity of the author, and the intrinsic merit and
+interest of his writings, will ensure a warm reception to this
+collection of his latest and best works.
+
+MOROZ' KRASNYI-NOS' (Red-Nosed Frost). Russian: Sostavil' Nikolai
+Alekseevich' Nekrasov'.
+
+Translated in the original meters from the Russian of N.A. NEKRASOV.
+
+_CHRISTIAN SYMBOLS AND STORIES OF THE SAINTS._ By CLARA ERKSINE
+CLEMENT.
+
+Assisted by KATHERINE E. CONWAY. 1 vol. Large 12mo., with many full
+page illustrations. $2.50.
+
+This is a revised version of the greater part of the author's "Hand-book
+of Legendary Art,"--of which seventeen large editions have been
+exhausted.
+
+The clear and beautiful explanation of the expressive symbols by
+which men's minds are helped to reverent contemplation of the
+mysteries of revealed religion, leaves nothing to be desired.
+
+The "Stories of the Saints" will be illustrated by numerous full page
+engravings from the rarest and finest works of the great masters of
+Christian Art--prominence being given to scenes from the life of
+the Blessed Virgin, and pictures of the Evangelists, and the Founders
+and notable Saints of the Religious Orders.
+
+_MONOGRAPHS OF AMERICAN ARCHITECTURE._
+No. II. THE HARTFORD CAPITOL. R.M.
+
+Upjohn, Architect.
+
+No. III. AMES MEMORIAL BUILDINGS, NORTH EASTON.
+
+H.H. Richardson, Architect.
+
+Gelatine Plates (from nature), 13 × 16.
+
+Each in portfolio. $5.00.
+
+The remarkable success of the first Monograph shows the demand
+existing for artistic work of this high grade; and an equal sale
+may be predicted for the portfolio that illustrates the beautiful
+marble Gothic building of the Connecticut State Capitol.
+
+This possesses perhaps even a higher interest than the Harvard Law
+School, because it is a great public building, and not an appendage
+of an institution.
+
+_The American Architect_ says: "The execution of the work is all that
+could be asked. It would be hard to offer a more encouraging example
+of the kind of work to be expected in this series."
+_JOHN BODEWIN'S TESTIMONY._ By MARY HALLOCK FOOTE, Author of "The Led
+Horse Claim," &c. 1 vol. 12mo. $1.50.
+
+"Mrs. Foote's first novel raised her to a level on which she is only to
+be compared with our best women novelists. To make this comparison
+briefly, Miss Woolson observes keenly, Mrs.
+
+Burnett writes charmingly, and Mrs.
+Foote feels intensely."--_The Critic._
+_NEXT DOOR._ By CLARA LOUISE BURNHAM, Author of "Dearly Bought,"
+"A Sane Lunatic," &c. 1 vol. 12mo. $1.50.
+
+One of the brightest, prettiest, and most charming tales yet offered
+to the public. The scene is in Boston, the time the present, the plot
+exciting, the characters lifelike, while the style is graceful and
+skilful.
+
+_POETS AND PROBLEMS._ By GEORGE WILLIS COOKE, Author of "Emerson;
+His Life, Writings and Philosophy." 1 vol. 12mo. $2.00.
+
+Mr.
+
+Cooke brings to his work the most inexhaustible and painstaking
+patience, the most thorough devotion to the labor he has undertaken,
+and the deepest mental sympathy with his subjects.
+
+His present work embraces Tennyson, Ruskin, and Browning.
+
+_THE OLDEN-TIME SERIES._ 16mo.
+
+Per vol., 50 cents.
+
+There appears to be, from year to year, a growing popular taste for
+quaint and curious reminiscences of "Ye Olden Time," and to meet
+this, Mr.
+
+Henry M. Brooks has prepared a series of interesting handbooks. The materials
+have been gleaned chiefly from old newspapers of Boston and Salem,
+sources not easily accessible, and while not professing to be
+history, the volumes will contain much material for history, so
+combined and presented as to be both amusing and instructive.
+
+The titles of some of the volumes indicate their scope and their
+promise of entertainment:--"Curiosities of the Old Lottery," "Days
+of the Spinning Wheel," "Some Strange and Curious Punishments,"
+"Quaint and Curious Advertisements," "Literary Curiosities,"
+"New-England Sunday," etc.
+
+_THE IMPERIAL ISLAND--ENGLAND'S CHRONICLE IN STONE._ By JAMES F.
+HUNNEWELL.
+1 vol. 8vo.
+
+Richly illustrated. $3.50.
+
+This admirable and impressive work is a companion to the same
+author's well-known "Historical Monuments of France," and contains
+a vivid record of the life of Merrie England, as exemplified by her
+august castles and palaces, abbeys and cathedrals.
+
+=LIFE AND WORKS OF MRS.
+
+CLEMMER.=
+_AN AMERICAN WOMAN'S LIFE AND WORK._ A Memorial of Mary Clemmer,
+by EDMUND HUDSON, with Portrait.
+
+_POEMS OF LIFE AND NATURE._
+_HIS TWO WIVES._
+_MEN, WOMEN, AND THINGS._ Revised and augmented.
+
+The whole in four 12mo. volumes, tastefully bound, forming a beautiful,
+uniform set of the selected works, together with the memorial
+biography of this popular and lamented writer.
+
+_THE SAUNTERER._ By CHARLES GOODRICH WHITING. 1 vol. 16mo. $1.25.
+
+A rare and choice collection of charming little essays and poems
+about nature, some of which have won the highest possible commendation
+from Stedman and other eminent critics.
+
+The author has for many years been connected with the editorial staff of
+"The Springfield Republican."
+
+_THE LOST NAME._ By MRS. MADELEINE VINTON DAHLGREN, author of
+"A Washington Winter," "South-sea Sketches," etc. 1 vol. 12mo.
+$1.50.
+
+The remarkable success of Mrs.
+
+Dahlgren's previous portrayals of society make it certain that her
+forthcoming work will be full of life and purpose, and therefore
+sure to attract and interest.
+
+_ITALIAN POETS._ By W.D. HOWELLS. 12mo. $1.50.
+
+Biographical and Critical Notices of the masters of Italian poetry.
+
+_A SEA CHANGE_; or, Love's Stowaway.
+
+A Comic opera. By W.D. HOWELLS. 1 vol.
+16mo.
+
+Little-Classic size.
+
+_THE VIRGINIA CAMPAIGN OF GENERAL POPE IN 1862._ Being Volume II.
+of Papers read before the Military Historical Society of Massachusetts.
+
+With Maps and Plans. 1 vol. 8vo. $3.00.
+
+_THE YOUNG PEOPLE'S TENNYSON._ Students' Edition. 1 vol. 16mo. Edited,
+with Notes and Introduction, by W.J. Rolfe. Beautifully illustrated.
+75 cents.
+
+_SELECT POEMS OF TENNYSON._ Second Part. Students' Edition. Edited, with
+Notes and Introduction, by W.J. Rolfe. 1 vol. 16mo.
+
+Beautifully illustrated. 75 cents.
+
+_SONGS AND BALLADS OF THE OLD PLANTATIONS, BY UNCLE REMUS._ By JOEL
+CHANDLER HARRIS. 1 vol. 12mo. $1.50.
+
+"Uncle Remus's" legends have created a strong demand for his songs,
+which will be eagerly welcomed.
+
+_A ROMANTIC YOUNG LADY._ By ROBERT GRANT, author of "The Confessions
+of a Frivolous Girl," "An Average Man," etc. 1 vol. 12mo. $1.50.
+
+This is the latest and one of the strongest works of the successful
+delineator of modern society life and manners. It will be read eagerly
+and enjoyably by thousands of lovers of the best fiction.
+
+_A NEW AND ENLARGED CONCORDANCE TO THE HOLY SCRIPTURES._ By Rev.
+J.B.R.
+WALKER.
+
+This monumental work of patient industry and iron diligence is
+indispensable to all students of the Bible, to which it is the key
+and introduction.
+
+Many errors and omissions in the plans of the older Concordances
+have been avoided in this one, which also bears reference to the
+Revised Bible, as well as to the King-James version.
+
+=JUST PUBLISHED.=
+
+_THE STORY OF MARGARET KENT._ By HENRY HAYES. 1 vol. 12mo. $1.50. 6th
+thousand.
+
+A new and thrilling novel of literary life in New York, written
+with masterly skill.
+
+One of the most exacting of reviewers says that it will "convince
+and touch thoughtful and sensitive readers"; and another, a
+well-known novelist and poet, says: "The plot and situations are
+original and natural.
+
+It is out of the common run, and sparkles with life--real life--and
+deep feeling."
+
+_AMERICAN WHIST._ By G.W.P. 1 vol. 16mo. Sixth Edition, Revised. $1.00.
+
+A new and fully revised and much-enlarged edition of this foremost
+classic, best teacher, and wisest companion as to the most enjoyable
+game of cards.
+
+After running through several successful editions during the past five
+years, this invaluable book is now to be brought out improved in many
+ways, and will be indispensable to all who play Whist.
+
+_CLEOPATRA._ By HENRY GRÉVILLE.
+
+Original Copyright Edition, with new Portrait. 1 vol. 16mo. $1.25.
+
+"Cleopatra" is a brilliant new novel by the author of "Dosia" and
+"Dosia's Daughter," who is acknowledged as foremost among the
+European novelists of to-day.
+
+The remarkable success that has attended Henry Gréville's previous
+works, foreshadows the popular demand for "Cleopatra," her latest
+(and in many respects, her best) novel.
+
+_EVERY-DAY RELIGION._ By REV.
+
+JAMES FREEMAN CLARKE, D.D., Author of "Self-Culture," "The Ideas
+of Paul," &c., &c. 1 vol. 12mo. $1.50.
+
+An admirable group of terse, strong, and practical discourses on
+the religion of the home, the office, the work-shop, and the field.
+
+It tells how, amid the cares and annoyances of this workaday world,
+one may grow towards a noble and peaceful life.
+
+It will be an invaluable companion, an indispensable "guide,
+philosopher, and friend."
+
+The eminent success of JAMES FREEMAN CLARKE in works of this high
+class is shown by the great popularity of his "Self-Culture," which
+is now in its eleventh edition.
+
+_EDGE-TOOLS OF SPEECH._ By MATURIN M.
+
+BALLOU, Author of "A Treasury of Thought," "Due South," &c., &c. 1
+vol. 8vo. $3.50.
+
+"A great new work, in which are preserved the choicest expressions
+and opinions of the great thinkers and writers of all ages, from
+Confucius to Ruskin.
+
+These pungent apothegms and brilliant _memorabilia_ are all carefully
+classified by topics; so that the choicest work of many years of
+patient labor in the libraries of America and Europe is condensed
+into perfect form and made readily available.
+
+It will be indispensable to all writers and speakers, and should be in
+every library"--_Traveller._
+
+_TWO COLLEGE GIRLS._ By HELEN DAWES BROWN. 1 vol. 12mo. $1.50.
+
+One of the most important of recent books.
+
+It is a capital study of girl-students from Boston, New York, and
+Chicago, exemplifying the most piquant characteristics of the
+respective phases of civilization and social criteria of the three
+cities.
+
+It is suited alike to old and young, being rich in beautiful passages
+of tender pathos, strong, simple and vivid, and full of sustaining
+interest.
+
+Nothing has been published since "Little Women" that will so strike
+the popular taste.
+
+_LIGHT ON THE HIDDEN WAY._ With an Introduction by JAMES FREEMAN
+CLARKE.
+1 vol. 16mo. $1.00.
+
+A remarkable and thrilling romance of immortality, illustrating by
+an account of personal experiences the relations between the seen
+and the unseen.
+
+All readers of the literature of the supernatural in books like
+"The Little Pilgrim," &c., will be profoundly interested in this
+strange record of the nearness of the spiritual and material worlds.
+
+_THE PRELATE._ By ISAAC HENDERSON. 12mo. $1.50.
+
+A story of the American colony and native society in Rome.
+
+The situations in this powerful book are among the most intense and dramatic
+of anything that has been offered by an American author for years.
+
+_INDIAN SUMMER._ By W.D.
+
+HOWELLS, Author of "The Rise of Silas Lapham," &c.
+1 vol. 12 mo. $1.50.
+
+"Mr.
+
+Howells's new story is in his pleasantest vein, full of his quiet
+humor clothed in the neatest expressions.
+
+It is international; the contrast of American and foreign ways runs
+through it, and Mr.
+
+Howells has added the contrast of the old and the new Americanism.
+
+The hero is a Western journalist, a Mugwump, much given to banter
+of the American sort."
+
+--_The Nation._
+_A STROLL WITH KEATS._ By FRANCES CLIFFORD BROWN. 1 vol. Illustrated.
+Square 16mo. $1.50.
+
+One of the choicest gems of art in illustration, consisting of
+illuminated pages, in beautiful designs, illustrating some of the
+finest verses of the great English poet.
+
+_THE SPHINX'S CHILDREN AND OTHER PEOPLE'S._ By ROSE TERRY COOKE,
+Author of "Somebody's Neighbors," &c. 1 vol. 12mo. $1.50.
+
+This volume of short stories, reprinted from the author's contributions
+to the _Atlantic_, _Harpers_, _The Galaxy_, &c., will be found like
+"Somebody's Neighbors," to show "that profound insight into Puritan
+character, and that remarkable command of Yankee dialect, in which
+Mrs.
+Cooke has but one equal, and no superior. These exquisite chronicles are
+full of high local color, pathos and piquancy, and their perusal
+is attended with alternate tears and smiles.
+
+Their narration is vigorous and spirited, sparkling in all points,
+and outlined with rare dramatic skill."
+
+_THE LIFE AND GENIUS OF GOETHE._ The Lectures at the Concord School of
+Philosophy for 1885. Edited by F.B. SANBORN and W.T. HARRIS. 1 vol.
+12mo.
+With 2 portraits. $2.00.
+
+"A work of exceptional interest, containing fifteen of the lectures
+concerning Goethe which were read at the Concord School of Philosophy
+last summer.
+
+                                 Prof.
+
+                                  Hewett furnishes an account of the newly-discovered Goethe manuscripts
+for the introduction to the volume.
+
+Among the writers are Drs.
+Bartol and Hedge, Mrs. Howe, Mrs. Cheney, Mrs. Sherman of Chicago,
+Mr.
+Soldan of St. Louis, Mr. Snider of Cincinnati, Mr. Partridge of Brooklyn,
+N.Y., Mr. Davidson of New Jersey, Prof. White of Ithaca, N.Y., and
+Messrs.
+
+Emery, Harris, and Sanborn of Concord, the last named the
+editor."
+
+--_Traveller._
+_LIFE AND LETTERS OF HENRY WADSWORTH LONGFELLOW._ Edited by Rev.
+
+Samuel Longfellow. 2 vols. 12mo. $6.00.
+
+With new steel engraved Portraits and many wood Engravings.
+
+_Also a limited edition de Luxe, with Proof Portraits._
+The biography of the foremost American poet, written by his brother, is
+probably the most important work of the kind brought out in the
+United States for years.
+
+It is rich in domestic, personal, and family interest, anecdotes,
+reminiscences, and other thoroughly charming _memorabilia_.
+
+THE =MEMORIAL HISTORY OF BOSTON=,
+
+In Four Volumes. Quarto.
+
+With more than 500 Illustrations by famous artists and engravers,
+all made for this work.
+
+Edited by JUSTIN WINSOR, LIBRARIAN OF HARVARD UNIVERSITY.
+
+Among the contributors are:--
+
+Gov. JOHN D. LONG, Hon. CHARLES FRANCIS ADAMS, Rev. PHILLIPS BROOKS,
+D.D., Rev. E.E. HALE, D.D., Hon.
+
+ROBERT C. WINTHROP, Hon. J. HAMMOND TRUMBULL, Admiral G.H. PREBLE, Dr.
+O.W.
+
+JARVIS. Not till we have finished this job.
+
+RUSTY. (_Putting pieces of table on fire--still at fireplace, back to
+audience_) Tuesday--Wednesday--Thursday---- Ah can't wait no longer than
+Saturday. (_Strikes match and lights fire. Glow from fire._)
+
+JARVIS. (_Runs up steps at back, looking left_) That way leads through
+those two long rooms to the postern gate.
+
+RUSTY. (_Looking up_) That's where that black thing followed me.
+(_Crosses to_ JARVIS L.C. _slowly_.)
+
+JARVIS. Well, a black thing followed me, treading on my heels every step
+I've taken.
+
+RUSTY. Oh, I couldn't see where I was steppin'.
+
+JARVIS. (_Looking about_) That goes to the Armory.
+
+RUSTY. (L.C. JARVIS _on steps_) Ah seen eyes in there, and a cold,
+grimy, green, slimy smell in there. Ain't that where that broad-faced
+bird flew at me and I fell down them slippery stairs?
+
+JARVIS. (_Laughing_) That broad-faced bird was an owl, Rusty--just a
+common, ordinary owl. You know what an owl is.
+
+RUSTY. O--ooh--ooh!
+
+JARVIS. (_Sees door_ R.C.) Where can that door lead to? That's it.
+(JARVIS _goes to the door in_ R.C. _Steps on trap and falls suddenly._)
+Wow! That was a close one. (_Lantern goes out._)
+
+RUSTY. (_Advancing_) Lord, Marse Warren, what is it? (_Starts up to
+Jarvis._)
+
+JARVIS. Get back! Give me that lantern. (RUSTY _hands lantern_.) Give me
+your hand. Can you hold me? (RUSTY _holds out hand and_ JARVIS
+_cautiously steps on trap door; it sinks and other end rises_.) God! I
+thought so. Water and a long drop! No wonder people disappear in this
+castle. Good Lord, what if her brother went down there? Rusty, whatever
+happens, keep clear of this. If you step on this you will never see
+Kentucky again for sure. (_Groan heard off left._)
+
+RUSTY. Did you hear that groan? (_Wind changes to low moan._)
+
+JARVIS. Groan---- There it is again. It sounded just like a man.
+
+RUSTY. Ough! Ough!
+
+JARVIS. Shut up! (_Crosses to_ L.C.)
+
+RUSTY. Marse Warren--look out!
+
+JARVIS. Listen! (_Crosses and stands moment at door. Wind moans._) I
+guess it's the wind. (_He crosses to fireplace._) This place is getting
+on my nerves.
+
+RUSTY. (R.C.) That wasn't no wind, Marse Warren. Ah hope to die if that
+wasn't a sure enough human groan. (_He looks at picture_ L.) And Ah want
+to tell you som'pin' else. Have you ever been in church or somewhere and
+all of a sudden a feelin' come over you that there was eyes a-starin' at
+the back of your head? You just knowed it--until you couldn't stand it
+no longer, and just turned around and see who it was?
+
+JARVIS. Why, yes, Rusty, I have had that happen. Why?
+
+RUSTY. That's just the way I feel now, like there was eyes a-lookin' at
+me. (_Turns to picture._) You see that picture? Seems like that feller
+was lookin' at me--like he'd step right out of the frame. (_He points to
+armor on steps._) Or them two battleship boogies--just jump right down
+here.
+
+JARVIS. It's been a good many years since those boys jumped, Rusty.
+(_Noise off stage of running._) Hark! Listen! (_He crosses to_ L.C.,
+_pistol drawn; stands listening._) Somebody's running--coming this
+way---- (_Dull thud at back._)
+
+RUSTY. I want to go home!
+
+JARVIS. What do you know about that?
+
+RUSTY. I don't want to know nothin' about it.
+
+JARVIS. I thought so.
+
+RUSTY. What is it?
+
+JARVIS. The man with a smoky lantern has been up those stairs.
+
+RUSTY. You ain't goin' up there, is you?
+
+JARVIS. I am not--because the Duke or some of his men are probably
+waiting for me at the top of the stairs with a big long gun, and I'm no
+book hero.
+
+RUSTY. Suppose it's the Prince?
+
+JARVIS. Well, suppose it is the Prince. He might blow my head off,
+because he doesn't know what I came here for--and if it's someone else,
+they'll blow my head off, because they do know.
+
+RUSTY. (_Looks at ceiling and following supposed sounds with head_
+R.C.) Sounds like somebody was runnin' round.
+
+JARVIS. (C.) They're trying to scare us, Rusty. They're probably
+watching every move we make. That's where that pounding comes from. Why
+don't they shoot? They're trying to scare us, like they did the poor
+boobs down in the village. (RUSTY _crosses to fireplace_.) They want to
+get us out of here. They want to get us out of this room. Rusty, someone
+was working in the room. Now, where was he working? Where was he----
+
+RUSTY. (_Meanwhile has crossed to mantel and picked up hammer and
+chisel_) Look here, Marse Warren--look y'ere! (_A few steps from
+fireplace._)
+
+JARVIS. (_Crossing to_ RUSTY) What is it, Rusty?
+
+RUSTY. (_Handing them to_ JARVIS) Look at them.
+
+JARVIS. Where did you find them, Rusty?
+
+RUSTY. (_Pointing to mantel_) Up there.
+
+JARVIS. Good boy, Rusty! Now I'll tell you something. These are his
+tools. Someone was working in this room, so we've beaten him to it. Now,
+where was he working? (_Hands on floor._) Mortar on floor. (_Hands on
+mantel._) Mortar on the mantel----(_Puts down tools, looking up and
+pointing._) Look at that! That's where he was working, Rusty, and we've
+beat him to it--we've beat him!
+
+(_Long pause. Both turn simultaneously and look at picture._ JARVIS
+_draws revolver_. RUSTY _turns to_ JARVIS _and sees that he looks at
+picture_.)
+
+RUSTY. (_Scared voice_) Did you feel that, too?
+
+(JARVIS _crosses slowly and cautiously to picture; feels all around
+picture and lights a match to examine it; passes light all around
+frame_.)
+
+JARVIS. (_Backing away_) By God, that's weird! You could feel that just
+as plain---- (_Backs to steps and sits on balustrade, over which figure
+in armor is standing._) By God, that's weird! (_In awed voice. Figure
+in armor raises sword slowly directly behind_ JARVIS.)
+
+RUSTY. (_Looking at picture_) It sure is, Marse Warren, it sure is----
+(RUSTY _turns just in time to see sword raised above Jarvis' head;
+screams_) Look out! (_Ducks behind table in turret_ R. _Fight then takes
+place between figure in armor and_ JARVIS. _Figure finally gets on trap_
+R.C. _and disappears out of sight_.) Where is he? (_From behind
+hiding-place._)
+
+JARVIS. Water and a long drop. There's another of the Duke's men gone to
+hell.
+
+RUSTY. I knowed them battleship boogies was spooks.
+
+JARVIS. (Picks up sword man in armor dropped; C.) We'll just take a look
+at this other fellow. (_He goes to make a swipe at figure on other side
+of stairs--sees_ RUSTY.) What's the matter? Are you scared?
+
+RUSTY. You can't scare me--I'm scared already.
+
+(JARVIS _makes feint at figure. No response; feints again, as though to
+strike, meaning to draw man out if he is in armor; no response; goes up
+steps, knocks armor over._)
+
+JARVIS. I guess he's harmless. (_Drops sword at foot of steps._)
+
+RUSTY. A--ah! (_Running up steps and picking up armor._) I'll just fix
+him so he won't jump no more! (_Cross to trap._)
+
+JARVIS. What are you going to do?
+
+RUSTY. I'm going to sink this other battleship!
+
+JARVIS. Hold on--wait a minute. I reckon we can use that. It takes a
+thief to catch a thief, they say. We'll just outspook Mr. Ghost. Now,
+come on, Rusty. Get into this hardware as fast as you can.
+
+RUSTY. Marse Warren, I don't want to be no spook!
+
+JARVIS. Listen! Somebody was working in this room. It's a cinch that the
+treasure is here, and it's a bigger cinch he'll come back to get it when
+we've gone.
+
+RUSTY. You ain't going to leave me here alone?
+
+JARVIS. Sure, I'm going to put you in this, so you can watch. I'm going
+to make a bluff that we're both gone. You'll be as safe as a church in
+this. No one would ever think of looking for one of us in this armor.
+You watch, and when he starts to work, then yell your head off.
+
+RUSTY. I'll yell so loud they will hear me in Kentucky.
+
+JARVIS. You give your best yell, and then I'll nail him.
+
+RUSTY. If you don't nail him--he'll nail me!
+
+(_Business_ JARVIS _putting armor on_ RUSTY. _Breastplate, back and legs
+are put on together; belt fastened around waist first, then legs; next
+collar; then arms; last helmet; this done during the following
+dialogue._)
+
+RUSTY. Marse Warren, you must think a heap of Miss Princess to go
+prowling around in this boogy house in the dark.
+
+JARVIS. What makes you think that?
+
+RUSTY. Marse Warren, I knowed you since you was a baby.
+
+JARVIS. What's that got to do with it?
+
+RUSTY. She 'gin you that jewelry that's hanging round your neck, didn't
+she? She's kind of crazy about you, too, ain't she?
+
+JARVIS. How do you know?
+
+RUSTY. Aw--I know, all right.
+
+JARVIS. But how do you know?
+
+RUSTY. Waal, I'm goin' to tell you, and then you'll know how I know.
+Just before them horses all jumped on me, when I was waitin' for you in
+the road, I heard a window go up, slap, and there was the Princess
+a-lookin' at the moon, just like a picture in the moonlight; just
+a-lookin' at the moon, and she says--she says----
+
+JARVIS. What did she say?
+
+RUSTY. Well, no lady never talks that way at the moon unless she's in
+love.
+
+JARVIS. What did she say?
+
+RUSTY. She says--looking at the moon, she says, "The world has begun all
+over again for me." And then she went right on and says, "God be with
+you, my American!" I'm the only American around here 'cept you, Marse
+Warren.
+
+JARVIS. You heard her say that? God bless you for that, Rusty! (_With
+helmet in hand._) Here, put your head into this Stetson.
+
+RUSTY. Oh! Oh!
+
+JARVIS. What's the matter?
+
+RUSTY. Full of spider webs.
+
+(JARVIS _puts helmet on again_.)
+
+JARVIS. Gloves--here. How do you feel?
+
+RUSTY. All in. Do I look like a spook?
+
+JARVIS. You're a wonderful sight! (_Pushing him away._) Now, Rusty, get
+over here. Where is your sword? (JARVIS _down steps_; RUSTY _sneezes_.)
+I never heard of a ghost sneezing before.
+
+RUSTY. Marse Warren, I'm catching cold.
+
+JARVIS. (_Up steps to_ RUSTY) Now, Rusty, keep your ears and eyes open.
+Don't move a muscle. If any one comes, yell your head off, but don't
+sneeze.
+
+RUSTY. Marse Warren, I want to go home!
+
+JARVIS. We haven't any home, Rusty.
+
+RUSTY. Marse Warren, I don't ever expect to get out of this boogy house
+nohow. (_Call is heard off stage_ L.)
+
+JARVIS. Well, Rusty, there is something. (_Faint call heard; very
+indistinct._) What's that? I'd almost swear that was a call or a groan.
+(_Another call_; JARVIS _blows out lantern_.) There it is again. (_Light
+is thrown on door as by someone carrying lantern. Pause._) Hark! Listen!
+There's a light, Rusty. It's coming this way. It's coming, Rusty! It's
+coming back. Remember the high sign, Rusty, and don't sneeze.
+
+(JARVIS _hides above door_ L. _Enter_ DOLORES _and the_ PRINCESS _and_
+MAXIMO _carrying lantern_ D.L., _cautiously coming forward._)
+
+DOLORES. No one here either, your Highness. (_Cross stage_ R.C.)
+
+PRINCESS. (C.) We must go on, Dolores. We must find him before it's too
+late. Oh, I never will forgive myself for sending him to this dreadful
+place!
+
+DOLORES. (_Cross to fire_) Look! Here is a fire. They've been in this
+room. (MAXIMO _comes across at back with lighted lantern to_ R.C.)
+
+PRINCESS. Perhaps they have already been killed.
+
+JARVIS. Your Highness! (L.C.)
+
+PRINCESS. Mr. Warren--Mr. Warren! Thank God you are still alive!
+
+JARVIS. Your Highness--it's madness for you to come to this place. How
+did you get here?
+
+PRINCESS. (_Crossing toward him_) Heaven only knows. We have been
+wandering through this dreadful place for hours, calling to you--trying
+to find you before it was too late.
+
+JARVIS. Too late? What do you mean?
+
+PRINCESS. My brother is safe, thank God!
+
+JARVIS. Where is he?
+
+PRINCESS. On his way to get help from the King.
+
+JARVIS. Where has he been?
+
+PRINCESS. Right here in this castle, a prisoner--since the day he
+entered.
+
+JARVIS. A prisoner?
+
+PRINCESS. Yes, he succeeded in making his escape tonight, and has gone
+direct to the King for help.
+
+JARVIS. How did you learn this?
+
+DOLORES. (C.) From Robledo. Your bullet went straight, Senor. He is
+dying. He confessed to the Holy Father. I promised to be with him at the
+end. (_Weeps._)
+
+JARVIS. (_Crosses to_ DOLORES, C.) The end---- (_Realizing_ DOLORES
+_cared for Robledo._) Then--you---- I didn't know. I might have---- I'm
+sorry.
+
+DOLORES. 'Tis better so, Senor. My Prince still lives. (JARVIS _steps
+back_ C.)
+
+PRINCESS. (_Cross to_ DOLORES) Oh, Dolores, my poor child! Maximo, take
+her back to the inn as quietly as possible. (_They exit._) Oh, Mr.
+Warren, let us leave this dreadful place!
+
+JARVIS. Not I, your Highness. You go with them, and wait for me at the
+inn.
+
+PRINCESS. You cannot persuade me again, Mr. Warren. I will remain.
+
+JARVIS. Please.
+
+PRINCESS. Return with us, then.
+
+JARVIS. Your Highness, I promised to solve the mystery of this castle
+and to find the treasure. My task is an easy one now.
+
+PRINCESS. Then I will share it with you.
+
+JARVIS. And you groped your way through this old castle to find me. You
+are game.
+
+PRINCESS. You faced death, perhaps, for me.
+
+JARVIS. You're trembling--you're frightened--you're cold--your hands are
+cold!
+
+PRINCESS. Oh, I'm not----
+
+(JARVIS _takes_ PRINCESS _to fire; she sits._)
+
+JARVIS. Come over here. You must have been scared to death prowling
+through the blackness.
+
+PRINCESS. Every nerve of my body is on edge with the happenings of this
+dreadful place!
+
+JARVIS. Oh, don't cry! Go on, then--cry--cry--cry some more. Just
+forget you are a Princess and cry, that's it. That's fine. I'll round up
+this spook tonight for good, and then the vassal's task is done. His
+fate is in your hands, Highness. What's to become of him? (_Love
+scene._) Don't send me away. I've loved you from the first, and I shall
+always love you. I'm no Prince or Duke. I know I'm just a plain American
+citizen, a man--and all the man in me cries out that I love you! Don't
+send me away.
+
+PRINCESS. You must go.
+
+JARVIS. You're going to send me away?
+
+PRINCESS. Yes, you must leave Spain. Your life would never be safe here.
+(DUKE _sneezes from behind picture_.)
+
+PRINCESS. What was that? (_She goes to lower end of fireplace_; JARVIS
+R.C.)
+
+JARVIS. Oh, see, that--that's Rusty.
+
+PRINCESS. That would frighten anyone.
+
+JARVIS. I figured that I might need a ghost myself, but Rusty disobeyed
+orders. Rusty, I told you not to sneeze.
+
+RUSTY. Dat was somebody else, Marse Warren! I didn't sneeze!
+
+PRINCESS. Mr. Warren.
+
+JARVIS. Don't move. Your Highness, I've got your ghost at last.
+(_Pointing gun at picture._) There is somebody behind that picture! Come
+out, or I'll shoot you full of holes.
+
+DUKE. (_Lights at window change to red._ DUKE _coming out_) Don't shoot.
+
+JARVIS. (C.) Your Excellency, you're a long way from Madrid.
+
+DUKE. Madrid---- You fool, you have fallen right into the trap.
+(_Crosses_ C.) What I have done has been for your sake, Maria. I
+purposely deceived him, so that I might get here ahead of him and
+watch. See, there are his tools. (_Crosses_ R.) And you yourself
+interrupted him at his work. (_Points over mantel._)
+
+JARVIS. That's an unlucky gesture. How did you know the treasure was
+there?
+
+DUKE. That's where you were working.
+
+JARVIS. You forgot I have never seen the memorandum.
+
+DUKE. Until you stole it. Can't you see, Maria?
+
+PRINCESS. Yes, one of you two stole the locket.
+
+JARVIS. Which one of us two? (_Walking over to_ DUKE.) You can't lie
+yourself out of this. Twice tonight you tried to have me murdered. Why
+didn't you have the nerve to come out in the open? I told you all ghosts
+were cowards--but you haven't got the courage of a rabbit. If it weren't
+for her, I'd blow your damned head off, and send you down after that
+other poor devil! You've got him to answer for, sooner or later. Now,
+see here--give me that locket---- No, give her the locket--or, by the
+living God, I'll break your---- Come on!
+
+PRINCESS. (_Light outside and first border and foots change to amber_)
+Carlos!
+
+DUKE. (_Cross to_ C. _and_ PRINCESS; _gives locket_) You play a good
+game, Mr. Warren. Are all Americans like you?
+
+JARVIS. They all play the game in Kentucky.
+
+DUKE. (_Cross to door_ L.) And I thought all Americans were fools.
+
+JARVIS. I saw that from the first, and it helped.
+
+DUKE. Mr. Warren, take her advice, and return to Kentucky. (_Exit_ L.)
+
+JARVIS. Say, hold on----
+
+PRINCESS. (_Stopping_ JARVIS C.) What kind of a place is Kentucky?
+
+JARVIS. God's good country, lady. Must I go back alone?
+
+PRINCESS. You must go, but you need not go alone.
+
+JARVIS. You mean----? Say it! Say it!
+
+PRINCESS. I love you! (_They embrace._)
+
+                               SLOW CURTAIN
+
+
+(_Second Curtain_)
+
+
+(RUSTY _comes down steps and off_ L.)
+
+                    *       *       *       *       *
+
+
+                           STAGE MANAGER'S PLOT
+
+
+Act I--
+
+Manhattan Hotel at five o'clock in the morning. Stage dimly lighted by
+night lamp from side of bed. Theresa is sleeping. Modern, up-to-date
+hotel room. Furniture dark and a general atmosphere of the best.
+
+Act II--
+
+Stateroom on S.S. "Aquitania," with doors leading off to bath and
+bedroom of the suite. White walls, dark plush hangings and gold
+furniture. Dark carpet. Atmosphere of a liner just before leaving dock.
+
+Act III--An old Spanish tavern on the outskirts of Segura with a
+suggestion of past refinement, but now in a condition of decay. Mandolin
+and guitar heard in wine room at opening, with singing.
+
+ACT IV--
+
+An old Spanish castle, deserted, crumbling, covered with the dust of
+ages. Wind effect, etc., to create an atmosphere of spookiness at rise.
+
+The House Detective in the First Act doubles Pedro, the innkeeper, in
+the Third Act.
+
+Hotel Porter in First Act doubles Vardos in Third Act. Also can do the
+fight in armor.
+
+Steward in Second Act doubles Jose in Third Act.
+
+Maximo and Gaspar are unimportant characters in the opening of the Third
+and can be played by extras.
+
+The best results in this play are obtained from a fast, snappy tempo
+throughout.
+
+
+                             If any person turns Quaker, he shall be banished, and not suffered
+to return but on pain of death.
+
+No Roman
+  Catholic priest shall abide
+    in the dominion;
+    he shall be
+    banished, and suffer death on
+    his return.
+
+  Some years ago, a
+    law-book which had belonged
+    to Jonathan
+    Trumbull, containing the early statutes of Connecticut, was in the
+possession of a Boston gentleman,[1] who informs us that at the end
+of the volume, in manuscript, were found reports of "Brother
+Jonathan's" adjudications of small cases which he tried as "justice
+of the peace."
+
+Among them
+  was one where "His
+    Majesty's tythingman" entered a complaint
+    against Jona and Susan
+    Smith for a "profanation of the
+    Sabbath;" namely,
+    "That on the
+    ---- day of
+    ---- during Divine Service on the Lord's Day _they did smile_."
+
+The culprits
+  were adjudged to be guilty of
+    the offence, and severally
+    fined "five shillings and costs."
+    This book was
+    shown to the late Professor Agassiz, who
+        examined it with great interest and
+    then made the following remark: "I find here
+    evidence of the
+    difference
+    between the Calvinism of Switzerland and the Calvinism of America.
+
+                              I was brought up in that faith.
+
+I went
+    to meeting in the
+    morning, I
+    danced with the
+    parson's
+    daughter on
+    the green in
+    the afternoon, and
+      I played whist with the
+    parson in the evening."
+    
+    [1] Edward Atkinson,
+      Esq.
+
+    The legislature
+    of Massachusetts
+    in the year 1760
+    passed the following laws in relation to
+    Sunday and to the proper
+    observance
+    of Saturday
+      evening:--
+      "Whereas
+      it is the Duty
+      of all Persons,
+      upon the Lord's-Day
+      carefully to apply themselves publickly and privately to Religion
+and Piety, the Prophanation of the Lord's-Day is highly offensive
+to Almighty God; of evil Example and tends to the Grief and Disturbance
+of all pious and religiously disposed persons.
+
+Therefore
+    that the
+    Prophanation of the said Day may
+    be fully prevented:
+      Be it further
+      enacted, That no Person whatsoever shall
+      keep open their
+      Shops &c. &c.--do
+    or exercise
+    any Labour nor any Sport, Game Play or Recreation on the Lord's
+Day or any part thereof &c.
+
+&c. under
+    penalties of
+    not exceeding
+    twenty shillings for
+    every offence."
+    Travelling was also prohibited, and it was
+    enacted,--
+      "That if any Person
+      or Persons
+      shall be recreating,
+    disporting
+    or unnecessarily walking
+      or loitering, or
+      if any Persons
+      shall unnecessarily assemble themselves in any of the Streets,
+Lanes, Wharves, High-Ways, Commons, Fields, Pastures or Orchards
+of any Town or Place within this Province upon the Lord's Day, or
+any Part thereof, every Person so offending shall forfeit and pay
+the sum of five shillings and upon a second Conviction bound for
+good behaviour,...
+
+                             If any Persons being able of Body and not otherwise necessarily
+prevented shall for the space of one Month together absent themselves
+from the Publick Worship of God on the Lord's Day, they shall forfeit
+and pay the sum of ten shillings.
+
+"And whereas many Persons are of opinion that the Sabbath or Time
+of religious Rest, begins on Saturday evening, therefore to prevent
+all unnecessary Disturbance of Persons of such Opinion, as well as
+to encourage in all others a due and seasonable Preparation for the
+religious Duties of the Lord's Day: Be it further enacted, That no
+Person shall keep open any Shop, Ware-House or Work-House or hawk
+or sell any Provisions or Wares in Streets or Lanes of any Town or
+District, or be present at any Concert of Musick, Dancing or other
+Publick Diversion on the Evening next preceding the Lord's-Day, on
+Pain of forfeiting ten Shillings for each Offence, &c."
+
+Wardens were to be appointed in all the towns and districts to see that
+these laws were duly enforced. All existing laws on the Sabbath were
+at that time repealed, but some of the laws then passed are still
+in force.
+
+The following is from Felt's "Annals of Salem:"-- 
+1676.
+
+April 20th. "Ordered by ye Selectmen yt the three Constables doe
+attend att ye three great doores of ye meeting house every Lord's
+day att ye end of sermon, boath forenoone and afternoone and to
+keep ye doors fast and suffer none to goe out before ye whole
+exercise bee ended, unless itt be such as they conceive have necessary
+occasion and to take notice of any such as shall presume to goe
+forth as above said and present their names as ye law directs.
+
+Ordered that all ye boys of ye towne are and shall bee appointed
+to sitt upon ye three paire of staires in ye meeting house on the
+Lord's day and Wm.
+
+We strongly recommend it for high school production.
+
+First produced in New York, then toured the country. Two companies now
+playing it in England. Royalty, $25.00. Price, 75 cents.
+
+
+                               A Full House
+
+
+Farcical comedy in 3 acts. By Fred Jackson. 7 males, 7 females. 1
+interior. Modern costumes. Plays 2-1/2 hours. This newest and funniest
+farce was written by Fred Jackson, the well-known story writer, and is
+backed up by the prestige of an impressive New York success and the
+promise of unlimited fun presented in the most attractive form. A
+cleverer farce has not been seen for many a long day. "A Full House" is
+a house full of laughs. Royalty, $25. Price, 75 cents.
+
+
+SAMUEL FRENCH. 25 West 45th Street, New York City
+  New and Explicit Descriptive Catalogue Mailed
+                Free on Request
+
+
+                           The Famous Mrs. Fair
+
+
+A play in 4 acts. By James Forbes, author of "The Commuters", "The
+Traveling Salesman", etc. 3 males, 10 females. 2 interiors. Costumes
+modern. Plays 2-1/2 hours.
+
+Mrs. Fair was a major abroad and won a medal for bravery. Her husband
+was displeased when Mrs. Fair came home to a fame which lifted her out
+of his life. The dissatisfaction grew as she became absorbed in public
+functions. Mr. Forbes traces the widening of the rift between husband
+and wife with great skill in the first two acts. These are light comedy.
+In the third the mood becomes serious and we find that Mrs. Fair's
+absence from home has set the husband to philandering and the daughter
+to intimacy with a gay set. Indeed, only through the joint efforts of
+husband and wife to save the girl from danger, is harmony again
+established.
+
+A true comedy, written with keen insight. Royalty, $35.00. Price, 75
+cents.
+
+
+                          Nothing But the Truth
+
+
+Comedy in 3 acts. By James Montgomery. 5 males, 6 females. Costumes,
+modern. 2 interiors. Plays 2-1/2 hours.
+
+Is it possible to tell the absolute truth--even for twenty-four hours?
+It is--at least Bob Bennett, hero or "Nothing But the Truth",
+accomplished the feat. The bet he made with his business partners, and
+the trouble he got into is the subject of William Collier's tremendous
+comedy hit. "Nothing But the Truth" can be whole-heartedly recommended
+as one of the most sprightly, amusing and popular comedies. Royalty,
+$25.00. Price, 60 cents.
+
+
+                            On the Hiring Line
+
+
+Comedy in 3 acts, by Harvey O'Higgins and Harriet Ford. 5 males, 4
+females. 1 interior. Costumes, modern. Plays 2-1/4 hours.
+
+Sherman Fessenden, unable to induce servants to remain at his Jersey
+home, hits upon the expedient of engaging detectives as domestics.
+
+His second wife, an actress, weary of the country, has succeeded in
+discouraging every other cook and butler against remaining long,
+believing that she will convince her husband that country life is dead.
+So she is deeply disappointed when she finds she cannot discourage the
+new servants.
+
+The sleuths, believing they are called to report on those living with
+the Fessendens, warn Fessenden that his wife has been receiving
+love-notes from an actor friend, and that his daughter is planning to
+elope with a supposed thief.
+
+One sleuth causes an uproar making a mess of the situations he has
+witnessed. Fessenden, however, has learned a lesson and is willing to
+leave the servant problem to his wife.
+
+Enjoyed long runs in New York and Chicago. Royalty, $25.00. Price, 75
+cents.
+
+
+It was caught in the gale, driven ashore, and is
+  now a total wreck.
+                 
+
+                             If such storms are repeated, we shall have to tell our European
+cousins how they manage tornadoes and cyclones out West.
+
+In the State of Kansas, tornadoes are more dreaded than fires, and the
+Kansas children are taught a tornado drill as our Eastern children
+are taught a fire drill.
+
+According to the statements we receive, the citizens take to the
+prairies the moment a tornado strikes a Kansas town.
+
+As the children cannot run as fast as the grown-ups, they have often
+been caught and injured by the terrible storms before they could
+escape.
+
+To prevent such accidents in the future, some one decided to build tornado
+caves under the schoolhouses.
+To
+that result you might even add brilliant, pathetic and humorous, but the
+answer even then would be just what it was before--the play which Miss
+Jean Webster has made from her book, 'Daddy Long-Legs'. To attempt to
+describe the simplicity and beauty of 'Daddy Long-Legs' would be like
+attempting to describe the first breath of Spring after an exceedingly
+tiresome and hard Winter."
+
+Enjoyed a two-years' run in New York and was then toured for over three
+years. Royalty, $25.00. Price, 75 cents.
+
+
+                              To the Ladies
+
+
+A hilarious comedy in 3 acts, by George S. Kaufman and Marc Connelly. 11
+males, 3 females. 3 interiors. Costumes, modern. Plays 2-1/2 hours.
+
+The authors of "Dulcy" have divulged a secret known to every woman--and
+to some men, though the men don't admit it.
+
+They had always considered that cyclones were American institutions, and
+never expected that they would follow the example of American people and
+find their way to Paris.
+
+This storm was a regular Westerner, sweeping down everything in its path,
+blowing houses over, and destroying things generally.
+
+Having spent part of its rage in France, it rushed across the English
+Channel, raising such a gale there that many vessels were wrecked,
+both on the English and French shores.
+
+                            The storm crossed England and reached the Irish Channel, where it
+again played havoc with the shipping.
+
+Admiral Lord Nelson's flag-ship, the _Foudroyant_, was anchored off
+Liverpool. It had been touring up and down the coast as a show-ship.
+The storm put an end to its journeyings forever.Costumes, modern. Plays 2-1/2
+hours.
+
+"Three Live Ghosts" is brim full of fun and humor and is sure to keep
+audiences in gales of laughter. The New York critics described it as the
+most ingenious and amusing comedy of the season, genuinely funny. It
+played a fall season in New York, then toured the big cities. A lively
+comedy of merit. Royalty, $25.00. Price, 75 cents.
+
+
+             SAMUEL FRENCH, 25 West 45th Street, New York City
+               New and Explicit Descriptive Catalogue Mailed
+                              Free on Request
+
+                    *       *       *       *       *
+
+
+                                 FRENCH'S
+
+                        Standard Library Edition
+
+
+                            Includes Plays by
+
+Clyde Fitch
+William Gillette
+Augustus Thomas
+George Broadhurst
+Edward E. This
+victory means
+a great deal to the
+workers. Their
+period of
+labor will
+be reduced from fifteen
+hours a day to ten,
+and by the
+new scale
+of wages they
+will be able to
+earn from $10 to $18
+a week, instead
+of from
+$5 to $10 as
+formerly.
+
+The leader of the
+strike,
+Meyer Shoenfeld,
+has been working
+so hard in the
+interests of
+his fellow-laborers that
+he is quite ill.
+At one of the last
+meetings of
+the strikers he
+broke down in
+the midst of a
+speech he was making, and was unable to continue.Rose
+Israel Zangwill
+Henry Bernstein
+Harold Brighouse
+Channing Pollock
+Harry Durant
+Winchell Smith
+Margaret Mayo
+Edward Peple
+A. E. W. Mason
+Charles Klein
+Henry Arthur Jones
+A. E. Thomas
+Fred. Ballard
+Cyril Harcourt
+Carlisle Moore
+Ernest Denny
+Laurence Housman
+Harry James Smith
+Edgar Selwyn
+Augustin McHugh
+Robert Housum
+Charles Kenyon
+C. We told you on page 222 that Guatemala and Costa Rica would be glad
+to enter the federation, but could not do so without the full consent
+of their congresses.
+
+Word has reached us that Guatemala has signed the treaty which makes her
+a part of the new Republic.
+Send a four-cent stamp for our new catalogue
+                        describing thousands of plays.
+
+                                  SAMUEL FRENCH
+
+                      Oldest Play Publisher in the World
+
+           25 West 45th Street                     NEW YORK CITY

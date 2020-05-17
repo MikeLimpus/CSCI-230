@@ -1,0 +1,266 @@
+﻿Some of them are not, however, models of ideal data organization when
+it comes to Internet listings. There are lots of one- or two-person
+operations dealing with an inventory of many thousands of books, and
+having located your book online, you should check that it's still
+available.
+
+You can place an order through the site and wait for the confirmation,
+or you can simply call the bookseller. Not all booksellers' contact
+details are listed, so it's not always an option, but when you do
+phone you're likely to be speaking immediately to someone who can tell
+you for sure whether the book is still there, can pull the book off
+the shelf and answer questions about it, and can take your credit card
+details on the spot and dispatch the book immediately.
+
+
+Copyright Clearance
+
+As soon as your book arrives, send us the information needed for
+Copyright Clearance first. Even if your book is a true-blue,
+no-questions-asked pre-1923 edition, we should know about it as soon
+as possible so that it can go onto the In-Progress list for others to
+see that someone has started on it.
+
+Wait for the confirmation e-mail before starting any serious work.
+Some people have thought that "Copyright 1923" plus some wishful
+thinking would be good enough, and, unfortunately, it isn't. Some
+people have gone ahead and produced the whole book before sending
+in the clearance, only to be disappointed, all their work wasted.
+
+Books published in 1922 or earlier are clearable, but some people,
+ever optimists, overlook that little "1927" in small print on the
+verso. Sometimes there is no copyright date on the front, and other
+optimists assume that these books are OK. They may be; they may not
+be. Don't get caught in the copyright trap.
+
+As soon as you have what you think might be an eligible book, do
+not start on it. Do not ask another volunteer's opinion. Just send
+in the TP&V and wait for the confirmation e-mail to find out for sure.
+
+Even when your TP&V clearly says "Copyright 1901", send it in.
+We need to get it into the clearance files so that we can register
+it as being In-Progress.
+
+
+Producing
+
+If you're a typist, there's not much more you need to know from this
+point: you can just get on with the job, with maybe a few tips from
+the FAQ. In fact, if you're a typist, you might wonder why the rest of
+us make such a fuss about scanners, and settings, and OCR. Take pity
+on us! we just can't produce the way you can. Smile indulgently,
+ignore all the scanner jargon, and submit your completed text while
+we're still saying bad words about the guttering on a greyscale image
+of page 372. :-)
+
+If you are using a scanner to copy a book for the first time, be
+patient with yourself. Some people start off with too high
+expectations of what they can achieve. Believe it or not, scanning
+does work effectively; it just doesn't work perfectly. And often, you
+need a little practice before your scans work right with your OCR. The
+Scanning FAQ [S.1] has lots of specific tips you can try. Start by
+scanning a double-page about a third of the way through the book. Scan
+in Black and White and in Greyscale, at 300dpi and 400dpi. Try 600 dpi
+if it seems like a good idea. Put it through your OCR and see what
+comes out. Move your scanner so that you can be comfortable while
+placing the book and turning pages. Allow yourself an hour to
+experiment with different settings, and different pages. Put the
+sample images included with the Scanning FAQ through your OCR and
+see how the output compares to the text produced by other packages.
+That first hour finding out about how your setup works will be the
+most valuable hour of scanning you will ever do.
+
+Having figured out what settings you want to use for this book, make
+sure you implement the best speed you can. Usually this means telling
+the scanner to scan _only as much area as the book covers_. This is
+quite important, since the scanner will by default scan its whole
+area, and you don't need all that; it just wastes time and makes your
+images bigger.
+
+You may also be able to set your OCR or scanner software to auto-scan
+pages with some preset delay, like 5 seconds. This also speeds things
+up, because the scanner isn't waiting for you to hit the keyboard, and
+you have both hands free at all times to turn the page and replace the
+book. It takes a few pages to get into the rhythm; if you miss a
+page-turn, don't worry--you can get it on the next scan.
+
+Using a reasonably modern but quite ordinary home/office type flatbed
+scanner, you should be able to scan 200 pages an hour [S.9] of a 
+typical book, at good quality. 400 pages an hour is not unheard-of.
+Now, it may fairly be said that scanning offers all the fun of ironing,
+without the sense of adventure :-), but if you have got your settings
+right, you will probably be able to do the whole job in less than two
+hours. And now you're really on the road!
+
+
+V.2. What experience do I need to produce or proof a text?
+
+None.
+
+For producing, you will have to be able to type pretty well, or have
+a scanner.
+
+For proofing someone else's text, when you don't have a copy of the
+book in front of you, you should be reasonably familiar with the
+language used in the book, and the styles of the time--Chaucer's
+English was quite different from ours, and even 19th Century novelists
+write some phrases unfamiliar to us today.
+
+That's it. You don't need experience in publishing, editing, or
+computers.
+
+
+V.3. How do I produce a text?
+
+There are acres of words in this FAQ about that, but it all boils
+down to 4 simple steps:
+
+ 1. Get an eligible book--pre-1923, or one of the exceptions. Pull
+    it from your attic, borrow it from a library or a friend, buy it
+    in your local bookstore, in a flea-market or on-line. We don't
+    care which.
+ 2. Send us a copy or the front and back of the title page so we
+    can file proof of copyright clearance.
+ 3. Copy the text from the book into a computer text file. We don't
+    care whether you type it, scan it, voice-dictate it, or think of
+    some totally new way to do it. Just get it into a file.
+ 4. Send us the computer text file.
+
+That's all there is to it!
+
+
+V.4. Do I need any special equipment?
+
+You need the use of a computer of some kind, and Internet access is
+usual, though we have had some volunteers contribute texts on floppy
+disks.
+
+If you intend to scan books, you will need a scanner, but if you're
+just typing or proofing you won't.
+
+
+V.5. Do I need to be able to program?
+
+Absolutely not! Very little of Project Gutenberg's work involves
+programming, and it is never necessary to any part of volunteering.
+
+
+V.6. I am a programmer, and I would like to help by programming.
+     What can I do?
+
+At the risk of sounding facetious, the very best thing you can do is
+figure out ways that more programming can help Project Gutenberg!
+
+A lot of programmers work on PG books, and anything easy has probably
+already been done. The challenge for programmers who want to write
+something that will help to produce etexts is not in writing the code;
+it's in identifying ways that programs can help.
+
+Please see the FAQ "What programs could I write to help with PG work?"
+[P.2] for some ideas in this direction. Whatever you do, don't just
+hang around waiting for someone to ask you to write something, because
+that's not going to happen. Think up a project, ask volunteers if they
+would use it, and dig in! Better still, produce a few etexts yourself,
+using the existing tools, and get a feel for the kinds of problems
+that new software could help with.
+
+Apart from text production, we do develop some programs to help with
+posting work, but as of mid-2002, we have nothing like an ongoing
+programming project which people can join.
+
+
+V.7. What does a Gutenberg volunteer actually do?
+
+We buy or borrow eligible books, scan, type, and proofread. There are
+a few other activities, but they consume only a very small fraction of
+volunteer time.
+
+
+V.8. Can I produce a book in my own language?
+
+Yes! We want to encourage people to produce books in all languages,
+and we cheer when we can add a new language to the list.
+
+
+V.9. Does it have to be a book? Can I produce pieces from a magazine
+     or other periodical?
+
+Magazines, newspapers, and other publications are just fine. For
+copyright clearance, they work just the same way as a book.
+
+You do need to check the length of your piece [V.17]; we don't want a
+zillion separate one- or two-page files. If the piece you have in mind
+isn't long enough, you can add other pieces to it, or even most or all
+of the magazine. If the work was serialized over multiple issues, you
+can join them together for your PG text, but you do have to copyright
+clear every issue of the magazine from which you copy material.
+
+If you have lots of old periodicals, you could even take one piece
+from several, and make a new text which is a "theme" anthology of
+those pieces. You can give it an appropriate title: "Civil War
+Commentaries from X magazine 1892-1898."
+
+
+V.10. Do I _have_ to produce in plain ASCII text?
+
+Certainly not if it doesn't make sense. To take an extreme example, if
+you're working in Japanese or Arabic, or creating audio files, there
+is no point in trying to reproduce that in ASCII!
+
+Where the text can largely be expressed in ASCII, we do want to post
+an ASCII version, even if it is somewhat degraded compared to the
+original. However, we will post your file in as many open formats as
+you want to create, so that your original work is available for those
+who have the software to read it.
+
+
+V.11. Where do I sign up as a volunteer?
+
+You don't. We have no formal sign-up process, no list of volunteers,
+no roll-call. If you produce a PG eBook, or help to produce one, you
+are a volunteer.
+
+
+V.12. How do PG volunteers communicate, keep in touch, or co-ordinate work?
+
+We are very scattered geographically: U.S., Australia, Brazil, Taiwan,
+Germany, South Africa, Italy, India, England, and all over the world,
+so we can't really meet for coffee on Thursdays. :-)
+
+Most co-operation and co-ordination goes on by private e-mail. This is
+efficient for volunteers who have worked with each other before, since
+they know each other's interests and skills, but not so easy for
+beginners to break in on, since they don't.
+
+The Volunteers' Web Board at <http://promo.net/pg/vol/wwwboard/> is a
+publicly accessible forum for volunteers or potential volunteers to
+post any question or information about how to create a PG eBook.
+
+There are a few Project Gutenberg mailing lists. Information about
+joining them is available on the main site, at 
+<http://promo.net/pg/subs.html>.
+
+The Project Gutenberg Weekly and Monthly Newsletters, gweekly and
+gmonthly, are one-way announcements, which allow PG to communicate with
+non-volunteers who are interested in the eBooks we produce, but they
+also contain notes and requests for assistance from volunteers.
+
+The Volunteers' Discussion Mailing list, gutvol-d, is a an e-mail
+discussion forum for subscribers about any Gutenberg topic.
+
+The Volunteers' List, gutvol-l, is for private announcements for
+active volunteers.
+
+The Programmers' List, gutvol-p, is for discussion of programming
+topics.
+
+There are some other, specialized, closed lists for people who
+do specific work within PG:
+
+The "Posted" List, posted, is for people who perform indexing on our
+texts. An e-mail is sent to this list every time we post a text (see
+the FAQ "How does a text get produced?" [V.16] section 5: Notification)
+and the members of the list use it to update their catalogs.
+
+The Whitewashers' List, pgww, is for Posting Team internal messages.
+

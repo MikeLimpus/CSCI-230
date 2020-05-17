@@ -1,0 +1,300 @@
+﻿Produced by David Starner, Thomas Berger
+and the Online Distributed Proofreading Team
+
+
+Classical Series.
+Edited By Drs. Schmitz And Zumpt.
+
+       *       *       *       *       *
+
+C SALLUSTII CRISPI
+
+DE BELLO CATILINARIO et JUGURTHINO.
+
+       *       *       *       *       *
+
+PREFACE.
+
+The text of Sallust, notwithstanding the many and excellent editions
+which have been published, has not yet acquired a form that can be
+regarded as generally adopted and established; for the number of
+manuscripts is great, and their differences have led critical editors to
+form different opinions as to which, in each case, is the correct
+reading, or at least the one most worthy of acceptation. This difference
+of opinion manifested itself especially after the edition of Gottleib
+Corte (Leipzig, 1724, 4to.), who in many passages abandoned the vulgate
+as constituted by Gruter and Wasse, and on the authority of a few
+manuscripts, altered the text of Sallust, on the mere supposition that
+his style was abrupt. Corte's recension was adopted by many, and often
+reprinted; while others, especially Haverkamp, in his valuable and very
+complete edition (Hague, 1742, 2 vols. 4to.), returned to the vulgate.
+The latest critical editors of Sallust--Gerlach (Basel, 1823, &c. 3 vols.
+4to., and a revised text, Basel, 1832, 8vo.) and Kritz (Leipzig, 1828,
+&c. 2 vols. 8vo.)--though declaring against the arbitrary proceedings of
+Corte, yet very often differ in their texts from each other. Between
+these two stands the edition of the learned critic, J. C. Orelli (Zurich,
+1840), whose text forms the basis of the present edition. But besides
+abandoning his artificial and antiquated orthography, and restoring that
+which is adopted in most editions of Latin classics, we have felt obliged
+in many instances to give up Orelli's reading, and to follow the
+authority of the best manuscripts, especially the Codex Leidensis (marked
+L in Haverkamp's edition). For our explanatory notes we are much indebted
+to the edition of Kritz, though we have often been under the necessity of
+differing from him.
+
+C. G. Zumpt.
+
+Berlin, _May_, 1848.
+
+       *       *       *       *       *
+
+INTRODUCTION.
+
+Caius Sallustius Crispus, according to the statement of the ancient
+chronologer Hieronymus, was born in B. C. 86, at Amiternum, in the
+country of the Sabines (to the north-east of Rome), and died four years
+before the battle of Actium--that is, in B.C. 34 or 35. After having no
+doubt gone through a complete course of law and the art of oratory, he
+devoted himself to the service of the Roman republic at a time when Rome
+was internally divided by the struggle of the opposite factions of
+the _optimates_, or the aristocracy, and the _populares_, or the
+democratical party. The optimates supported the power of the senate, and
+of the nobility who prevailed in the senate; while the populares were
+exerting themselves to bring all public questions of importance before
+the popular assembly for decision, and resisted the influence of
+illustrious and powerful families, whose privileges, arising from birth
+and wealth, they attempted to destroy. Sallust belonged to the latter of
+these parties. In B.C. 52 he was tribune of the people, and took an
+active part in the disturbances which were caused at Rome in that year by
+the open struggles between Annius Milo, one of the optimates, who was
+canvassing for the consulship, and P. Clodius, who was trying to obtain
+the praetorship. Milo slew Clodius on a public road: he was accused by
+the populares, and defended by the optimates; but the judges, who could
+not allow such an act of open violence to escape unpunished, condemned,
+and sentenced him to exile. Pompey alone, who was then consul for the
+third time, was capable of restoring order and tranquillity. The position
+of a tribune of the people was a difficult one for Sallust: he was to
+some extent opposed to Milo, and consequently also to Cicero, who pleaded
+for Milo; but there exists a statement that he gave up his opposition;
+and he himself, in the introduction to his 'Catiline,' intimates that his
+honest endeavours for the good of the state drew upon him only ill-will
+and hatred. Two years later (B.C. 50), he was ejected from the senate by
+the censor Appius Claudius, one of the most zealous among the optimates.
+The other censor, L. Piso, did not protect either Sallust, or any of the
+others who shared the same fate with him, against this act of partiality.
+Rome was at that time governed by the most oppressive oligarchy, which
+was then mainly directed against Julius Caesar, who, as a reward for
+his brilliant achievements in extending the Roman dominion in Gaul,
+desired to be allowed to offer himself in his absence as a candidate for
+his second consulship--a desire which the people were willing to comply
+with, as it was based upon a law which had been passed some years before
+in favour of Caesar; but the optimates endeavoured in every way to oppose
+him, and drawing Pompey over to their side, they brought about a rupture
+between him and Caesar. Sallust was looked upon in the senate as a
+partisan of the latter, and this was the principal reason why he was
+deprived of his seat in the great council of the republic; and L. Piso,
+the father-in-law of Caesar, is said not to have opposed the partiality
+of his colleague in the censorship, in order to increase the number of
+Caesar's partisans. When, in B. C. 49, Caesar established his right by
+force of arms, Sallust went over to him, and was restored not only to his
+seat in the senate, but was advanced to the praetorship in the year B. C.
+47. Sallust served, both before and during his year of office, in the
+capacity of a lieutenant in Caesar's armies. He also accompanied him
+to Africa in the war against the Pompeian party there, and after its
+successful termination, was left behind as proconsul of Numidia, which
+was made a Roman province. In the discharge of his duties, he is said to
+have indulged in extorting money from the new subjects of Rome. He was
+accused, but acquitted. This is the historical statement of Dion Cassius;
+but a hostile writer of doubtful authority mentions that, by paying
+12,000 pieces of gold to Caesar (perhaps as damages for the injury done),
+he purchased his acquittal.
+
+Hereupon Sallust withdrew from public life, to devote his leisure to
+literature, and the composition of works on the history of his native
+country; for, as after the murder of Caesar, in B. C. 44, the republic
+was again delivered over to a state of military despotism, peaceful
+advice was deprived of its influence. It need hardly be mentioned that
+Sallust, as he had qualified himself for the highest political career,
+and the great offices of the republic, must have been possessed of an
+independent property; but the statement, that he afterwards gave himself
+up to a life of luxury--that he purchased a villa at Tibur, which had
+formerly belonged to Caesar--and that he possessed a splendid mansion,
+with a garden laid out with elegant plantations and appropriate
+buildings, at Rome, near the Colline gate--is founded on the equivocal
+authority of a writer of a late period, who was hostile to him. It is
+indeed certain that there existed at Rome _horti Sallustiani_, in
+which Augustus frequently resided, and which were afterwards in the
+possession of the Roman emperors; but it is doubtful as to whether they
+had been acquired and laid out by our historian, or by his nephew, a
+Roman eques, and particular favourite of Augustus. The statement that
+Sallust married Terentia, the divorced wife of Cicero, is still more
+doubtful, and probably altogether fictitious.[1] There is, however, a
+statement of a contemporary, the learned friend of Cicero, M. Varro,
+which cannot be doubted--that in his earlier years Sallust, in the midst
+of the party-strife at Rome, kept up an illicit intercourse with the
+wife of Milo; but how much the hostility of party may have had to do with
+such a report, cannot be decided. In his writings, Sallust expresses
+a strong disgust of the luxurious mode of life, and the avarice and
+prodigality, of his contemporaries; and there can be no doubt that these
+repeated expressions of a stern morality excited both his contemporaries
+and subsequent writers to hunt up and divulge any moral foibles in his
+life and character, especially as in his compositions he struck into a
+new path, by abandoning the ordinary style, and artificially reviving the
+ancient style of composition.
+
+[1] This strange account is found in Hieronymus's first work against
+    Jovinianus, towards the end; and it becomes still more strange by the
+    addition, that Terentia was married a third time to the orator
+    Messalla Corvinus (who was consul with Augustus, B. C. 91):--_Illa_
+    (Terentia) _interim conjunx egregia, et quae de fontibus Tullianis
+    hauserat sapientiam, nupsit Sallustio, inimico ejus, et tertio
+    Messallae Corvino: et quasi per quosdam gradus eloquentiae devoluta
+    est._ It almost appears as if in this tradition it had been
+    intended to mark three phases in the style of Roman oratory, for
+    Sallust was twenty years younger than Cicero, and Messalla nearly
+    as many years younger than Sallust.
+
+The historical works of Sallust are, _De Bello Catilinae_, _De Bello
+Jugurthino_ (or the two _Bella_, as the ancients call them), and
+five books of _Historiae_--that is, a history of the Roman republic
+during the period of twelve years, from the death of Sulla in B. C. 78,
+down to the appointment of Pompey to the supreme command in the war
+against Mithridates in B. C. 66. This history was regarded by the
+ancients as the principal work of our author; but is now lost, with the
+exception of four speeches and two political letters, which some admirer
+of oratory copied separately from the context of the history, and which
+have thus been preserved to our times. The two _Bella_, which are
+preserved entire, form the contents of the present volume.
+
+The work _De Bella Catilinae_ formed the beginning of his historical
+compositions, as is clear from the author's own introduction; but it
+was not written till after the murder of Caesar in B. C. 44. In it he
+describes the conspiracy of L. Sergius Catilina, a man of noble birth and
+high rank, but ruined circumstances; its discovery, and the punishment
+of the conspirators at Rome in B. C. 63; and its final and complete
+suppression in a pitched battle at the beginning of the year B. C. 62.
+
+The _Bellum Jugurthinum_ treats of the life of Jugurtha, who in
+B. C. 118, together with his cousins, Adherbal and Hiempsal, governed
+Numidia. Having crushed his two cousins by fraud and violence, Jugurtha
+afterwards maintained himself in his usurped kingdom for several years
+against the Roman armies and generals that were sent out against him,
+until in the end, after several defeats sustained at the hands of the
+Roman consuls, L. Metullus and C. Marius, his own ally, Bocchus, king of
+Mauretania, delivered him up into the hands of the Roman quaestor,
+L. Sulla.
+
+In the work on the war of Catiline, Sallust reveals especially the
+corruption of what was called the Roman nobility, by tracing the criminal
+designs of the conspirators to their sources--avarice, and the love of
+pleasure. In the history of the Jugurthine war, he particularly exposes
+and condemns the system of bribery in which the leading men of that
+age indulged; but on the other hand, he draws a pleasing contrast in
+describing the restoration of military discipline by Metullus and Marius.
+The difficult campaigns in the extensive and desert country of Numidia,
+and the wonderful events of this war, also deserve the attention of the
+reader; the more so, as the author has bestowed the greatest care on
+giving vivid descriptions of them.
+
+Among the writings of Sallust, which have been transmitted to us in
+manuscripts, and are printed in the larger editions of his works, there
+are two epistles addressed to Caesar, containing the author's opinions
+and advice regarding the new constitution to be given to the republic,
+after the defeat of the optimates and their faction by the dictator. They
+are written in his own peculiar style: the first contains excellent ideas
+and energetic exposures of the general defects and evils in the state,
+as well as plans for remedying them; the second adds some proposals
+regarding the courts of justice, and the composition of the senate,
+the utility and practicability of which appear somewhat doubtful.
+The authenticity of these epistles, therefore, is still a matter of
+uncertainty. Lastly, there are two Declamations (_declamationes_), the
+one purporting to be by M. Cicero against Sallust, and the other by
+Sallust against Cicero; but both are evidently unworthy of the character
+and style of the men whose names they bear, and are justly considered to
+be the production of some wretched rhetorician of the third or fourth
+century of the Christian era.[2] Such declaimers made use of all possible
+reports that were current respecting the moral weaknesses of the two men,
+and respecting an enmity between them, of which history knows nothing,
+and which is contradicted by our author himself, by the praise he
+bestows, in his 'Catilinarian War,' upon Cicero.
+
+[2] It has indeed been said that Quinctilian, who wrote about the year 95
+    after Christ, cites passages from these Declamations; but critical
+    investigation has shown that these passages are interpolations, and
+    are found only in the worst manuscripts.
+
+Sallust's character as an historian, and his grammatical style, have
+been the subjects of contradictory opinions even among the ancients
+themselves--both his own contemporaries, and the men of succeeding ages.
+Some condemned his introductions, as having nothing to do with the
+works themselves; found fault with the minute details of the speeches
+introduced in the narrative; and called him a senseless imitator, in
+words and expressions, of the earlier Roman historians, especially of
+Cato. Others praised him for his vivid delineations of character, the
+precision and vigour of his diction, and for the dignity which he had
+given to his style by the use of ancient words and phrases which were no
+longer employed in the ordinary language of his own day. But however
+different these opinions may appear, there is truth both in the censure
+and in the praise, though the praise no doubt outweighs the censure;
+and the general opinion among the later Romans justly declared _primus
+Romana Crispus in historia_. It is obvious that it is altogether unjust
+to say that his introductions are unsuitable, and that the speeches he
+introduces are inappropriate: for an author must be allowed to write a
+preface to make an avowal of his own sentiments; and the speeches are
+inseparably connected with the forms of public life in antiquity: they
+are certainly not too long, and express most accurately, both in
+sentiment and style, the characters of the great men to whom the author
+assigns them. We have no hesitation in declaring that the speeches in the
+Catiline and Jugurtha, as well as those extracted from the _Historiae_,
+are the most precious specimens of the kind that have come down to us
+from antiquity.
+
+As regards the grammatical style and the imitation of earlier authors,
+for which Sallust has been blamed by some, and praised by others, it must
+be observed that he is the first among the classical authors extant in
+whose works we perceive a difference between the refined language of
+public life, such as we have it in Cicero and Caesar, and a new and
+artificially-formed language of literature. Cicero and Caesar wrote just
+as a well-educated orator of taste spoke: after the death of Caesar,
+oratory began to withdraw from the active scenes of public life; and
+there remained few authors who, following the practical vocation of an
+orator, though at an unfavourable epoch, yet observed the principle
+which is generally correct--that a man ought to write in the same manner
+in which well-bred people speak. But most men of talent who devoted
+themselves to written composition for the satisfaction of their own
+minds, or for the instruction of their contemporaries, created for
+themselves a new style, such as was naturally developed in them by
+reading the earlier authors, and through their own relations to their
+readers and not hearers. Livy clung to the language, style, and the
+full-sounding period of the oratorical style, though even he in many
+points deviated from the natural refinement of a Caesar and a Cicero;
+but Sallust gave up the oratorical period, divided the long-spun,
+full-sounding, and well-finished oratorical sentence into several short
+sentences; and in this manner he seemed to go back to the ancients, who
+had not yet invented the period: but still there was a great difference
+between his style, in which the ancient simplicity was artificially
+restored, and the genuine ancient sentence formed without any rhetorical
+art. He wrote without periods, because he would not write otherwise, and
+not because he could not; he divided the rhetorical period into separate
+sentences, because it appeared to him advantageous in his animated
+description of minute details; and he wrote concisely, because he did
+not want the things to fill up his sentences which the orator requires
+to give roundness and fulness to his periods. He states in isolated
+independent sentences those ideas and thoughts which the orator
+distributes among leading and subordinate sentences; but he did all this
+consciously, as an artist, and with the conviction that it was conducive
+to historical animation. Tacitus was his imitator in this artificial
+historical style; and notwithstanding all his well-deserved praise, it
+must he admitted that the blame cast upon Sallust attaches in a still
+higher degree to Tacitus. It is a fact beyond all doubt, that Sallust
+introduced into the language of literature antiquated forms, words, and
+expressions; and this arose from a desire to recall with the ancient
+language also the ancient vigour and simplicity. But even this revival of
+what was ancient is visible only here and there, and all such words and
+phrases might be exchanged for others and more customary ones, without
+depriving Sallust of his essential characteristics; for these consist in
+a vivid perception of the important moments of an action, in placing them
+in strong contrasts, to excite his readers, and in the effect produced by
+isolated sentences simply put in juxtaposition without the artifice of a
+polished and intricate period.
+

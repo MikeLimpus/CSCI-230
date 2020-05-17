@@ -1,0 +1,739 @@
+﻿Produced by Joe Longo and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+UNITED STATES PATENT OFFICE
+
+THE CLASSIFICATION OF PATENTS
+
+[Illustration: Department of the Interior]
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1915
+
+
+PREFATORY NOTE.
+
+
+Parts A and B of the following pages are designed to acquaint all
+persons using the Patent Office classification with the principles upon
+which the reclassification is proceeding.
+
+Part C consists of a few tentative rules advanced with the notion of
+fixing classification practice within the office in certain doubtful
+cases.
+
+Part D is intended to inform examiners reclassifying within examining
+divisions respecting the initial procedure in reforming a class.
+
+
+CONTENTS.
+
+
+                                                                Page.
+
+A. Introduction.                                                    1
+
+  Past classifications of the U. S. Patent Office.                  1
+
+  Beginning of revision.                                            2
+
+  Precedents and authorities.                                       3
+
+  Definition of scientific classification.                          4
+
+B. Principles of the new classification of the Patent Office.       4
+
+  Elements of a Patent Office classification.                       4
+
+    Basis of classification.                                        5
+
+      Art as a basis.                                               5
+
+      Function or effect as a basis.                                7
+
+      Structure as a basis.                                         8
+
+    Division and arrangement.                                       9
+
+      Infinitude of possible combinations.                         10
+
+      Division and arrangement in the natural sciences.            10
+
+      Difficulty of entitling a subclass corresponding to every
+        combination.                                               11
+
+      Expedients to reduce the number of subdivisions.             12
+
+      Superiority and inferiority.                                 15
+
+      Definite positional relationship of subdivisions.            16
+
+      Indented schedules.                                          17
+
+      Bifurcate division.                                          19
+
+      Utility of arrangement according to resemblances.            19
+
+    Definition.                                                    20
+
+    Cross-references and search-notes.                             21
+
+    Diagnosis to determine classification.                         22
+
+      Claimed or unclaimed disclosure.                             22
+
+      Diagnosis of pending applications.                           23
+
+      Difficulties due to varying ideas of claims.                 25
+
+C. Rules of classification.                                        26
+
+  Basis of classification.                                         26
+
+     1. "Art" as the basis.                                        26
+
+     2. Operative or manipulative arts.                            26
+
+     3. Structures.                                                26
+
+     4. Composition of matter and formed stock.                    26
+
+  Division and arrangement.                                        27
+
+     5. Exhaustive division; miscellaneous subclass.               27
+
+     6. Subclasses not to overlap.                                 27
+
+     7. Subclasses of any group to be formed on one basis.         27
+
+     8. Apparent exception to rules 6 and 7.                       27
+
+     9. Relative position of subclasses.                           27
+
+    10. Indention of subclasses.                                   29
+
+    11. Different kinds of titles for subclasses.                  29
+
+    12. Arrangement to limit search and cross references.          30
+
+  Definition.                                                      30
+
+    13. Tentative definition.                                      30
+
+    14. How to define.                                             30
+
+    15. Explanatory notes may sometimes displace definition.       31
+
+  Cross-references and search-notes.                               31
+
+    16. Impossibility of cross-referencing all disclosures.        31
+
+    17. Occasion and direction of cross-referencing.               31
+
+    18. Occasion and scope of search-notes.                        32
+
+  Diagnosis to determine classification.                           32
+
+    19. Patents diagnosed by claimed disclosure.                   32
+
+    20. Patents diagnosed by most intensive claim.                 33
+
+    21. Exception to rule 19, claim, for a part of a disclosed
+      combination.                                                 33
+
+    22. Exception to rule 19, claims for a part of a disclosed
+      combination.                                                 33
+
+    23. Exception to rule 19, generic combination old as matter
+      of common knowledge.                                         34
+
+    24. Exception to rule 19, article of manufacture defined
+      only by material.                                            34
+
+    25. Exception to rule 19, utilizing a composition.             34
+
+    26. Exception to rule 19, utilizing a machine.                 34
+
+    27. Patents having claims for several different
+      inventions.                                                  35
+
+    28. General rule of superiority between statutory kinds of
+      invention.                                                   35
+
+    29. Exception to rule 28.                                      35
+
+    30. Process and apparatus.                                     36
+
+    31. Article of manufacture and instrument for making a part
+      of it or performing any minor act relative thereto.          36
+
+    32. Process and product where search for the process would
+      have to be made among machines.                              36
+
+    33. Process and product where search for the process would
+      have to be made among products.                              36
+
+    34. Process of making a composition and the composition
+      where the process is peculiarly adapted to make the
+      composition.                                                 37
+
+    35. Article of manufacture or composition and process for
+      making one of the parts of the article or ingredients of
+      the composition.                                             37
+
+D. Procedure in reclassifying within examining divisions.          37
+
+  1. General attitude.                                             37
+
+  Procedure involving only cursory scrutiny of familiar patents--
+
+    2. Consider wholes in forming tentative subdivisions of
+      subclasses.                                                  38
+
+    3. Write tentative definitions of subdivisions.                38
+
+    4. Consider the significance of analogies found to traverse
+      parts of two or more existing subclasses.                    38
+
+    5. Arrange groups on parallel or accordant lines where
+      practicable.                                                 38
+
+    6. Watch for subcombinations deserving separate
+      recognition.                                                 38
+
+    7. Consider whether the groups collectively will constitute
+      a proper class and their best correlation.                   38
+
+  Procedure involving rigorous analysis--
+
+    8. Diagnose each patent for original classification.           39
+
+    9. Group and consider the disposition of patents deemed
+      foreign to the class.                                        39
+
+    10-15. Consider and indicate cross-referencing within
+      and to and from the class.                               39, 40
+
+  Note.                                                            40
+
+
+THE CLASSIFICATION OF PATENTS
+
+(A) INTRODUCTION.
+
+
+Classification lies at the foundation of the mental processes. Without
+the power of perceiving, recognizing resemblances, distinguishing
+differences in things, phenomena and notions, grouping them mentally
+according to those resemblances and differences, judgment is impossible,
+nor could reason be exercised in proceeding from the known to the
+unknown.
+
+       *       *       *       *       *
+
+The facilitation and abbreviation of mental labor is at the bottom of
+all mental progress. The reasoning faculties of Newton were not
+different in qualitative character from those of a ploughman; the
+difference lay in the extent to which they were exerted and the number
+of facts which could be treated. Every thinking being generalizes more
+or less, but it is the depth and extent of his generalizations which
+distinguish the philosopher. Now it is the exertion of the classifying
+and generalizing powers which thus enables the intellect of man to cope
+in some degree with the infinite number and variety of natural phenomena
+and objects. (Jevons, Principles of Science.)
+
+
+PAST CLASSIFICATIONS OF UNITED STATES PATENT OFFICE.
+
+As under the patent laws the people of the United States assume all the
+risks in granting a patent for any means of the "useful arts," a
+classification that will facilitate a judgment respecting the
+patentability of any means presented to the Patent Office is of peculiar
+moment. The enormous extent, diversity, and refinement of the useful
+arts preclude the formation of a judgment on novelty within a reasonable
+time, unless the necessary comparisons with known processes and
+instruments have been previously made along the lines that searches must
+follow and the results of such comparisons made available in a
+classification. The vast majority of available disclosures of the arts
+occur in patents. Hence the Patent Office classification must be
+adjusted in the main to the analysis, diagnosis, and orderly arrangement
+of the disclosures of patents.
+
+For more than 80 years United States patents have been classified. The
+first published classification, promulgated in 1830, comprised 6,170
+patents, divided into 16 classes. The change from a registration to an
+examination system in 1836 instigated a new classification in 22
+classes, including 9,800 patents. The next came in 1868 with 36 classes,
+including about 75,000 patents. On March 1, 1872, a revised
+classification was adopted, comprising 145 classes, including 131,000
+patents. This classification is said to have been planned by Dr. Edward
+H. Knight. The placing of the patents in accordance with the schedule of
+classes is said to have been done by the several examiners. The class
+arrangement was purely alphabetical by class titles, and the number
+designations followed the alphabetical order. The names of things to be
+found in the several classes were arranged alphabetically under each
+class title. No attempt was made to bring the titles of allied materials
+into juxtaposition or to effect other definite arrangement with
+reference to subject matter in the printed schedules. A consolidated
+name index supplemented the list of names by classes.
+
+This classification of 1872 is in part the classification that now
+exists, many of the same class numbers and titles being still in use.
+Examiners were apparently permitted to make changes in classification to
+suit their convenience without notice until 1877. In that year a
+revision of the published schedule was made by a committee, resulting in
+the addition of 13 new classes, and examiners were ordered to transfer
+patents in accordance with the new titles. The first classification
+published with distinct subclasses appeared in 1880. From that time
+until 1898 the classification grew by addition and subdivision of
+classes to suit the ends of individual examiners or in response to
+supposed exigencies of the work where one division was thought to be
+overloaded and another underloaded, and the alphabetical arrangement of
+subclasses under each class has succeeded the alphabetical list of
+names. The arbitrary correspondence originally established between the
+alphabetical order of class titles and the numerical order was destroyed
+as soon as expansion of the classification began.
+
+However suitable to the then-existing material of the useful arts the
+classification of 1872 may have been, it failed as fail all inductive
+processes wherein the generalizations are not broad and deep. (Isaac
+Newton's intellect could detect the resemblance between the falling
+fruit and the motions of the planets.) The classification of 1872 was
+not exhaustive; it failed to recognize to the fullest extent what Bishop
+Wilkins saw nearly 300 years ago, to wit, that there are "arts of arts;"
+and it failed to provide for future invention of new species in the same
+art, and to recognize that new arts could be formed from combinations of
+the old.
+
+
+BEGINNING OF REVISION.
+
+The Classification Division was created in the hope that guiding
+principles of classification could be developed and applied for the
+purpose of amending or revising the classification whereby patents could
+be placed with greater assurance, and whereby the searcher with these
+guiding principles in mind might find the nearest references. It was
+confronted with the problem of revising while at the same time keeping
+accurate record of all changes, correcting all indexes of patents, and
+using copies in constant demand for search at the same time,
+necessitating much clerical work, and constant interruption--of
+correcting rather than planning anew; of mending a machine while
+constantly increasing duty was required of it.
+
+Ideas on the subject of revision were called for by the Commissioner of
+Patents, and all in the Patent Office had an opportunity to set forth
+their notions. The views of one met with approval and in accordance with
+those views a "Plan of Classification" was prepared and promulgated in
+1900. What other plans may have been submitted is not now generally
+known. But in substantial accordance with that published plan, the
+process of revision has proceeded for more than 14 years until
+approximately 50 per cent of the patents (including incomplete work)
+have been placed in revised classes.
+
+
+PRECEDENTS AND AUTHORITIES.
+
+No effective precedents have been found in any prior classifications of
+the arts. The classifications of the principal foreign patent offices
+have not been materially different in principle from the United States
+Patent Office classifications of the past.
+
+The divisions found suitable for book classification for library use,
+have not been deemed adequate to the exactness and refinement essential
+to a patent office classification of the useful arts. The systems of
+class and subclass sign or number designations of the modern library
+classifications, with their mnemonic significance, afford the most
+important suggestions to be drawn from library classification. None of
+these systems of designation has been adopted, (1) because of a serious
+doubt as to the availability of such designations by reason of the
+length or unwieldiness to which they would attain in the refinements of
+division necessary in a patent office classification, and (2) because of
+the enormous amount of labor necessary to make the change from present
+practice.
+
+The best analogies are in the known (but changing) classifications of
+the natural sciences, and in them the problems are so different that
+they can serve only to illustrate general principles. The broad
+principles of classification are well understood. The authorities are
+the logicians from the ancient Aristotle to the modern Bentham, Mill,
+and Jevons. The effort of the Classification Division has been to adapt
+and apply these well-known principles to the enormously diversified
+useful arts, particularly as disclosed in patents and applications for
+patents.
+
+DEFINITION OF SCIENTIFIC CLASSIFICATION.
+
+It may be well to insert here an authoritative definition: "A scientific
+classification is a series of divisions so arranged as best to
+facilitate the complete and separate study of the several groups which
+are the result of the divisions as well as of the entire subject under
+investigation." (Fowler, Inductive Logic.)
+
+Investigation and study of any subject will be facilitated if the facts
+or materials pertinent to that subject be so marshaled and arranged that
+those most pertinent to it may appear to the mind in some form of
+juxtaposition. It is the purpose of the Patent Office classification to
+divide and arrange the body and multitudinous units of the useful arts
+so that, having the question of novelty of any defined means to answer,
+one may with reasonable assurance approach that portion of the rank of
+arts in which it will be found if it is not new, and in propinquity to
+which will also be found those means that bear the closest resemblances
+to that sought for, the resemblances of other units growing less in
+proportion to their distance therefrom.
+
+Success in the fundamental aim of facilitating adequate search should
+evidently at the same time reduce proportionately the danger that
+interfering applications will be overlooked and also effect a
+distribution of labor favorable to the acquisition of special skill.
+
+
+(B) PRINCIPLES OF THE NEW CLASSIFICATION OF THE PATENT OFFICE.
+
+THE ELEMENTS OF A PATENT OFFICE CLASSIFICATION.
+
+
+A classification will be useful in proportion (1) to the pertinence to
+the subject under investigation of the facts selected to be grouped
+together, or, in other words, in proportion to the appropriateness of
+the "basis of classification" to the subject in hand; (2) to the
+convenience, stability, and uniformity of the arrangement of the
+subdivisions whereby the investigator may proceed with reasonable
+assurance to that portion of the rank of groups within which he will
+find cognate material; (3) to the accuracy and perspicuity of the
+definitions of the several divisions and subdivisions; (4) to the
+completeness and reliability of the cross-referencing and
+cross-notations; (5) to the uniformity, feasibility, and certainty of
+the rules by which the accessions of patents disclosing one or several
+inventions may be diagnosed and distributed to the appropriate divisions
+of the classification in accordance with the basis adopted.
+
+Corresponding to the foregoing analysis the theory of Patent Office
+classification may be treated in five parts: (1) The principles on which
+the arts shall be divided (basis of classification); (2) subdivision and
+mechanical arrangement of groups; (3) definition; (4) cross-referencing
+and search-notes; (5) the choice of features by which a patent shall be
+assigned in the classification (diagnosis).
+
+
+BASIS OF CLASSIFICATION.
+
+The first and most vital factor in any system of classification is the
+basis of division, that is, the kind of characteristics common to any
+number of objects selected to characterize groups, whereby the
+individuals of any group will resemble each other for the purpose in
+view more closely than any individual in any group will resemble any
+individual in any other group.
+
+"There is no property of objects which may not be taken, if we please,
+as the foundation for a classification or mental grouping of those
+objects, and in our first attempts we are likely to select for that
+purpose properties which are simple, easily conceived, and perceptible
+in a first view without any previous process of thought--but these
+classifications are seldom much adapted to the ends of that
+classification which is the subject of our present remarks." (J. S.
+Mill, System of Logic.)
+
+It is clear that a number of objects may be classified on several
+different bases. For example, a number of books could be divided into
+groups (1) according to the subject of their contents; (2) according to
+the language in which the books are written; (3) according to the size
+of page; (4) according to the binding material; or (5) according to the
+color of the binding. Each of these may be useful classifications for
+some purpose. For the student of literature none is of value except the
+first; for the connoisseur in bindings, only the last three. A
+classification of animals including classes of land animals and water
+animals would hardly suit a student of zoology, as it would associate
+with the shad and perch such differently organized creatures as the
+porpoise, whale, and seal. Yet such a classification might prove very
+suitable for a student of fisheries.
+
+_Art as a basis._[1]--So in seeking a basis for a patent office
+classification the purposes of the classification should be the guide.
+Allegations of ulterior uses[2] (such as may be made merely because the
+inventor thought of applying his invention to those uses only, or in an
+effort to get the application examined in a certain division) and other
+superficial bases should be avoided. That basis will best suit the
+purpose which effects such an arrangement as will exhibit in suitable
+groups the "state of the prior art," by which is here meant not
+necessarily all the instruments of a trade or industry, or all the
+articles sold by a shopkeeper, as a stationer, but those means that
+achieve similar results by the application of similar natural laws[3] to
+similar substances.
+
+As all inventions are made with the ultimate object of satisfying some
+human desire, the utility of an invention appears to be a natural basis
+of classification. It is apparent, however, that most inventions may
+contribute to numerous utilities besides the ultimate one. Many
+processes and instruments intervene between the seed planter and the
+wheaten rolls upon the breakfast table. The plow may be viewed as an
+agricultural instrument or as an instrument of civil engineering,
+according as it is used for preparing the field for planting or rounding
+a road. A radiating coil of pipe may be thought of as a condenser of
+steam or of alcoholic vapors, according as it is applied to one material
+or another; as a cooler or a heater, according to the temperature of a
+fluid circulated through it. A hammer may drive nails, forge iron, crack
+stone or nuts. Underlying all of these ulterior utilities, there is a
+fundamental one to which the normal mind will reach in its natural
+processes and there rest. The plow loosens or turns over the surface of
+earth; the coil effects an exchange of heat between its interior and
+exterior; the hammer strikes a blow. A classification of plows in
+agriculture, road building, or excavating, according to stated ultimate
+use; of a radiator coil as a steam condenser, still, jacket-water
+cooler, refrigerator, or house heater; of the hammer as a forging tool,
+a nail driver, or a nut cracker, appears to separate things that are
+essentially alike. But classifying a plow on its necessary function of
+plowing, a radiator on its necessary function of exchanging heat, a
+hammer on its necessary function of striking a blow, evidently results
+in getting very similar things together. Assuming for the moment that
+utility is a reasonable basis of division of the useful arts, it is
+deemed more logical to adopt as a basis some utility that _must_ be
+effected by the means under consideration when put to its normal use
+rather than some utility that _may_ be effected under _some_ conditions.
+Two of the five predictables of ancient logic are property[4] and
+accident.[5] The capacity of the hammer to strike a blow, the capacity
+of the radiator coil to exchange heat, are in the nature of properties.
+The capacity of the hammer to crack nuts, of the coil to condense steam,
+are in the nature of accidents--something that follows from the impact
+and the heat exchange because of the particular accidental conditions of
+operation. To select an accident as a basis of classification is
+contrary to the laws of thought.
+
+It may be said then that the Patent Office classification is based upon
+"art" in the strict sense in which the word may be said to be used in
+section 4886, Revised Statutes, but not necessarily in the looser sense
+of industries and trades. A proper maintenance of the distinction
+between the word "arts" of the statute and the phrase "industrial arts"
+used in the sense of industries and trades is essential to an effective
+classification for the purposes of a patent office search. Similar
+instruments have been patented in three different classes, because of
+the statements that one was designed for cooling water, another for
+heating water, another for sterilizing milk; in four different classes,
+because of the statements that one apparatus was to separate solids from
+the gases discharged from a metallurgical furnace, another to separate
+carbon from the combustion gases of a steam-boiler furnace, another to
+remove dust and tar from combustible gas, and another to saturate water
+with carbon dioxid. Owing to the continuance of a classification based
+largely on remote use, many applications come into the office setting
+forth inventions of very general application which nevertheless have to
+be classified more or less arbitrarily in one of several arts in which
+they may be used but to which they are not limited.
+
+_Function or effect as a basis._[6]--Means of the useful arts are
+related in different degrees. Resemblances selected as bonds for a
+number of inventions may be more or less close. It is axiomatic that
+close resemblances should be preferred over looser ones for
+classification purposes. Processes and instruments for performing
+general operations, such as moving, cutting, molding, heating, treating
+liquids with gases, assembling, etc., are more closely bonded than those
+for effecting the diverse separate successive operations directed toward
+complex special results, such as making shoes, buttons, nails, etc.
+Means of the former sort perform an essentially unitary act--the
+application of a single force, the taking advantage of a single property
+of matter. Those of the latter sort require the application of several
+different acts employing frequently a plurality of forces or taking
+advantage of several properties of matter. In the former case,
+classification can be based on what has been called function, in the
+latter it cannot be based on function but can be based on what has been
+called effect (or product).
+
+Function is closely related to cause. It is an axiom of logic that cause
+is preferable to effect as a basis of those classifications designed for
+scientific research. Hence the functional basis is preferred in all
+cases in which it can be applied. A condenser for the fumes of zinc is
+much more like a condenser for the fumes of acid or the vapor of water
+than it is like the art of recovering zinc from its ores, and it employs
+only one principle, to wit, heat interchange. A water-jacket for cooling
+the walls of a gas-producer or glass-furnace is much more like a
+water-jacket for cooling the walls of a limekiln or steam-boiler furnace
+than it is like the art of gas-making or manufacture of glass articles.
+In accordance with what are thought to be the correct principles,
+therefore, the zinc-condenser ought not to be classified as a part of
+the art of metallurgy, nor the water-jacket as a part of the art of
+gas-making, merely because these instruments have a use in these arts,
+but should be included, respectively, in classes based upon the more
+fundamental utilities effected by them.
+
+Although it is evident that molding a button is more like molding a
+door-knob than it is like making buttons by the combined operations of
+sawing, grinding, turning, and drilling, wherefore the molding of
+buttons should be classified in a general plastic art rather than in a
+special button-making art, yet the making of buttons by a plurality of
+different kinds of operations can be placed only in a class based upon
+the product, to wit, button-making. Since, therefore, the combination of
+many different operations for the production of a specific article can
+not be classified on the basis of any single function, it must be
+classified on the basis of product. Thus by selecting essential function
+as a basis when possible, and resulting effect when the functional basis
+is not possible, one may approximate to the correct classification
+described by Herbert Spencer as follows: "A true classification includes
+in each class those objects that have more characteristics in common
+with one another than any of them have with objects excluded from the
+class."[7]
+
+So it is deemed better to classify in accordance with the function or
+effect it is known a means _must_ perform or accomplish than in
+accordance with the _object_ with respect to which an act or acts are
+directed or in accordance with some _effect_ which may or may not
+result.
+
+_Structure as a basis._--The phrase "structural classification" is
+frequently made use of. The application of the phrase to processes is
+manifestly absurd. The Patent Office never had a structural
+classification except in a limited sense. How could a machine, for
+example, be classified on structure, leaving out of consideration its
+function and the effect of its normal operation? In the refinements of
+subdivision however, it becomes frequently desirable to form minor
+subdivisions on structural differences. And it may also be that
+instruments will be presented for classification that are of such
+general utility as to baffle the efforts of the intellect to attain to
+the fundamental and necessary function, in which case a
+structure-defined class may best suit the needs of classification.
+
+As between a classification based upon structure and one based upon
+utility, the choice has been for the latter, without prejudice, however,
+to instances that may arise in favor of the former.
+
+The subject of structural classification will be dropped with a
+quotation from the original pamphlet "Plan of Classification," etc. (p.
+5): "A purely 'structural' classification is almost impossible on
+account of the infinite variety of mechanical combinations, and to
+attempt it would probably result in utter confusion, for the classes
+could not be defined, and the classification would be a mere digest of
+mechanical elements having no community of function."
+
+
+DIVISION AND ARRANGEMENT.
+
+Having divided the aggregate of things to be classified into a large
+number of groups on a satisfactory basis, a most useful work will have
+been accomplished and the purpose of a classification to assemble the
+things most nearly alike and separate them from other things will have
+been partially achieved. Unless these numerous groups are arranged in
+some definite understandable relation to each other, or are placed in
+definite known positions where they can be found, the mere formation of
+the groups, on however good a basis, is not a complete classification.
+Furthermore, unless the position of each group with respect to those
+other groups that resemble it in whole or in part is made known, he who
+wishes to find other related matter must seek aimlessly with no
+assurance that his quest will end until the whole series shall have been
+investigated. Each classified group is metaphorically a pigeonhole to
+contain similar material. If the pigeonholes are properly labeled, one
+can ultimately locate those that contain the matter he is seeking if he
+knows the name that has been applied to it. If the pigeonholes are
+arranged in alphabetical order, for example, he may find all related
+material, _provided he knows the name of every related group of
+material_, even though very similar things may bear names as far apart
+as A and Z. But if all things were so placed that, adjacent and in
+certain fixed relation to each pigeonhole, other related matter could be
+found, the resemblances lessening in proportion to the separation, and
+if the entire area of pigeonholes were divided, and certain areas
+assigned to certain kinds of things defined in general terms, guessing
+the location of and desultory search for things that may have different
+names, but yet be very much alike, would be lessened and all cognate
+material be bunched. A second vital factor of a system of
+classification, therefore, is the arrangement of the groups.
+
+_Infinitude of possible combinations._--There are now over 1,125,000
+United States patents, each presumptively covering a creation of the
+useful arts that is different from every other. Most of these patents
+also disclose a plurality of elements or acts. Each of these patented
+means is potentially an element of a more complex combination that may
+be patented. When one considers merely the number of forms of energy,
+the number of known substances and known mechanical elements, and
+attempts to figure possible combinations and permutations, it becomes
+apparent that the size of the numbers resulting is incomprehensible.
+Consider the possibilities of combination also of the enormously varied
+disclosures of patents. Calculations of the possible combinations and
+permutations of a small number of objects are familiar. Different
+combinations of the letters of the alphabet are sufficient to record the
+sum of human knowledge in many languages. With substantially two octaves
+of the diatonic scale the world's melodies have been sounded, nor do any
+doubt that our successors will thrill to airs that we have never heard.
+"Thirty metals may be combined into 435 binary alloys, 4,060 ternary
+alloys, 27,405 quaternary alloys" (Jevons). This does not take into
+consideration differences in proportion that figure so largely in
+results in the arts of substance-making. The total number of possible
+alloys of the known metals is incomprehensible. A moment's thought
+respecting the numbers of the means of the useful arts will alleviate
+any fears that the possibilities of invention are near the limit and
+will give food for further thought to all concerned with this attempt to
+classify the useful arts to the point of refinement necessary to enable
+this office to pass judgment with reasonable speed and accuracy upon the
+approximately 75,000 applications filed each year.
+
+_Division and arrangement in the natural sciences._--Some of the natural
+sciences are said to be in what is known as the classificatory stage of
+development. In some sciences the subject of classification has been
+predominant and these furnish excellent examples of scientific
+classification.
+
+The much-admired classifications of zoology, botany, and mineralogy are
+among the best available models of logical division,[8] systematic and
+analytical arrangement. The most casual consideration of these
+classifications, however, renders apparent the relative simplicity of
+the task of classifying natural objects differentiated by fixed natural
+laws as compared with the task of classifying the products of the
+creative and imaginative faculties as applied to the useful arts. The
+chimera and other animal monsters occur only as figments of the mind.
+Zoological classification does not have to classify combinations of
+birds, fishes, reptiles, and mammals, nor does it deal in the way of
+classification with the parts of animals, nor is the question of
+absolute numbers of instances a matter of moment to such a
+classification, all of the members of a species being alike for
+classification purposes. But any instrument of the useful arts may be
+combined with some other, any part with some other part. Organizations
+may be parts of some other organizations, or even mutually parts of each
+other, as, for example, a pump may be a part of a lubricator, or a
+lubricator may be a part of a pump. Some parts are peculiar to one
+instrument, some are common to many. Every member of a species differs
+from every other member. Added to this, the intellectual differences
+between the persons who present the applications for patent, the
+differences in their generalizing powers, the relatively broad and
+narrow views of two or more persons presenting the same invention
+(variations not indulged in by nature) complicate the problem of
+classifying the useful arts.
+
+_Difficulty of entitling a subclass corresponding to every
+combination._--In any main class or group of the useful arts there are
+always a number of characteristics that it may be desirable to take note
+of in subdivision titles. A moment's thought shows the impossibility of
+taking care of any large number of combined characteristics so as to
+provide exactly for each combination, for the reason that the
+limitations of space and of the perceptive faculties forbid. For a
+simple illustration, the imaginary classification of books for use by a
+bookseller may be recurred to. The dealer, it may be assumed, has books
+on (1) four different subjects, history, science, art, and fiction, (2)
+each printed in four languages, English, German, French, Spanish, (3) in
+four different sizes of page, folio, quarto, octavo, duodecimo, (4)
+bound in four materials, leather, rawhide, cloth, paper. Here are four
+main characteristics, each in four varieties. A customer is likely to
+ask for Ivanhoe in English, octavo, bound in leather. Now if the
+bookseller had sought to arrange the books into one class according to
+subject matter, into another according to language, another according to
+size, another according to binding, he would have fallen into confusion,
+because his classes would be formed on different principles or bases and
+overlap. Some histories will be in French, some will have octavo pages,
+and some cloth bindings. But if he divides first on the basis of subject
+matter, then each subject matter into language, each language book into
+sizes, each size into material of binding, he can immediately place his
+hand on a class wherein the book will be if he has it; but this
+classification, based on four different characteristics and four
+varieties of each, has necessitated the formation of 256 classes or
+divisions, and if five characteristics were provided for, 1,024
+divisions would be required.
+
+Adapting the illustration of the books to a patent office
+classification: If it were possible to view these characteristics as
+patentable in combinations of all or in any combinations less than all,
+and also as separate characteristics, 16 divisions additional to the 256
+for each independent characteristic would have to be provided, as well
+as other divisions for combinations of less than the whole, in order to
+make the classification absolutely indicative of every feature, and the
+number of divisions would be enormous. In such a classification, after
+the proper division had been located, the search would be nothing, the
+difficulty would be to find the appropriate class.
+

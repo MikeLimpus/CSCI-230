@@ -1,0 +1,457 @@
+﻿Produced by Sandra K. Perry, with corrections and
+supplementation by David McClamrock
+
+
+SUMMA THEOLOGICA
+
+PART II-II ("Secunda Secundae")
+
+Translated by
+Fathers of the English Dominican Province
+
+BENZIGER BROTHERS
+NEW YORK
+________________________
+
+DEDICATION
+
+To the Blessed Virgin
+Mary Immaculate
+Seat of Wisdom
+________________________
+
+NOTE TO THIS ELECTRONIC EDITION
+
+The text of this electronic edition was originally produced by Sandra
+K. Perry, Perrysburg, Ohio, and made available through the Christian
+Classics Ethereal Library <http://www.ccel.org>. I have eliminated
+unnecessary formatting in the text, corrected some errors in
+transcription, and added the dedication, tables of contents,
+Prologue, and the numbers of the questions and articles, as they
+appeared in the printed translation published by Benziger Brothers.
+Each article is now designated by part, question number, and article
+number in brackets, like this:
+
+> SECOND ARTICLE [I, Q. 49, Art. 2]
+
+> Whether the Supreme Good, God, Is the Cause of Evil?
+
+In a few places, where obvious errors appeared in the Benziger
+Brothers edition, I have corrected them by reference to a Latin text
+of the _Summa._ These corrections are indicated by English text in
+brackets. For example, in Part I, Question 45, Article 2, the first
+sentence in the Benziger Brothers edition begins: "Not only is it
+impossible that anything should be created by God...." By reference
+to the Latin, "non solum _non_ est impossibile a Deo aliquid creari"
+(emphasis added), this has been corrected to "Not only is it [not]
+impossible that anything should be created by God...."
+
+This electronic edition also differs from the Benziger Brothers
+edition in the following details (as well as the obvious lack of the
+original page numbers and headers):
+
+* The repetitive expression "We proceed thus to the [next] Article"
+does not appear directly below the title of each article.
+
+* Italics are represented by underscores at the beginning and end,
+_like this._ Quotations and other "quotable" matter, however, are
+ordinarily set off by quotation marks with no underscores in this
+edition, in accordance with common English usage, even where they
+were set in italics with no quotation marks in the Benziger Brothers
+edition. Titles of books are set off by underscores when they appear
+in the text with no parentheses, but not when the books are cited in
+parentheses.
+
+* Bible chapters and verses are cited with arabic numerals separated
+by colons, like this: "Dan. 7:10"--not like this: "Dan. vii. 10."
+Small roman numerals have been retained where they appear in
+citations to books other than the Bible.
+
+* Any matter that appeared in a footnote in the Benziger Brothers
+edition is presented in brackets at the point in the text where the
+footnote mark appeared.
+
+* Greek words are presented in Roman transliteration.
+
+* Paragraphs are not indented and are separated by blank lines.
+
+* Numbered topics, set forth at the beginning of each question and
+at certain other places, are ordinarily presented on a separate line
+for each topic.
+
+* Titles of questions are in all caps.
+
+Anything else in this electronic edition that does not correspond to
+the content of the Benziger Brothers edition may be regarded as a
+defect in this edition and attributed to me (David McClamrock).
+
+________________________
+
+CONTENTS
+
+SECOND PART OF THE SECOND PART (QQ. 1-189)
+
+Question
+
+1.   Of Faith
+2.   Of the Act of Faith
+3.   Of the Outward Act of Faith
+4.   Of the Virtue Itself of Faith
+5.   Of Those Who Have Faith
+6.   Of the Cause of Faith
+7.   Of the Effects of Faith
+8.   Of the Gift of Understanding
+9.   Of the Gift of Knowledge
+10.  Of Unbelief in General
+11.  Of Heresy
+12.  Of Apostasy
+13.  Of the Sin of Blasphemy, in General
+14.  Of Blasphemy Against the Holy Ghost
+15.  Of the Vices Opposed to Knowledge and Understanding
+16.  Of the Precepts of Faith, Knowledge, and Understanding
+17.  Of Hope, Considered in Itself
+18.  Of the Subject of Hope
+19.  Of the Gift of Fear
+20.  Of Despair
+21.  Of Presumption
+22.  Of the Precepts Relating to Hope and Fear
+23.  Of Charity, Considered in Itself
+24.  Of the Subject of Charity
+25.  Of the Object of Charity
+26.  Of the Order of Charity
+27.  Of the Principal Act of Charity, Which Is to Love
+28.  Of Joy
+29.  Of Peace
+30.  Of Mercy
+31.  Of Beneficence
+32.  Of Almsdeeds
+33.  Of Fraternal Correction
+34.  Of Hatred
+35.  Of Sloth
+36.  Of Envy
+37.  Of Discord, Which Is Contrary to Peace
+38.  Of Contention
+39.  Of Schism
+40.  Of War
+41.  Of Strife
+42.  Of Sedition
+43.  Of Scandal
+44.  Of the Precepts of Charity
+45.  Of the Gift of Wisdom
+46.  Of Folly Which Is Opposed to Wisdom
+
+TREATISE ON PRUDENCE AND JUSTICE
+
+47.  Of Prudence Considered in Itself
+48.  Of the Parts of Prudence
+49.  Of Each Quasi-integral Part of Prudence
+50.  Of the Subjective Parts of Prudence
+51.  Of the Virtues Which Are Connected with Prudence
+52.  Of the Gift of Counsel
+53.  Of Imprudence
+54.  Of Negligence
+55.  Of Vices Opposed to Prudence by Way of Resemblance
+56.  Of the Precepts Relating to Prudence
+57.  Of Right
+58.  Of Justice
+59.  Of Injustice
+60.  Of Judgment
+61.  Of the Parts of Justice
+62.  Of Restitution
+63.  Of Respect of Persons
+64.  Of Murder
+65.  Of Injuries Committed on the Person
+66.  Of Theft and Robbery
+67.  Of the Injustice of a Judge, in Judging
+68.  Of Matters Concerning Unjust Accusation
+69.  Of Sins Committed Against Justice on the Part of the Defendant
+70.  Of Injustice with Regard to the Person of the Witness
+71.  Of Injustice in Judgment on the Part of Counsel
+72.  Of Reviling
+73.  Of Backbiting
+74.  Of Tale-Bearing
+75.  Of Derision
+76.  Of Cursing
+77.  Of Cheating, Which Is Committed in Buying and Selling
+78.  Of the Sin of Usury
+79.  Of the Quasi-integral Parts of Justice
+80.  Of the Potential Parts of Justice
+81.  Of Religion
+82.  Of Devotion
+83.  Of Prayer
+84.  Of Adoration
+85.  Of Sacrifice
+86.  Of Oblations and First-fruits
+87.  Of Tithes
+88.  Of Vows
+89.  Of Oaths
+90.  Of the Taking of God's Name by Way of Adjuration
+91.  Of Taking the Divine Name for the Purpose of Invoking It by
+       Means of Praise
+92.  Of Superstition
+93.  Of Superstition Consisting in Undue Worship of the True God
+94.  Of Idolatry
+95.  Of Superstition in Divinations
+96.  Of Superstition in Observances
+97.  Of the Temptation of God
+98.  Of Perjury
+99.  Of Sacrilege
+100. On Simony
+101. False
+pretender, it is you who are suffering from an overdose of
+arrogant
+spirits. Your head
+will soon kiss the
+dust.
+
+"KING". Princes,
+these heavy
+jokes are not worthy of a king.
+
+KANCHI. Those who
+will jest
+properly with you are near at hand.
+General!
+
+"KING". No more, I
+entreat you. I can see plainly I owe homage to you all. The head
+     is bowing down
+of itself--there is
+no need for the application
+of any sharp
+methods to lay it low.
+
+So here I do my obeisance to you all.
+
+If you kindly allow
+me to escape I
+shall not
+inflict my presence
+long on you.
+
+KANCHI. Why should
+you escape? We will
+make you king of
+this place--let
+us carry our joke to
+its legitimate finish.
+Have you got any
+following?
+
+"KING". I have. Every one who sees me in
+the streets flocks after me.
+When I had a meagre retinue at
+first every one
+regarded me with suspicion, but now with
+the increasing crowd their doubts are waning
+and dissolving. The
+crowd is being
+hypnotised by its
+own magnitude.
+I have not got
+to do anything
+now.
+
+KANCHI. That's
+excellent!
+From this moment we all
+promise to help and
+stand by you. But you
+will have to do us one service
+in return.
+
+"KING". Your
+commands and the
+crown you are
+putting on my head will be
+equally binding and sacred to me.
+
+KANCHI. At present we
+want nothing more
+than a sight of the Queen Sudarshana. You will have to see to
+this.
+
+"KING". I shall spare no pains for that.
+
+KANCHI. We cannot put much faith
+on your pains--you will be solely directed by our instructions.
+But now you can go and join the
+festivities in
+the royal arbour with all
+possible splendour and magnificence.[They go out.]
+
+[Enter GRANDFATHER and a band of people]
+FIRST CITIZEN. Grandfather, I
+cannot help saying--yes,
+and repeating it five hundred times--that our King is a perfect
+fraud.
+
+GRANDFATHER. Why only five hundred times? There
+is no need to practise such heroic self-control--you can say it five
+thousand times if that adds to your pleasure.
+
+SECOND CITIZEN. But you cannot keep up a
+dead lie forever.
+
+GRANDFATHER. It has made me
+alive, my friend.
+
+THIRD CITIZEN. We shall proclaim to the whole
+world that our King is a lie, the merest and emptiest shadow!
+
+FIRST CITIZEN.
+
+We shall all shout from our housetops that we have no King--let him
+do whatever he likes if he exists.
+
+GRANDFATHER. He will do nothing at all.
+
+SECOND CITIZEN. My son died untimely at twenty-five of raging fever
+in seven days. Could such a calamity befall me under the rule of
+a virtuous King?
+GRANDFATHER. But you still have got two sons left: while I have
+lost all my five children one after another.
+THIRD CITIZEN. What do you say now?
+GRANDFATHER. What then? Shall I lose my King too because I have
+lost my children? Don't take me for such a big fool as that.
+FIRST CITIZEN. It is a fine thing to argue whether there is a King
+or not when one is simply starving for want of food! Will the King
+save us?
+GRANDFATHER. Brother, you are right. But why not <i>find</i>
+the King who owns all the food? You certainly will not find by your
+wailings at home.
+SECOND CITIZEN. Look at the justice of our King! That Bhadrasen--you
+know what a touching sight he is when he is speaking of his King--the
+sentimental idiot!About faith itself we shall consider: (1) its object; (2) its act;
+(3) the habit of faith.
+
+Under the first head there are ten points of inquiry:
+
+(1) Whether the object of faith is the First Truth?
+
+(2) Whether the object of faith is something complex or incomplex,
+i.e. whether it is a thing or a proposition?
+
+(3) Whether anything false can come under faith?
+
+(4) Whether the object of faith can be anything seen?
+
+(5) Whether it can be anything known?
+
+(6) Whether the things to be believed should be divided into a
+certain number of articles?
+
+(7) Whether the same articles are of faith for all times?
+
+(8) Of the number of articles;
+
+(9) Of the manner of embodying the articles in a symbol;
+
+(10) Who has the right to propose a symbol of faith?
+_______________________
+
+FIRST ARTICLE [II-II, Q. 1, Art. 1]
+
+Whether the Object of Faith Is the First Truth?
+
+Objection 1: It would seem that the object of faith is not the First
+Truth. For it seems that the object of faith is that which is
+proposed to us to be believed. Now not only things pertaining to the
+Godhead, i.e. the First Truth, are proposed to us to be believed, but
+also things concerning Christ's human nature, and the sacraments of
+the Church, and the condition of creatures. Therefore the object of
+faith is not only the First Truth.
+
+Obj. 2: Further, faith and unbelief have the same object since they
+are opposed to one another. Now unbelief can be about all things
+contained in Holy Writ, for whichever one of them a man denies, he is
+considered an unbeliever. Therefore faith also is about all things
+contained in Holy Writ. But there are many things therein, concerning
+man and other creatures. Therefore the object of faith is not only
+the First Truth, but also created truth.
+
+Obj. 3: Further, faith is condivided with charity, as stated above
+(I-II, Q. 62, A. 3). Now by charity we love not only God, who is the
+sovereign Good, but also our neighbor. Therefore the object of Faith
+is not only the First Truth.
+
+_On the contrary,_ Dionysius says (Div. Nom. vii) that "faith is
+about the simple and everlasting truth." Now this is the First Truth.
+Therefore the object of faith is the First Truth.
+
+_I answer that,_ The object of every cognitive habit includes two
+things: first, that which is known materially, and is the material
+object, so to speak, and, secondly, that whereby it is known, which is
+the formal aspect of the object. Thus in the science of geometry, the
+conclusions are what is known materially, while the formal aspect of
+the science is the mean of demonstration, through which the
+conclusions are known.
+
+Accordingly if we consider, in faith, the formal aspect of the
+object, it is nothing else than the First Truth. For the faith of
+which we are speaking, does not assent to anything, except because it
+is revealed by God. Hence the mean on which faith is based is the
+Divine Truth. If, however, we consider materially the things to which
+faith assents, they include not only God, but also many other things,
+which, nevertheless, do not come under the assent of faith, except as
+bearing some relation to God, in as much as, to wit, through certain
+effects of the Divine operation, man is helped on his journey towards
+the enjoyment of God. Consequently from this point of view also the
+object of faith is, in a way, the First Truth, in as much as nothing
+comes under faith except in relation to God, even as the object of
+the medical art is health, for it considers nothing save in relation
+to health.
+
+Reply Obj. 1: Things concerning Christ's human nature, and the
+sacraments of the Church, or any creatures whatever, come under
+faith, in so far as by them we are directed to God, and in as much
+as we assent to them on account of the Divine Truth.
+
+The same answer applies to the Second Objection, as regards all
+things contained in Holy Writ.
+
+Reply Obj. 3: Charity also loves our neighbor on account of God, so
+that its object, properly speaking, is God, as we shall show further
+on (Q. 25, A. 1).
+_______________________
+
+SECOND ARTICLE [II-II, Q. 1, Art. 2]
+
+Whether the Object of Faith Is Something Complex, by Way of a
+Proposition?
+
+Objection 1: It would seem that the object of faith is not something
+complex by way of a proposition. For the object of faith is the First
+Truth, as stated above (A. 1). Now the First Truth is something
+simple. Therefore the object of faith is not something complex.
+
+ROHINI. It is pure affectation, the whole of it: which often goes a
+longer way than open boasting. She is up to all manner of tricks:
+that is why we could never like her.
+
+SUDARSHANA.
+
+But whatever you may say, I should have liked to ask her if she were
+here.
+
+ROHINI. Very well, Queen. I shall bring her here. She must be lucky
+if she is indispensable for the Queen to know the King.
+SUDARSHANA. Oh no--it isn't for that--but I would like to hear it
+said by every one.
+
+ROHINI.But the object of the heavenly vision is something simple, for it is
+the Divine Essence. Therefore the faith of the wayfarer is also.
+
+_On the contrary,_ Faith is a mean between science and opinion. Now
+the mean is in the same genus as the extremes. Since, then, science
+and opinion are about propositions, it seems that faith is likewise
+about propositions; so that its object is something complex.
+
+_I answer that,_ The thing known is in the knower according to the
+mode of the knower. Now the mode proper to the human intellect is to
+know the truth by synthesis and analysis, as stated in the First Part
+(Q. 85, A. 5). Hence things that are simple in themselves, are known
+by the intellect with a certain amount of complexity, just as on the
+other hand, the Divine intellect knows, without any complexity,
+things that are complex in themselves.
+
