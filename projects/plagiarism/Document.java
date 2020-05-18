@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.util.Arrays;
 
 /**
  * @author Jonathan Limpus 
@@ -43,27 +44,43 @@ public class Document implements Comparable<Document> {
     }
 
     /**
-     * fileToString - take an input file and convert it to a single string
+     * fileToString - take an input file and convert it to a single string 
      * @param file
      * @return The input file as a single string
      * @throws IOException
      */
     public static String fileToString(File file) throws IOException {
-        return new String(Files.readAllBytes(file.toPath())).strip();
+        return new String(Files.readAllBytes(file.toPath()));
     }
 
-    public String[] parseWords() throws IOException {
-        return internalString.split(" ");
+    /**
+     * parseWords - return an array of strings separated by the given range, inputted by the user at runtime
+     * @return
+     * @throws IOException
+     */
+    public String[] parseWords(int range) throws IOException {
+        String strings[] = internalString.split(" -/.,:;()_+");   // Get rid of common symbols
+        String parsedString[] = new String[internalString.length() /range];/* [internalString.length() /range];
+        String parsedString[] = new String[internalString.length() / range]; */
+        for (int i = 0; i < strings.length; i+=range) {
+            parsedString[i] = Arrays.copyOfRange(strings, i, i + range).toString().replaceAll(" ,", "");
+        }
+        
+        // for (int i = 0; i < parsedString.length; i++){
+        //     parsedString[i] = parsedString[i].toString().replaceAll(" ,", "");
+        // }
+
+        return parsedString;
     }
 
-    public int compare(Document doc1, Document doc2) {
+/*     public int compare(Document doc1, Document doc2) {
         if (doc1.hits < doc2.hits)
             return -1;
         else if (doc1.hits == doc2.hits)
             return 0;
         else 
             return 1;
-    }
+    } */
 
     public void print() {
         System.out.println("Name: " + fileName);

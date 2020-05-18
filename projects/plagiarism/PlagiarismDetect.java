@@ -3,14 +3,14 @@
  */
 
 //import java.util.TreeMap;
-import java.util.Scanner;
+// import java.util.Scanner;
 import java.util.LinkedList;
-import java.util.Arrays;
+// import java.util.Arrays;
 import java.util.Collections;
 import java.io.File;
 // import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.nio.file.Files;
+// import java.nio.file.Files;
 public class PlagiarismDetect {
     //static RedBlack<Integer, String> treeMap = new RedBlack<>();
     static RedBlack fileMap = new RedBlack();
@@ -19,10 +19,7 @@ public class PlagiarismDetect {
     
 
     public static void main(String args[]) {
-        // TODO this needs to be updated for the other args
-        // i.e 
         if (args.length < 2 ) {
-        //if (args.length == 0) {
             System.out.println("Please specify a directory, number of n-word sequences, and number of sequences");
             return;
         }
@@ -51,27 +48,37 @@ public class PlagiarismDetect {
             e.printStackTrace();
         }
         LinkedList<String> hits = new LinkedList<>();
-        int j = 0;
-        int check = 0;
+        //int j = 0;
+        //int check = 0;
         System.out.println("Comparing...");
-        // try {
+        //try {
             
-      
-            for(Document s : documents) {
-                String temp = s.getString().substring(j, j + nGrams);
-                //String temp[] = s.parseWords();
+            
+            // String key = new String();
+            for (int j = 0; j < documents.size(); j+= nGrams) {
+            //for(Document documents.get(j) : documents) {
+                // StringBuilder sb = new StringBuilder(documents.get(j).getString().length());
+                String temp = documents.getFirst().getString().substring(j, j + nGrams);
+                //String temp[] = documents.get(j).parseWords(nGrams);
+                //System.out.println("temp[].length " + temp.length + "\n" + documents.get(j).getString().length());    //TODO
+                // for (String t : temp) {
+                //     sb.append(t);
+                //     key = sb.toString();
+                //     System.out.println(key);    //TODO
+                // }
                 for(int i = 0; i < documents.size(); i++) {
                     if(documents.get(i).getString().contains(temp)) {
-                        s.hit();
+                        documents.getFirst().hit();
                     }
                     
                 }
-                if(s.getHits() >= numberOfSequences) {     
-                    s.isSuspect();
-                    suspectDocs.add(s);
+                if(documents.getFirst().getHits() >= numberOfSequences) {     
+                    documents.getFirst().isSuspect();
+                    suspectDocs.add(documents.getFirst());
                 }
-                j++;
-                temp = null;
+                //j++;
+                //temp = null;
+                documents.removeFirst();
             }
         // } catch (IOException e) {
         //     e.printStackTrace();
@@ -91,10 +98,10 @@ public class PlagiarismDetect {
         else {
             System.out.println(suspectDocs.size() + " suspicious documents found with " + numberOfSequences + 
             " or more " + nGrams + "-word combinations. See: ");
-            for(Document d : suspectDocs) {
-                System.out.println(d.getHits() + " Hits: " + d.getFileName());
-                System.out.println(hits.toString());
-            }
+            // for(Document d : suspectDocs) {
+            //     System.out.println(d.getHits() + " Hits: " + d.getFileName());
+            //     System.out.println(hits.toString());
+            // }
         }
 
 /*         for(int i = 0; i < fileMap.size(); i++) {
@@ -109,7 +116,7 @@ public class PlagiarismDetect {
         System.out.println("It took " + elapsedSeconds + 
             " seconds to read and compare " + listOfFiles.length + " files.");
         System.out.println("At an average rate of " + (tDelta /(long) listOfFiles.length) + "ms per file");
-        System.out.println("Sus files" + suspectDocs.size());
+        System.out.println("Sus files " + suspectDocs.size());
         
     }
 
