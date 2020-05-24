@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringEncode<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "Labs.Lab2.StringEncode",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PolygonLab<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "Labs.lab3.PolygonLab",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListOperations<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "Labs.lab5.LinkedListOperations",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlgorithmAnalysis<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "Labs.lab6.AlgorithmAnalysis",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArraysTest<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "LectureNotes.src.ArraysTest",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Example_1<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "LectureNotes.src.Example_1",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Example_2<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "LectureNotes.src.Example_2",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ObjectInstantiation<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "LectureNotes.src.ObjectInstantiation",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arithmetic<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "projects.calculator.Arithmetic",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CalculatorInterface<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "projects.calculator.CalculatorInterface",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "projects.calculator.Test",
+            "projectName": "CSCI-230_91cdff40"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Postfix<CSCI-230_91cdff40>",
+            "request": "launch",
+            "mainClass": "psets.Postfix",
+            "projectName": "CSCI-230_91cdff40"
+        }
+    ]
+}
